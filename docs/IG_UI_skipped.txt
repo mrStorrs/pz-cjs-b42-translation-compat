@@ -1,0 +1,2 @@
+MiniHealthPanel:42/media/lua/shared/Translate/EN/IG_UI_EN.txt:2: IGUI_MiniHealth_UpdateNotes = "<CENTRE> <SIZE:medium> Mini Health Panel update 1.6 (B42 only) <LINE> <LEFT> <SIZE:small> - Added a muscle strain indicator for each body part. <LINE>   - - Transparency and color changes as strain worsens. <LINE> - - Parts briefly blink and the silhouette become visible when a strain threshold is reached. <LINE> - - Can be disabled in settings. <LINE> - Minor rendering optimizations.
+tsarslib:common/media/lua/shared/Translate/EN/IG_UI_EN.txt:382: IGUI_Wind_W = "west",dwds
