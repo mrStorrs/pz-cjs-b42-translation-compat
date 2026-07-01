@@ -1,0 +1,360 @@
+Moodles_Angry_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:120
+Moodles_Angry_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:121
+Moodles_Angry_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:122
+Moodles_Angry_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:123
+Moodles_Angry_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:14
+Moodles_Angry_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:15
+Moodles_Angry_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:16
+Moodles_Angry_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:17
+Moodles_Bleeding_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:165
+Moodles_Bleeding_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:166
+Moodles_Bleeding_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:167
+Moodles_Bleeding_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:168
+Moodles_Bleeding_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:59
+Moodles_Bleeding_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:60
+Moodles_Bleeding_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:61
+Moodles_Bleeding_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:62
+Moodles_BloodlustMoodle_Bad_lvl1: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:9; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:9
+Moodles_BloodlustMoodle_Bad_lvl2: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:10; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:10
+Moodles_BloodlustMoodle_Bad_lvl3: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:11; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:11
+Moodles_BloodlustMoodle_Bad_lvl4: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:12; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:12
+Moodles_BloodlustMoodle_Custom: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:13; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:13
+Moodles_BloodlustMoodle_Good_lvl1: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:8; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:8
+Moodles_BloodlustMoodle_Good_lvl2: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:7; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:7
+Moodles_BloodlustMoodle_Good_lvl3: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:6; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:6
+Moodles_BloodlustMoodle_Good_lvl4: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:5; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:5
+Moodles_BodyGrime_Bad_desc_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:63
+Moodles_BodyGrime_Bad_desc_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:65
+Moodles_BodyGrime_Bad_desc_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:67
+Moodles_BodyGrime_Bad_desc_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:69
+Moodles_BodyGrime_Bad_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:62
+Moodles_BodyGrime_Bad_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:64
+Moodles_BodyGrime_Bad_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:66
+Moodles_BodyGrime_Bad_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:68
+Moodles_BodyGrime_Good_desc_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:55
+Moodles_BodyGrime_Good_desc_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:57
+Moodles_BodyGrime_Good_desc_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:59
+Moodles_BodyGrime_Good_desc_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:61
+Moodles_BodyGrime_Good_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:54
+Moodles_BodyGrime_Good_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:56
+Moodles_BodyGrime_Good_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:58
+Moodles_BodyGrime_Good_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:60
+Moodles_Bored_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:155
+Moodles_Bored_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:156
+Moodles_Bored_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:157
+Moodles_Bored_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:158
+Moodles_Bored_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:49
+Moodles_Bored_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:50
+Moodles_Bored_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:51
+Moodles_Bored_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:52
+Moodles_CantSprint_desc: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:225
+Moodles_CantSprint_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:224
+Moodles_ClothingHole_Bad_lvl2: AutoTailoring:common/media/lua/shared/Translate/EN/Moodles_EN.txt:3
+Moodles_ClothingHole_Custom: AutoTailoring:common/media/lua/shared/Translate/EN/Moodles_EN.txt:4
+Moodles_ClothingHole_Good_lvl2: AutoTailoring:common/media/lua/shared/Translate/EN/Moodles_EN.txt:2
+Moodles_CoolingBody_Bad_desc_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:29
+Moodles_CoolingBody_Bad_desc_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:31
+Moodles_CoolingBody_Bad_desc_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:33
+Moodles_CoolingBody_Bad_desc_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:35
+Moodles_CoolingBody_Bad_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:28
+Moodles_CoolingBody_Bad_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:30
+Moodles_CoolingBody_Bad_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:32
+Moodles_CoolingBody_Bad_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:34
+Moodles_CoolingBody_Good_desc_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:21
+Moodles_CoolingBody_Good_desc_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:23
+Moodles_CoolingBody_Good_desc_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:25
+Moodles_CoolingBody_Good_desc_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:27
+Moodles_CoolingBody_Good_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:20
+Moodles_CoolingBody_Good_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:22
+Moodles_CoolingBody_Good_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:24
+Moodles_CoolingBody_Good_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:26
+Moodles_Dead_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:200
+Moodles_Dead_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:89
+Moodles_Drunk_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:195
+Moodles_Drunk_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:196
+Moodles_Drunk_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:197
+Moodles_Drunk_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:198
+Moodles_Drunk_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:84
+Moodles_Drunk_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:85
+Moodles_Drunk_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:86
+Moodles_Drunk_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:87
+Moodles_Endurance_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:115
+Moodles_Endurance_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:116
+Moodles_Endurance_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:117
+Moodles_Endurance_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:118
+Moodles_Endurance_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:4
+Moodles_Endurance_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:5
+Moodles_Endurance_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:6
+Moodles_Endurance_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:7
+Moodles_FoodEaten_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:204
+Moodles_FoodEaten_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:205
+Moodles_FoodEaten_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:206
+Moodles_FoodEaten_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:207
+Moodles_FoodEaten_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:93
+Moodles_FoodEaten_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:94
+Moodles_FoodEaten_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:95
+Moodles_FoodEaten_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:96
+Moodles_HasACold_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:175
+Moodles_HasACold_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:176
+Moodles_HasACold_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:177
+Moodles_HasACold_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:178
+Moodles_HasACold_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:69
+Moodles_HasACold_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:70
+Moodles_HasACold_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:71
+Moodles_HasACold_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:72
+Moodles_HeavyLoad_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:190
+Moodles_HeavyLoad_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:191
+Moodles_HeavyLoad_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:192
+Moodles_HeavyLoad_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:193
+Moodles_HeavyLoad_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:9
+Moodles_HeavyLoad_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:10
+Moodles_HeavyLoad_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:11
+Moodles_HeavyLoad_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:12
+Moodles_Hungry_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:140
+Moodles_Hungry_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:141
+Moodles_Hungry_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:142
+Moodles_Hungry_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:143
+Moodles_Hungry_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:34
+Moodles_Hungry_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:35
+Moodles_Hungry_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:36
+Moodles_Hungry_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:37
+Moodles_Hyperthermia_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:209
+Moodles_Hyperthermia_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:210
+Moodles_Hyperthermia_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:211
+Moodles_Hyperthermia_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:212
+Moodles_Hyperthermia_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:98
+Moodles_Hyperthermia_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:99
+Moodles_Hyperthermia_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:100
+Moodles_Hyperthermia_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:101
+Moodles_Hypothermia_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:214
+Moodles_Hypothermia_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:215
+Moodles_Hypothermia_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:216
+Moodles_Hypothermia_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:217
+Moodles_Hypothermia_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:103
+Moodles_Hypothermia_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:104
+Moodles_Hypothermia_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:105
+Moodles_Hypothermia_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:106
+Moodles_Injured_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:180
+Moodles_Injured_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:181
+Moodles_Injured_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:182
+Moodles_Injured_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:183
+Moodles_Injured_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:74
+Moodles_Injured_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:75
+Moodles_Injured_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:76
+Moodles_Injured_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:77
+Moodles_Light_Bad_desc_lvl1: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:11
+Moodles_Light_Bad_desc_lvl2: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:13
+Moodles_Light_Bad_desc_lvl3: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:15
+Moodles_Light_Bad_desc_lvl4: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:17
+Moodles_Light_Bad_lvl1: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:10
+Moodles_Light_Bad_lvl2: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:12
+Moodles_Light_Bad_lvl3: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:14
+Moodles_Light_Bad_lvl4: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:16
+Moodles_Light_Good_desc_lvl1: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:3
+Moodles_Light_Good_desc_lvl2: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:5
+Moodles_Light_Good_desc_lvl3: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:7
+Moodles_Light_Good_desc_lvl4: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:9
+Moodles_Light_Good_lvl1: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:2
+Moodles_Light_Good_lvl2: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:4
+Moodles_Light_Good_lvl3: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:6
+Moodles_Light_Good_lvl4: Improved Stealth v2:media/lua/shared/Translate/EN/Moodles_EN.txt:8
+Moodles_MTAlcoholism_Bad_desc_lvl1: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:11; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:11; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:11; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:11; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:11
+Moodles_MTAlcoholism_Bad_desc_lvl2: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:13; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:13; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:13; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:13; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:13
+Moodles_MTAlcoholism_Bad_desc_lvl3: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:15; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:15; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:15; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:15; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:15
+Moodles_MTAlcoholism_Bad_desc_lvl4: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:17; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:17; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:17; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:17; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:17
+Moodles_MTAlcoholism_Bad_lvl1: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:10; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:10; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:10; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:10; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:10
+Moodles_MTAlcoholism_Bad_lvl2: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:12; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:12; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:12; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:12; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:12
+Moodles_MTAlcoholism_Bad_lvl3: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:14; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:14; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:14; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:14; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:14
+Moodles_MTAlcoholism_Bad_lvl4: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:16; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:16; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:16; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:16; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:16
+Moodles_MTAlcoholism_Good_desc_lvl1: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:3; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:3; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:3; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:3; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:3
+Moodles_MTAlcoholism_Good_desc_lvl2: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:5; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:5; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:5; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:5; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:5
+Moodles_MTAlcoholism_Good_desc_lvl3: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:7; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:7; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:7; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:7; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:7
+Moodles_MTAlcoholism_Good_desc_lvl4: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:9; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:9; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:9; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:9; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:9
+Moodles_MTAlcoholism_Good_lvl1: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:2; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:2; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:2; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:2; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:2
+Moodles_MTAlcoholism_Good_lvl2: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:4; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:4; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:4; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:4; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:4
+Moodles_MTAlcoholism_Good_lvl3: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:6; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:6; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:6; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:6; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:6
+Moodles_MTAlcoholism_Good_lvl4: more traits:media/lua/shared/Translate/EN/Moodles_EN.txt:8; more traits:42/media/lua/shared/Translate/EN/Moodles_EN.txt:8; more traits:42.13/media/lua/shared/Translate/EN/Moodles_EN.txt:8; more traits:42.15/media/lua/shared/Translate/EN/Moodles_EN.txt:8; more traits:42.17/media/lua/shared/Translate/EN/Moodles_EN.txt:8
+Moodles_NnCBenzo_Good_desc_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:4
+Moodles_NnCBenzo_Good_desc_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:6
+Moodles_NnCBenzo_Good_desc_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:8
+Moodles_NnCBenzo_Good_desc_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:10
+Moodles_NnCBenzo_Good_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:3
+Moodles_NnCBenzo_Good_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:5
+Moodles_NnCBenzo_Good_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:7
+Moodles_NnCBenzo_Good_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:9
+Moodles_NnCCocaine_Good_desc_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:13
+Moodles_NnCCocaine_Good_desc_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:15
+Moodles_NnCCocaine_Good_desc_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:17
+Moodles_NnCCocaine_Good_desc_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:19
+Moodles_NnCCocaine_Good_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:12
+Moodles_NnCCocaine_Good_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:14
+Moodles_NnCCocaine_Good_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:16
+Moodles_NnCCocaine_Good_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:18
+Moodles_NnCHangover_Bad_desc_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:58
+Moodles_NnCHangover_Bad_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:57
+Moodles_NnCMDMA_Good_desc_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:31
+Moodles_NnCMDMA_Good_desc_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:33
+Moodles_NnCMDMA_Good_desc_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:35
+Moodles_NnCMDMA_Good_desc_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:37
+Moodles_NnCMDMA_Good_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:30
+Moodles_NnCMDMA_Good_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:32
+Moodles_NnCMDMA_Good_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:34
+Moodles_NnCMDMA_Good_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:36
+Moodles_NnCMeth_Good_desc_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:22
+Moodles_NnCMeth_Good_desc_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:24
+Moodles_NnCMeth_Good_desc_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:26
+Moodles_NnCMeth_Good_desc_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:28
+Moodles_NnCMeth_Good_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:21
+Moodles_NnCMeth_Good_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:23
+Moodles_NnCMeth_Good_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:25
+Moodles_NnCMeth_Good_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:27
+Moodles_NnCOpioid_Good_desc_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:40
+Moodles_NnCOpioid_Good_desc_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:42
+Moodles_NnCOpioid_Good_desc_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:44
+Moodles_NnCOpioid_Good_desc_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:46
+Moodles_NnCOpioid_Good_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:39
+Moodles_NnCOpioid_Good_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:41
+Moodles_NnCOpioid_Good_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:43
+Moodles_NnCOpioid_Good_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:45
+Moodles_NnCOverdose_Bad_desc_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:60
+Moodles_NnCOverdose_Bad_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:59
+Moodles_NnCWeed_Good_desc_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:49
+Moodles_NnCWeed_Good_desc_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:51
+Moodles_NnCWeed_Good_desc_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:53
+Moodles_NnCWeed_Good_desc_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:55
+Moodles_NnCWeed_Good_lvl1: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:48
+Moodles_NnCWeed_Good_lvl2: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:50
+Moodles_NnCWeed_Good_lvl3: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:52
+Moodles_NnCWeed_Good_lvl4: n&c's narcotics:42/media/lua/shared/Translate/EN/Moodles_EN.txt:54
+Moodles_NoxiousSmell_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:240
+Moodles_NoxiousSmell_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:241
+Moodles_NoxiousSmell_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:242
+Moodles_NoxiousSmell_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:243
+Moodles_NoxiousSmell_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:236
+Moodles_NoxiousSmell_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:237
+Moodles_NoxiousSmell_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:238
+Moodles_NoxiousSmell_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:239
+Moodles_Pain_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:185
+Moodles_Pain_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:186
+Moodles_Pain_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:187
+Moodles_Pain_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:188
+Moodles_Pain_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:79
+Moodles_Pain_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:80
+Moodles_Pain_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:81
+Moodles_Pain_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:82
+Moodles_Panic_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:145
+Moodles_Panic_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:146
+Moodles_Panic_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:147
+Moodles_Panic_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:148
+Moodles_Panic_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:39
+Moodles_Panic_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:40
+Moodles_Panic_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:41
+Moodles_Panic_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:42
+Moodles_Sick_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:150
+Moodles_Sick_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:151
+Moodles_Sick_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:152
+Moodles_Sick_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:153
+Moodles_Sick_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:44
+Moodles_Sick_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:45
+Moodles_Sick_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:46
+Moodles_Sick_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:47
+Moodles_SleepHealthMoodle_Bad_lvl1: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:19; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:19
+Moodles_SleepHealthMoodle_Bad_lvl2: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:20; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:20
+Moodles_SleepHealthMoodle_Bad_lvl3: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:21; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:21
+Moodles_SleepHealthMoodle_Bad_lvl4: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:22; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:22
+Moodles_SleepHealthMoodle_Custom: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:23; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:23
+Moodles_SleepHealthMoodle_Good_lvl1: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:18; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:18
+Moodles_SleepHealthMoodle_Good_lvl2: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:17; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:17
+Moodles_SleepHealthMoodle_Good_lvl3: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:16; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:16
+Moodles_SleepHealthMoodle_Good_lvl4: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:15; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:15
+Moodles_Stress_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:125
+Moodles_Stress_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:126
+Moodles_Stress_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:127
+Moodles_Stress_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:128
+Moodles_Stress_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:19
+Moodles_Stress_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:20
+Moodles_Stress_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:21
+Moodles_Stress_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:22
+Moodles_Thirst_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:130
+Moodles_Thirst_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:131
+Moodles_Thirst_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:132
+Moodles_Thirst_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:133
+Moodles_Thirst_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:24
+Moodles_Thirst_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:25
+Moodles_Thirst_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:26
+Moodles_Thirst_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:27
+Moodles_Tired_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:135
+Moodles_Tired_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:136
+Moodles_Tired_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:137
+Moodles_Tired_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:138
+Moodles_Tired_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:29
+Moodles_Tired_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:30
+Moodles_Tired_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:31
+Moodles_Tired_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:32
+Moodles_Uncomfortable_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:231
+Moodles_Uncomfortable_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:232
+Moodles_Uncomfortable_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:233
+Moodles_Uncomfortable_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:234
+Moodles_Uncomfortable_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:227
+Moodles_Uncomfortable_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:228
+Moodles_Uncomfortable_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:229
+Moodles_Uncomfortable_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:230
+Moodles_Unhappy_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:160
+Moodles_Unhappy_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:161
+Moodles_Unhappy_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:162
+Moodles_Unhappy_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:163
+Moodles_Unhappy_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:54
+Moodles_Unhappy_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:55
+Moodles_Unhappy_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:56
+Moodles_Unhappy_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:57
+Moodles_WarmingBody_Bad_desc_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:46
+Moodles_WarmingBody_Bad_desc_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:48
+Moodles_WarmingBody_Bad_desc_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:50
+Moodles_WarmingBody_Bad_desc_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:52
+Moodles_WarmingBody_Bad_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:45
+Moodles_WarmingBody_Bad_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:47
+Moodles_WarmingBody_Bad_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:49
+Moodles_WarmingBody_Bad_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:51
+Moodles_WarmingBody_Good_desc_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:38
+Moodles_WarmingBody_Good_desc_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:40
+Moodles_WarmingBody_Good_desc_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:42
+Moodles_WarmingBody_Good_desc_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:44
+Moodles_WarmingBody_Good_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:37
+Moodles_WarmingBody_Good_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:39
+Moodles_WarmingBody_Good_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:41
+Moodles_WarmingBody_Good_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:43
+Moodles_Wet_Bathing_Bad_desc_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:12
+Moodles_Wet_Bathing_Bad_desc_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:14
+Moodles_Wet_Bathing_Bad_desc_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:16
+Moodles_Wet_Bathing_Bad_desc_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:18
+Moodles_Wet_Bathing_Bad_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:11
+Moodles_Wet_Bathing_Bad_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:13
+Moodles_Wet_Bathing_Bad_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:15
+Moodles_Wet_Bathing_Bad_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:17
+Moodles_Wet_Bathing_Good_desc_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:4
+Moodles_Wet_Bathing_Good_desc_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:6
+Moodles_Wet_Bathing_Good_desc_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:8
+Moodles_Wet_Bathing_Good_desc_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:10
+Moodles_Wet_Bathing_Good_lvl1: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:3
+Moodles_Wet_Bathing_Good_lvl2: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:5
+Moodles_Wet_Bathing_Good_lvl3: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:7
+Moodles_Wet_Bathing_Good_lvl4: take a bath and shower:common/media/lua/shared/Translate/EN/Moodles_EN.txt:9
+Moodles_Wet_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:170
+Moodles_Wet_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:171
+Moodles_Wet_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:172
+Moodles_Wet_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:173
+Moodles_Wet_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:64
+Moodles_Wet_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:65
+Moodles_Wet_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:66
+Moodles_Wet_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:67
+Moodles_Windchill_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:219
+Moodles_Windchill_desc_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:220
+Moodles_Windchill_desc_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:221
+Moodles_Windchill_desc_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:222
+Moodles_Windchill_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:108
+Moodles_Windchill_lvl2: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:109
+Moodles_Windchill_lvl3: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:110
+Moodles_Windchill_lvl4: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:111
+Moodles_Zombie_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:91
+Moodles_zombified_desc_lvl1: [B42] Moodle Descriptions Expanded:42/media/lua/shared/Translate/EN/Moodles_EN.txt:202
+___note_to_translators: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:2; cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Moodles_EN.txt:3; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:2; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Moodles_EN.txt:3

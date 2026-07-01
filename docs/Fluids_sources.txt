@@ -1,0 +1,138 @@
+Fluid_Container_AquaBottle: authentic z - current:media/lua/shared/Translate/EN/Fluids_EN.txt:4; authentic z - current:42/media/lua/shared/Translate/EN/Fluids_EN.txt:4
+Fluid_Container_AuthenticCanteen: authentic z - current:media/lua/shared/Translate/EN/Fluids_EN.txt:3; authentic z - current:42/media/lua/shared/Translate/EN/Fluids_EN.txt:3
+Fluid_Container_GymBottle: authentic z - current:media/lua/shared/Translate/EN/Fluids_EN.txt:5; authentic z - current:42/media/lua/shared/Translate/EN/Fluids_EN.txt:5
+Fluid_Container_HoneyExtractor: shelterhold_beehive:common/media/lua/shared/Translate/EN/Fluids_EN.txt:2
+Fluid_Container_LegendaryBackpack: legendarybackpack:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:2; legendarybackpack:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:2
+Fluid_Container_MilitaryGasCan: damnlib:42.0/media/lua/shared/Translate/EN/Fluids_EN.txt:2; damnlib:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:2
+Fluid_Container_MilitaryWaterCan: damnlib:42.0/media/lua/shared/Translate/EN/Fluids_EN.txt:3; damnlib:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:3
+Fluid_Container_MilkshakeGlass: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:74; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:152; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:74; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:152
+Fluid_Container_PlasticPitcher: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:70; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:148; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:70; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:148
+Fluid_Container_ProteinShaker: cjsproteinshake:common/media/lua/shared/Translate/EN/Fluids_EN.txt:5; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:73; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:151; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:73; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:151
+Fluid_Container_SmallCanTin: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:69; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:147; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:69; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:147
+Fluid_Container_SmallCarton: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:77; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:155; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:77; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:155
+Fluid_Container_TubFluidContainer: take a bath and shower:common/media/lua/shared/Translate/EN/Fluids_EN.txt:3
+Fluid_Container_VFX_CoffeeCreamerBottle: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:75; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:153; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:75; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:153
+Fluid_Container_VFX_IcedTeaBottle: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:72; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:150; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:72; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:150
+Fluid_Container_VFX_MilkBottle: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:76; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:154; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:76; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:154
+Fluid_Container_VFX_SportsDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:71; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:149; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:71; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:149
+Fluid_Name_AmberAle: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:142; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:142
+Fluid_Name_AmericanLager: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:138; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:138
+Fluid_Name_AmericanLightLager: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:137; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:137
+Fluid_Name_AmericanWheatBeer: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:145; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:145
+Fluid_Name_BananaMilk: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:122; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:122
+Fluid_Name_BananaProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:127; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:127
+Fluid_Name_CabernetSauvignon: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:129; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:129
+Fluid_Name_Chardonnay: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:132; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:132
+Fluid_Name_CherryCola: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:85; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:85
+Fluid_Name_CherryDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:109; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:109
+Fluid_Name_ChocolateMilk: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:120; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:120
+Fluid_Name_ChocolateProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:125; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:125
+Fluid_Name_CoffeeCreamerAlmond: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:117; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:117
+Fluid_Name_CoffeeCreamerFrenchVanilla: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:114; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:114
+Fluid_Name_CoffeeCreamerHazelnut: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:115; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:115
+Fluid_Name_CoffeeCreamerIrishCream: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:116; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:116
+Fluid_Name_CoffeeCreamerOriginal: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:113; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:113
+Fluid_Name_CreamSoda: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:80; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:80
+Fluid_Name_FruitPunchDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:111; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:111
+Fluid_Name_GrapeDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:110; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:110
+Fluid_Name_GrapefruitJuice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:96; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:96
+Fluid_Name_GreenTea: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:103; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:103
+Fluid_Name_JuicedFruits: longtermpreservationextended:common/media/lua/shared/Translate/EN/Fluids_EN.txt:2
+Fluid_Name_LemonLimeSoda: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:82; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:82
+Fluid_Name_LemonSoda: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:81; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:81
+Fluid_Name_LemonTea: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:102; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:102
+Fluid_Name_LemonadeDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:107; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:107
+Fluid_Name_Merlot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:130; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:130
+Fluid_Name_OrangeSoda: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:83; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:83
+Fluid_Name_PaleAle: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:141; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:141
+Fluid_Name_PeachTea: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:104; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:104
+Fluid_Name_Pilsner: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:139; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:139
+Fluid_Name_PineappleJuice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:97; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:97
+Fluid_Name_PinkLemonadeDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:108; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:108
+Fluid_Name_PinotGris: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:134; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:134
+Fluid_Name_PinotNoir: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:131; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:131
+Fluid_Name_Porter: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:143; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:143
+Fluid_Name_ProteinShakeGSIsolate: cjsproteinshake:common/media/lua/shared/Translate/EN/Fluids_EN.txt:3
+Fluid_Name_ProteinShakeGSWhey: cjsproteinshake:common/media/lua/shared/Translate/EN/Fluids_EN.txt:2
+Fluid_Name_ProteinShakeSMass: cjsproteinshake:common/media/lua/shared/Translate/EN/Fluids_EN.txt:4
+Fluid_Name_PruneJuice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:99; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:99
+Fluid_Name_RaspberryTea: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:105; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:105
+Fluid_Name_RawHoney: shelterhold_beehive:common/media/lua/shared/Translate/EN/Fluids_EN.txt:3
+Fluid_Name_Riesling: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:135; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:135
+Fluid_Name_RootBeer: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:86; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:86
+Fluid_Name_SauvignonBlanc: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:133; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:133
+Fluid_Name_SoyMilk: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:119; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:119
+Fluid_Name_SportsBerryBlast: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:88; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:88
+Fluid_Name_SportsFruitPunch: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:89; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:89
+Fluid_Name_SportsGrape: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:90; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:90
+Fluid_Name_SportsLemonLime: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:91; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:91
+Fluid_Name_SportsMelon: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:93; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:93
+Fluid_Name_SportsOrange: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:92; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:92
+Fluid_Name_SportsWhiteCherry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:94; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:94
+Fluid_Name_Stout: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:144; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:144
+Fluid_Name_StrawberryMilk: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:121; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:121
+Fluid_Name_StrawberryProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:126; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:126
+Fluid_Name_SweetTea: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:101; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:101
+Fluid_Name_TropicalJuice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:98; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:98
+Fluid_Name_TubWater: take a bath and shower:common/media/lua/shared/Translate/EN/Fluids_EN.txt:5
+Fluid_Name_VFX_AmberAle: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:64; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:64
+Fluid_Name_VFX_AmericanLager: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:60; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:60
+Fluid_Name_VFX_AmericanLightLager: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:59; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:59
+Fluid_Name_VFX_AmericanWheatBeer: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:67; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:67
+Fluid_Name_VFX_BananaMilk: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:44; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:44
+Fluid_Name_VFX_BananaProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:49; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:49
+Fluid_Name_VFX_CabernetSauvignon: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:51; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:51
+Fluid_Name_VFX_Chardonnay: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:54; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:54
+Fluid_Name_VFX_CherryCola: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:7; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:7
+Fluid_Name_VFX_CherryDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:31; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:31
+Fluid_Name_VFX_ChocolateMilk: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:42; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:42
+Fluid_Name_VFX_ChocolateProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:47; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:47
+Fluid_Name_VFX_CoffeeCreamerAlmond: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:39; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:39
+Fluid_Name_VFX_CoffeeCreamerFrenchVanilla: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:36; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:36
+Fluid_Name_VFX_CoffeeCreamerHazelnut: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:37; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:37
+Fluid_Name_VFX_CoffeeCreamerIrishCream: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:38; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:38
+Fluid_Name_VFX_CoffeeCreamerOriginal: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:35; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:35
+Fluid_Name_VFX_CreamSoda: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:2; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:2
+Fluid_Name_VFX_FruitPunchDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:33; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:33
+Fluid_Name_VFX_GrapeDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:32; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:32
+Fluid_Name_VFX_GrapefruitJuice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:18; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:18
+Fluid_Name_VFX_GreenTea: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:25; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:25
+Fluid_Name_VFX_LemonLimeSoda: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:4; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:4
+Fluid_Name_VFX_LemonSoda: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:3; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:3
+Fluid_Name_VFX_LemonTea: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:24; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:24
+Fluid_Name_VFX_LemonadeDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:29; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:29
+Fluid_Name_VFX_Merlot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:52; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:52
+Fluid_Name_VFX_OrangeSoda: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:5; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:5
+Fluid_Name_VFX_PaleAle: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:63; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:63
+Fluid_Name_VFX_PeachTea: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:26; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:26
+Fluid_Name_VFX_Pilsner: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:61; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:61
+Fluid_Name_VFX_PineappleJuice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:19; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:19
+Fluid_Name_VFX_PinkLemonadeDrink: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:30; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:30
+Fluid_Name_VFX_PinotGris: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:56; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:56
+Fluid_Name_VFX_PinotNoir: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:53; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:53
+Fluid_Name_VFX_Porter: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:65; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:65
+Fluid_Name_VFX_PruneJuice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:21; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:21
+Fluid_Name_VFX_RaspberryTea: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:27; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:27
+Fluid_Name_VFX_Riesling: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:57; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:57
+Fluid_Name_VFX_RootBeer: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:8; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:8
+Fluid_Name_VFX_SauvignonBlanc: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:55; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:55
+Fluid_Name_VFX_SoyMilk: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:41; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:41
+Fluid_Name_VFX_SportsBerryBlast: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:10; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:10
+Fluid_Name_VFX_SportsFruitPunch: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:11; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:11
+Fluid_Name_VFX_SportsGrape: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:12; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:12
+Fluid_Name_VFX_SportsLemonLime: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:13; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:13
+Fluid_Name_VFX_SportsMelon: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:15; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:15
+Fluid_Name_VFX_SportsOrange: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:14; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:14
+Fluid_Name_VFX_SportsWhiteCherry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:16; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:16
+Fluid_Name_VFX_Stout: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:66; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:66
+Fluid_Name_VFX_StrawberryMilk: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:43; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:43
+Fluid_Name_VFX_StrawberryProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:48; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:48
+Fluid_Name_VFX_SweetTea: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:23; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:23
+Fluid_Name_VFX_TropicalJuice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:20; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:20
+Fluid_Name_VFX_VanillaCola: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:6; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:6
+Fluid_Name_VFX_VanillaProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:46; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:46
+Fluid_Name_VFX_ViennaLager: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:62; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:62
+Fluid_Name_VanillaCola: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:84; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:84
+Fluid_Name_VanillaProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:124; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:124
+Fluid_Name_ViennaLager: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Fluids_EN.txt:140; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Fluids_EN.txt:140
+Fluid_Name_WaterWithBathSalt: take a bath and shower:common/media/lua/shared/Translate/EN/Fluids_EN.txt:6

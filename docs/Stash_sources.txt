@@ -1,0 +1,7 @@
+Stash_DWAP_09_text1: dwap:42/media/lua/shared/Translate/EN/Stash_EN.txt:2
+Stash_DWAP_10_text1: dwap:42/media/lua/shared/Translate/EN/Stash_EN.txt:3
+Stash_DWAP_12_text1: dwap:42/media/lua/shared/Translate/EN/Stash_EN.txt:4
+Stash_DWAP_31_text1: dwap:42/media/lua/shared/Translate/EN/Stash_EN.txt:5
+Stash_DWAP_31_text2: dwap:42/media/lua/shared/Translate/EN/Stash_EN.txt:6
+Stash_DWAP_32_text1: dwap:42/media/lua/shared/Translate/EN/Stash_EN.txt:7
+Stash_DWAP_41_text1: dwap:42/media/lua/shared/Translate/EN/Stash_EN.txt:8

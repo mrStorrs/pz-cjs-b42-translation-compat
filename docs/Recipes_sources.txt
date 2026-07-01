@@ -1,0 +1,1394 @@
+AssembleLegendaryBackpack_Black: legendarybackpack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:6; legendarybackpack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+AssembleLegendaryBackpack_Blue: legendarybackpack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:11; legendarybackpack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+AssembleLegendaryBackpack_Brown: legendarybackpack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:8; legendarybackpack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+AssembleLegendaryBackpack_Green: legendarybackpack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:7; legendarybackpack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+AssembleLegendaryBackpack_Grey: legendarybackpack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:4; legendarybackpack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+AssembleLegendaryBackpack_Orange: legendarybackpack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:9; legendarybackpack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+AssembleLegendaryBackpack_Pink: legendarybackpack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:5; legendarybackpack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+AssembleLegendaryBackpack_Purple: legendarybackpack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:10; legendarybackpack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+AssembleLegendaryBackpack_Red: legendarybackpack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:12; legendarybackpack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+AssembleLegendaryBackpack_White: legendarybackpack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:13; legendarybackpack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+AssembleLegendaryDuffelbag_Black: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+AssembleLegendaryDuffelbag_Blue: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+AssembleLegendaryDuffelbag_Brown: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+AssembleLegendaryDuffelbag_Green: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+AssembleLegendaryDuffelbag_Grey: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+AssembleLegendaryDuffelbag_Orange: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+AssembleLegendaryDuffelbag_Pink: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+AssembleLegendaryDuffelbag_Purple: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+AssembleLegendaryDuffelbag_Red: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+AssembleLegendaryDuffelbag_White: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+AssembleLegendaryFannypack_Black: legendaryfannypack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:7; legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+AssembleLegendaryFannypack_Blue: legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+AssembleLegendaryFannypack_Brown: legendaryfannypack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:6; legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+AssembleLegendaryFannypack_Green: legendaryfannypack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:5; legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+AssembleLegendaryFannypack_Grey: legendaryfannypack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:4; legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+AssembleLegendaryFannypack_Orange: legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+AssembleLegendaryFannypack_Pink: legendaryfannypack:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:8; legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+AssembleLegendaryFannypack_Purple: legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+AssembleLegendaryFannypack_Red: legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+AssembleLegendaryFannypack_White: legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+AssembleLegendaryFannypack_Yellow: legendaryfannypack:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+AssembleLegendarySatchel_Black: legendarysatchel:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+AssembleLegendarySatchel_Brown: legendarysatchel:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+AssembleLegendarySatchel_Green: legendarysatchel:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+AssembleLegendarySatchel_Grey: legendarysatchel:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+AssembleLegendarySatchel_Pink: legendarysatchel:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+BGDEntityName_GarageDoor_Basic: buildable-garage-doors:common/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+BGDEntityName_GarageDoor_Bunker1: buildable-garage-doors:common/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+BGDEntityName_GarageDoor_Bunker2: buildable-garage-doors:common/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+BGDEntityName_GarageDoor_Fancy: buildable-garage-doors:common/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+BGDEntityName_GarageDoor_FireDepartment: buildable-garage-doors:common/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+BGDEntityName_GarageDoor_Warehouse: buildable-garage-doors:common/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Basic_Tuning: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:36
+BindLeadPipes10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:3; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+BindLeadPipes20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:4; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+BindLeadPipes5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:2; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+BindMetalBars10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:45
+BindMetalBars20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:46
+BindMetalBars5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:44
+BindMetalPipes10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:9; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+BindMetalPipes20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:10; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+BindMetalPipes5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:8; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+BindPlanks10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:21; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+BindPlanks20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:22; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+BindPlanks5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:20; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+BindSheetMetal10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:15; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+BindSheetMetal20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:16; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+BindSheetMetal5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:14; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+BindSmallSheetMetal10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:27; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:27
+BindSmallSheetMetal20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:28; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:28
+BindSmallSheetMetal5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:26; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+BindTreeBranches10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:33; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:33
+BindTreeBranches20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:34; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:34
+BindTreeBranches5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:32; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:32
+BindTwigs10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:39; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:45
+BindTwigs20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:40; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:46
+BindTwigs5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:38; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:44
+BindWoodenRod10: djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:39
+BindWoodenRod20: djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:40
+BindWoodenRod5: djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:38
+BindWoodenStick10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:51
+BindWoodenStick20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:52
+BindWoodenStick5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:50
+ConvertATAFrontRoofLightItem: standardizedvehicleupgrades3core:common/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+ConvertATARoofLightItem: standardizedvehicleupgrades3core:common/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+CrushSaltRock: modname:42.12/media/lua/shared/translate/EN/Recipes_EN.txt:8; modname:42.13/media/lua/shared/translate/EN/Recipes_EN.txt:8
+CutHeavyChain: standardizedvehicleupgrades3core:common/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Cut_ATABullbar1Item: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Cut_ATABullbar2Item: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Cut_ATAFendersWideItem: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Cut_ATAProtectionWheelsItem: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:35
+Cut_ATASkirtsSideItem: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Cut_ATASpoilerFrontItem: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Cut_ATASpoilerRear1Item: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Cut_ATASpoilerRear2Item: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Get6Biscuits: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:364; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:364
+Get6Cookies: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:350; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:350
+GetBakedPotato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:456; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:456
+GetBrowniesFromTray: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:346; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:346
+GetMuffinsFromTray: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:335; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:335
+GetStuffedBellPeppers: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:465; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:465
+Hold_Hive: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Hold_HoneyExtractor: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+InsertBattery-AZ: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:79; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:71
+Make2Bowls: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:409; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:409
+Make2Plates: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:411; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:411
+Make4Bowls: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:410; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:410
+Make4Plates: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:412; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:412
+MakeBagels: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:393; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:393
+MakeBananaProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:428; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:428
+MakeBowlOfCereal: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:307; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:307
+MakeBowlOfGranola: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:308; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:308
+MakeBrownieBatter: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:344; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:344
+MakeCakeBatter: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:318; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:318
+MakeCherryDrinkPitcher: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:419; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:419
+MakeChocolateDoughnuts: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:400; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:400
+MakeChocolateProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:426; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:426
+MakeCookieDough: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:349; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:349
+MakeCornbread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:396; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:396
+MakeCroissants: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:397; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:397
+MakeCuredMeat: modname:42.12/media/lua/shared/translate/EN/Recipes_EN.txt:3; modname:42.13/media/lua/shared/translate/EN/Recipes_EN.txt:3
+MakeDoughnuts: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:399; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:399
+MakeFriedFish: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:403; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:403
+MakeFriedOysters: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:402; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:402
+MakeFriedTofu: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:404; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:404
+MakeFrostedDoughnuts: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:401; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:401
+MakeFruitPunchPitcher: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:418; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:418
+MakeGrapeDrinkPitcher: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:420; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:420
+MakeGravy: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:392; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:392
+MakeJam: modname:42.12/media/lua/shared/translate/EN/Recipes_EN.txt:10; modname:42.13/media/lua/shared/translate/EN/Recipes_EN.txt:10
+MakeJarCanning: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:260; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:260
+MakeJarredMeat: modname:42.12/media/lua/shared/translate/EN/Recipes_EN.txt:5; modname:42.13/media/lua/shared/translate/EN/Recipes_EN.txt:5
+MakeJello: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:378; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:378
+MakeLemonadePitcher: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:416; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:416
+MakeMashedBerry: modname:42.12/media/lua/shared/translate/EN/Recipes_EN.txt:9; modname:42.13/media/lua/shared/translate/EN/Recipes_EN.txt:9
+MakeMeatDumplings: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:405; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:405
+MakeMuffinBatter: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:333; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:333
+MakePancakes: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:390; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:390
+MakePemmicanMeat: modname:42.12/media/lua/shared/translate/EN/Recipes_EN.txt:4; modname:42.13/media/lua/shared/translate/EN/Recipes_EN.txt:4
+MakePinkLemonadePitcher: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:417; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:417
+MakePoppyBagels: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:394; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:394
+MakePotatoPancakes: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:407; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:407
+MakeSesameBagels: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:395; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:395
+MakeShrimpDumplings: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:406; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:406
+MakeStrawberryProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:427; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:427
+MakeSweetTeaPitcher: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:421; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:421
+MakeTortillas: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:398; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:398
+MakeVanillaProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:425; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:425
+MakeWaffles: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:391; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:391
+Make_ATAProtectionWheelsItem: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:34
+Make_TransportCounter: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Make_TransportCupboard: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+Make_TransportShelve: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:27
+Make_a_compact_fridge: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:28
+Make_a_compact_microwave: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:30
+Make_a_compact_stove: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:29
+OpenBag: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:381; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:381
+OpenBottleOfBeer: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:431; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:431
+OpenBottleOfWine: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:430; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:430
+OpenBoxOfCannedFood: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:250; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:250
+OpenBoxOfSmallCannedFood: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:251; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:251
+OpenBoxRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:270; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:270
+OpenBoxSoupSachet: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:264; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:264
+OpenBreakfastSandwichBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:384; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:384
+OpenCan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:246; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:246
+OpenCanKnifeOrSharpStoneFlake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:247; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:247
+OpenFruitCupBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:315; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:315
+OpenGranolaBarBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:316; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:316
+OpenHomemadePastaSauce: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:305; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:305
+OpenInsectCan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:248; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:248
+OpenJar: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:256; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:256
+OpenJarCanning: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:259; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:259
+OpenJarOfFoodMeat: modname:42.12/media/lua/shared/translate/EN/Recipes_EN.txt:7; modname:42.13/media/lua/shared/translate/EN/Recipes_EN.txt:7
+OpenJarofPickles: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:257; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:257
+OpenJelloBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:314; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:314
+OpenPackOfBeer: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:432; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:432
+OpenPackagedStrudel: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:312; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:312
+OpenPacketRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:271; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:271
+OpenPizzaRollBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:383; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:383
+OpenPuddingBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:313; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:313
+OpenSnackCakeBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:310; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:310
+OpenToasterStrudelBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:311; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:311
+OpenUncrustablesBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:382; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:382
+PackBoxOfCannedFood: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:253; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:253
+PackBoxOfSmallCannedFood: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:254; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:254
+PrepareAlfredoSauce: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:302; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:302
+PrepareAppleCinnamonMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:337; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:337
+PrepareArborioRicePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:285; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:285
+PrepareArborioRiceSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:280; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:280
+PrepareBakedPotato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:438; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:438
+PrepareBakedZiti: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:463; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:463
+PrepareBananaBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:357; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:357
+PrepareBangersandMash: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:471; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:471
+PrepareBasilPesto: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:301; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:301
+PrepareBasmatiRicePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:284; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:284
+PrepareBasmatiRiceSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:279; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:279
+PrepareBeansOnToast: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:476; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:476
+PrepareBechamelSauce: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:303; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:303
+PrepareBiscuits: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:363; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:363
+PrepareBlueberryMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:338; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:338
+PrepareBrownRicePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:282; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:282
+PrepareBrownRiceSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:277; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:277
+PrepareBrownieTray: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:345; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:345
+PrepareBrownies: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:347; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:347
+PrepareButterChicken: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:477; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:477
+PrepareCaramelCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:327; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:327
+PrepareCaramelFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:370; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:370
+PrepareCarrotCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:323; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:323
+PrepareChanaMasala: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:480; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:480
+PrepareCheddarBiscuits: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:365; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:365
+PrepareCheesecake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:443; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:443
+PrepareChickenDivan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:468; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:468
+PrepareChickenPotPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:466; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:466
+PrepareChocolateCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:324; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:324
+PrepareChocolateChipMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:339; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:339
+PrepareChocolateFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:371; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:371
+PrepareChocolateSwirlBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:359; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:359
+PrepareCinnamonSwirlBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:360; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:360
+PrepareConfettiCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:329; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:329
+PrepareConfettiFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:375; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:375
+PrepareCornMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:341; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:341
+PrepareCranberryBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:361; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:361
+PrepareCreamCheeseFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:374; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:374
+PrepareDessertBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:355; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:355
+PrepareDoubleChocolateMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:340; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:340
+PrepareEnchilada: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:442; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:442
+PrepareFettuccinePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:292; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:292
+PrepareFettuccineSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:288; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:288
+PrepareFishandChips: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:470; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:470
+PrepareFrenchVanillaCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:322; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:322
+PrepareFreshPastaPot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:296; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:296
+PrepareFreshPastaSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:295; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:295
+PrepareFriedRice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:455; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:455
+PrepareFullEnglishBreakfast: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:472; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:472
+PrepareGingerbreadCookieDough: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:352; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:352
+PrepareHalfEnglishBreakfast: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:473; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:473
+PrepareHomestyleBiscuits: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:366; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:366
+PrepareJasmineRicePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:283; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:283
+PrepareJasmineRiceSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:278; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:278
+PrepareLasagna: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:436; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:436
+PrepareLemonFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:372; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:372
+PrepareLemonPoppyMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:342; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:342
+PrepareMacaroniPot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:291; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:291
+PrepareMacaroniSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:287; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:287
+PrepareMarinara: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:298; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:298
+PrepareMashedPotato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:388; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:388
+PrepareMassamanCurry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:479; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:479
+PrepareMeatSauce: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:300; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:300
+PrepareMeatloaf: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:437; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:437
+PrepareMilkshakeButterPecan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:449; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:449
+PrepareMilkshakeChocolate: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:445; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:445
+PrepareMilkshakeChocolateChip: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:446; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:446
+PrepareMilkshakeCookiesAndCream: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:451; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:451
+PrepareMilkshakeMintChocolateChip: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:450; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:450
+PrepareMilkshakeNeapolitan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:448; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:448
+PrepareMilkshakePistachio: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:453; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:453
+PrepareMilkshakeRockyRoad: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:452; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:452
+PrepareMilkshakeStrawberry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:447; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:447
+PrepareMilkshakeVanilla: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:444; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:444
+PrepareMoussaka: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:467; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:467
+PrepareMuffinTray: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:334; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:334
+PrepareNachos: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:441; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:441
+PrepareOrangePoppyseedCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:328; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:328
+PreparePacketPasta: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:274; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:274
+PreparePacketRice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:275; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:275
+PreparePeanutButterCookieDough: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:351; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:351
+PreparePennePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:293; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:293
+PreparePenneSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:289; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:289
+PreparePuddingMix: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:368; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:368
+PreparePumpkinBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:358; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:358
+PrepareQuiche: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:440; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:440
+PrepareRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:272; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:272
+PrepareRedVelvetCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:325; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:325
+PrepareSalisburySteak: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:469; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:469
+PrepareSausageAndAppleFry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:475; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:475
+PrepareScallopedPotatoBake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:439; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:439
+PrepareScotchEgg: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:474; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:474
+PrepareShephardsPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:461; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:461
+PrepareSnickerdoodleCookieDough: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:353; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:353
+PrepareSoup_ChickenNoodle: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:267; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:267
+PrepareSoup_PeaAndHam: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:266; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:266
+PrepareSoup_Pumpkin: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:265; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:265
+PrepareSoup_Tomato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:268; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:268
+PrepareSpiceCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:330; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:330
+PrepareSpicyMarinara: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:299; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:299
+PrepareStrawberryCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:326; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:326
+PrepareStrawberryFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:373; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:373
+PrepareStuffedBellPeppers: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:464; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:464
+PrepareSushi: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:454; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:454
+PrepareSweetPotatoChickpeaCurry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:481; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:481
+PrepareThaiGreenCurry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:478; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:478
+PrepareTofuCurry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:482; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:482
+PrepareTunaCasserole: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:462; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:462
+PrepareVanillaFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:376; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:376
+PrepareYellowCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:331; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:331
+PutCakeInBakingPan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:319; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:319
+Recipe_3rdGenChevyCKseries.MakeBackSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:161
+Recipe_3rdGenChevyCKseries.MakeFrontDoor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:156
+Recipe_3rdGenChevyCKseries.MakeFrontSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:159
+Recipe_3rdGenChevyCKseries.MakeFrontWindshield: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:158
+Recipe_3rdGenChevyCKseries.MakeRearDoor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:157
+Recipe_3rdGenChevyCKseries.MakeRearSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:160
+Recipe_3rdGenChevyCKseries.MakeRearWindshield: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:162
+Recipe_3rdGenChevyCKseries.MakeSidesteps: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:163
+Recipe_3rdGenChevyCKseries.MakeSunVisor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:164
+Recipe_3rdGenChevyCKseriesMakeBackSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:176
+Recipe_3rdGenChevyCKseriesMakeFrontDoor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:171
+Recipe_3rdGenChevyCKseriesMakeFrontSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:174
+Recipe_3rdGenChevyCKseriesMakeFrontWindshield: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:173
+Recipe_3rdGenChevyCKseriesMakeRearDoor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:172
+Recipe_3rdGenChevyCKseriesMakeRearSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:175
+Recipe_3rdGenChevyCKseriesMakeRearWindshield: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:177
+Recipe_3rdGenChevyCKseriesMakeSidesteps: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:178
+Recipe_3rdGenChevyCKseriesMakeSunVisor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:179
+Recipe_54CloudCamperMakeDoor: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:21; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_54CloudCamperMakeDoubleSideWindow: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:26; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+Recipe_54CloudCamperMakeFrontWindshield: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:23; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+Recipe_54CloudCamperMakeLargeSideWindow: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:25; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Recipe_54CloudCamperMakeRearBumper: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:22; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_54CloudCamperMakeRearWindshield: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:27; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:27
+Recipe_54CloudCamperMakeSmallSideWindow: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:24; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+Recipe_61BambiCamperMakeDoor: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:14; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_61BambiCamperMakeFrontWindshield: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:16; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_61BambiCamperMakeLargeSideWindow: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:18; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_61BambiCamperMakeRearBumper: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:15; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_61BambiCamperMakeRearWindshield: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:19; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_61BambiCamperMakeSmallSideWindow: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:17; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_61BambiCamperMakeToolboxLid: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:20; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_67gt500.MakeFrontBullbar: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_67gt500.MakeFrontDoor: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_67gt500.MakeFrontSeat: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_67gt500.MakeFrontSideWindow: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_67gt500.MakeFrontWindowArmor: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_67gt500.MakeFrontWindshield: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_67gt500.MakeFrontWindshieldArmor: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_67gt500.MakeHood: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_67gt500.MakeRearBullbar: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_67gt500.MakeRearSeat: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_67gt500.MakeRearWindshield: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_67gt500.MakeRearWindshieldArmor: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_67gt500.MakeReinforcedFrontBumper: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_67gt500.MakeReinforcedRearBumper: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_67gt500.MakeRoofrack: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_67gt500.MakeTire: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_67gt500.MakeTrunkLid: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_67gt500e.MakeHood: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_67gt500e.MakeReinforcedFrontBumper: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_67gt500e.MakeTire: 67gt500:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_70dodge.MakeFrontBullbarA: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_70dodge.MakeFrontBullbarB: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_70dodge.MakeFrontBullbarC: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_70dodge.MakeFrontBumper: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_70dodge.MakeFrontDoor: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_70dodge.MakeFrontSeat: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_70dodge.MakeFrontSideWindow: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_70dodge.MakeFrontWindowArmor: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_70dodge.MakeFrontWindshield: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_70dodge.MakeFrontWindshieldArmor: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_70dodge.MakeRearBullbarA: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_70dodge.MakeRearBullbarB: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+Recipe_70dodge.MakeRearBullbarC: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+Recipe_70dodge.MakeRearBumper: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_70dodge.MakeRearSeat: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_70dodge.MakeRearWindshield: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_70dodge.MakeRearWindshieldArmor: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_70dodge.MakeRoofrack: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Recipe_70dodge.MakeTire: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_70dodge.MakeTrunkLid: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_70dodgeB.MakeFrontWindshieldArmor: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_70dodgePD.MakeHood: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_70dodgeRT.MakeHood: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_70dodgeTA.MakeHood: 70dodge:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_73fordFalcon.MakeFrontBullbar: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_73fordFalcon.MakeFrontBumper: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_73fordFalcon.MakeFrontDoor: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_73fordFalcon.MakeFrontReinforcedBumper: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_73fordFalcon.MakeFrontReinforcedBumperPS1: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_73fordFalcon.MakeFrontReinforcedBumperPS2: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_73fordFalcon.MakeFrontSeat: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_73fordFalcon.MakeFrontSideWindow: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_73fordFalcon.MakeFrontWindowArmor: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_73fordFalcon.MakeFrontWindshield: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_73fordFalcon.MakeFrontWindshieldArmor: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_73fordFalcon.MakeHood: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_73fordFalcon.MakeHoodPS: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_73fordFalcon.MakeMufflerPS: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+Recipe_73fordFalcon.MakeRearBumper: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+Recipe_73fordFalcon.MakeRearSeat: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_73fordFalcon.MakeRearSideWindow: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_73fordFalcon.MakeRearWindowArmor: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_73fordFalcon.MakeRearWindshield: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_73fordFalcon.MakeRearWindshieldArmor: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_73fordFalcon.MakeRoofrack: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+Recipe_73fordFalcon.MakeStoragePS: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Recipe_73fordFalcon.MakeTire: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_73fordFalcon.MakeTirePS: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_73fordFalcon.MakeTrunkLid: 73fordfalcon:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_80sPickup.MakeFrontBullbar: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:188
+Recipe_80sPickup.MakeFrontSeat: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:183
+Recipe_80sPickup.MakeFrontWindowArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:186
+Recipe_80sPickup.MakeFrontWindshieldArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:185
+Recipe_80sPickup.MakeRearBullbar: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:189
+Recipe_80sPickup.MakeRearSeat: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:184
+Recipe_80sPickup.MakeRearWindowArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:187
+Recipe_80sPickup.MakeRollbarA: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:190
+Recipe_80sPickup.MakeRollbarB: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:191
+Recipe_80sPickup.MakeRoofrack: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:182
+Recipe_80sPickup.MakeTire: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:181
+Recipe_80sPickupMakeFrontBullbar: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:203
+Recipe_80sPickupMakeFrontSeat: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:198
+Recipe_80sPickupMakeFrontWindowArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:201
+Recipe_80sPickupMakeFrontWindshieldArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:200
+Recipe_80sPickupMakeRearBullbar: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:204
+Recipe_80sPickupMakeRearSeat: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:199
+Recipe_80sPickupMakeRearWindowArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:202
+Recipe_80sPickupMakeRollbarA: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:205
+Recipe_80sPickupMakeRollbarB: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:206
+Recipe_80sPickupMakeRoofrack: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:197
+Recipe_80sPickupMakeTire: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:196
+Recipe_84gmCbody.MakeCoupeRearSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:199
+Recipe_84gmCbody.MakeFrontDoor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:194
+Recipe_84gmCbody.MakeFrontSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:197
+Recipe_84gmCbody.MakeFrontWindshield: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:196
+Recipe_84gmCbody.MakeRearDoor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:195
+Recipe_84gmCbody.MakeRearSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:198
+Recipe_84gmCbody.MakeRearWindshield: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:200
+Recipe_84gmCbodyMakeCoupeRearSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:214
+Recipe_84gmCbodyMakeFrontDoor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:209
+Recipe_84gmCbodyMakeFrontSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:212
+Recipe_84gmCbodyMakeFrontWindshield: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:211
+Recipe_84gmCbodyMakeRearDoor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:210
+Recipe_84gmCbodyMakeRearSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:213
+Recipe_84gmCbodyMakeRearWindshield: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:215
+Recipe_85gmBbody.MakeBackWindowArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:124
+Recipe_85gmBbody.MakeBackWindowWoodenArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:131
+Recipe_85gmBbody.MakeCoupeRearSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:118
+Recipe_85gmBbody.MakeFrontBullbar: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:133
+Recipe_85gmBbody.MakeFrontDoor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:113
+Recipe_85gmBbody.MakeFrontSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:116
+Recipe_85gmBbody.MakeFrontWindowArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:122
+Recipe_85gmBbody.MakeFrontWindowWoodenArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:129
+Recipe_85gmBbody.MakeFrontWindshield: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:115
+Recipe_85gmBbody.MakeFrontWindshieldArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:121
+Recipe_85gmBbody.MakeFrontWindshieldWoodenArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:128
+Recipe_85gmBbody.MakeRearDoor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:114
+Recipe_85gmBbody.MakeRearSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:117
+Recipe_85gmBbody.MakeRearWagonBumper1: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:139
+Recipe_85gmBbody.MakeRearWagonBumper2: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:140
+Recipe_85gmBbody.MakeRearWindowArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:123
+Recipe_85gmBbody.MakeRearWindowWoodenArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:130
+Recipe_85gmBbody.MakeRearWindshield: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:120
+Recipe_85gmBbody.MakeRearWindshieldArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:125
+Recipe_85gmBbody.MakeRearWindshieldWoodenArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:132
+Recipe_85gmBbody.MakeRoofRails: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:135
+Recipe_85gmBbody.MakeRoofrack: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:134
+Recipe_85gmBbody.MakeTire0: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:104
+Recipe_85gmBbody.MakeTire1: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:105
+Recipe_85gmBbody.MakeTire2: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:106
+Recipe_85gmBbody.MakeTire3: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:107
+Recipe_85gmBbody.MakeTire4: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:108
+Recipe_85gmBbody.MakeTire5: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:109
+Recipe_85gmBbody.MakeTire5b: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:110
+Recipe_85gmBbody.MakeTire6: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:111
+Recipe_85gmBbody.MakeTire7: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:112
+Recipe_85gmBbody.MakeTrunkLid: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:138
+Recipe_85gmBbody.MakeWagonBackSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:119
+Recipe_85gmBbody.MakeWagonRearWindshieldArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:127
+Recipe_85gmBbody.MakeWagonRoofrack: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:136
+Recipe_85gmBbody.MakeWagonRoofrack2: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:137
+Recipe_85gmBbodyMakeBackWindowArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:139
+Recipe_85gmBbodyMakeBackWindowWoodenArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:146
+Recipe_85gmBbodyMakeCoupeRearSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:133
+Recipe_85gmBbodyMakeFrontBullbar: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:148
+Recipe_85gmBbodyMakeFrontDoor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:128
+Recipe_85gmBbodyMakeFrontSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:131
+Recipe_85gmBbodyMakeFrontWindowArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:137
+Recipe_85gmBbodyMakeFrontWindowWoodenArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:144
+Recipe_85gmBbodyMakeFrontWindshield: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:130
+Recipe_85gmBbodyMakeFrontWindshieldArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:136
+Recipe_85gmBbodyMakeFrontWindshieldWoodenArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:143
+Recipe_85gmBbodyMakeRearDoor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:129
+Recipe_85gmBbodyMakeRearSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:132
+Recipe_85gmBbodyMakeRearWagonBumper1: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:154
+Recipe_85gmBbodyMakeRearWagonBumper2: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:155
+Recipe_85gmBbodyMakeRearWindowArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:138
+Recipe_85gmBbodyMakeRearWindowWoodenArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:145
+Recipe_85gmBbodyMakeRearWindshield: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:135
+Recipe_85gmBbodyMakeRearWindshieldArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:140
+Recipe_85gmBbodyMakeRearWindshieldWoodenArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:147
+Recipe_85gmBbodyMakeRoofRails: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:150
+Recipe_85gmBbodyMakeRoofrack: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:149
+Recipe_85gmBbodyMakeTire0: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:119
+Recipe_85gmBbodyMakeTire1: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:120
+Recipe_85gmBbodyMakeTire2: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:121
+Recipe_85gmBbodyMakeTire3: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:122
+Recipe_85gmBbodyMakeTire4: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:123
+Recipe_85gmBbodyMakeTire5: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:124
+Recipe_85gmBbodyMakeTire5b: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:125
+Recipe_85gmBbodyMakeTire6: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:126
+Recipe_85gmBbodyMakeTire7: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:127
+Recipe_85gmBbodyMakeTrunkLid: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:153
+Recipe_85gmBbodyMakeWagonBackSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:134
+Recipe_85gmBbodyMakeWagonRearWindshield: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:126; damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:141
+Recipe_85gmBbodyMakeWagonRearWindshieldArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:142
+Recipe_85gmBbodyMakeWagonRoofrack: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:151
+Recipe_85gmBbodyMakeWagonRoofrack2: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:152
+Recipe_87ScampCamperMakeBackSideWindow: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:7; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_87ScampCamperMakeBed: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:4; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_87ScampCamperMakeCamperAwning: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:9; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_87ScampCamperMakeDoor: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:2; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_87ScampCamperMakeFrontSideWindow: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:5; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_87ScampCamperMakeRearBumper: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:10; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_87ScampCamperMakeRearSideWindow: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:6; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_87ScampCamperMakeRearWindshield: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:8; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_87ScampCamperMakeSeat: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:3; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_89Bronco.MakeBedBarrier: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_89Bronco.MakeBedCap: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_89Bronco.MakeFrontBumper: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_89Bronco.MakeFrontDoor: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_89Bronco.MakeFrontSideWindow: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_89Bronco.MakeFrontWindshield: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_89Bronco.MakeHood: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_89Bronco.MakeRearBumper: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_89Bronco.MakeRearSideWindow: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_89Bronco.MakeRearWindshield: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_89Bronco.MakeReinforcedFrontBumper: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_89Bronco.MakeTrunkLid: 89fordbronco:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_8thGenFordFseries.MakeFrontDoor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:174
+Recipe_8thGenFordFseries.MakeFrontSeat: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:176
+Recipe_8thGenFordFseries.MakeFrontSideWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:178
+Recipe_8thGenFordFseries.MakeFrontWindshield: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:177
+Recipe_8thGenFordFseries.MakeHood: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:175
+Recipe_8thGenFordFseriesMakeFrontDoor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:189
+Recipe_8thGenFordFseriesMakeFrontSeat: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:191
+Recipe_8thGenFordFseriesMakeFrontSideWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:193
+Recipe_8thGenFordFseriesMakeFrontWindshield: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:192
+Recipe_8thGenFordFseriesMakeHood: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:190
+Recipe_91range.MakeFrontBullbar: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_91range.MakeFrontDoor: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_91range.MakeFrontSeat: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_91range.MakeFrontSideWindow: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_91range.MakeFrontWindowArmor: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_91range.MakeFrontWindshield: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_91range.MakeFrontWindshieldArmor: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_91range.MakeHood: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_91range.MakeMudflaps: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_91range.MakeRearBullbar: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_91range.MakeRearDoor: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_91range.MakeRearSeat: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_91range.MakeRearSideWindow: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_91range.MakeRearWindowArmor: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_91range.MakeRearWindshield: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_91range.MakeRearWindshieldArmor: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_91range.MakeRoofrack: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_91range.MakeSidesteps: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_91range.MakeSunroofWindow: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_91range.MakeTire: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_91range.MakeTrunkLid: 91range:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_97bushmaster.MakeDoor: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_97bushmaster.MakeFrontBullbar: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_97bushmaster.MakeFrontSideWindow: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_97bushmaster.MakeFrontWindshield: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_97bushmaster.MakeGastank: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_97bushmaster.MakeGunnerSeat: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_97bushmaster.MakeHatch: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_97bushmaster.MakeHood: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_97bushmaster.MakeLargeStorageLid: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_97bushmaster.MakeLeftFender: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_97bushmaster.MakeLeftStorage: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_97bushmaster.MakeMudflaps: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_97bushmaster.MakeRearWindshield: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_97bushmaster.MakeRightFender: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_97bushmaster.MakeRightStorage: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_97bushmaster.MakeRoofCrates: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_97bushmaster.MakeSeat: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_97bushmaster.MakeSideWindow: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_97bushmaster.MakeSmallStorageLid: 97bushmaster:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_ATABMWe36Recipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_ATABusRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_ATADatsun240zRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_ATADeLorianBTTFRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_ATADeLorianRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_ATADodgeRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_ATAJeepRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_ATALutonRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_ATAMustangRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_ATAPetyarbuiltRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_ATASamaraRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_ATAVanDeRumbaRecipes: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_ATAVanillaRecipes: standardizedvehicleupgrades3vanilla:common/media/lua/shared/Translate/EN/Recipes_EN.txt:2; standardizedvehicleupgrades3vanilla:media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_AddABluntAK: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:44
+Recipe_AddABluntKief: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:47
+Recipe_AddABluntNL: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:45
+Recipe_AddABluntSD: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:46
+Recipe_AddAJointAK: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:48
+Recipe_AddAJointKief: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:51
+Recipe_AddAJointNL: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:49
+Recipe_AddAJointSD: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:50
+Recipe_AddHoneyToMeat: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_AddKiefJar: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:68
+Recipe_ArcadeCentipede: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_ArcadeDigDug: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_ArcadeDonkeyKong: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_ArcadeDoubleDragon: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_ArcadePacMan: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_ArcadeSpaceInvaders: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_ArcadeStreetFighterII: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_ArcadianCarpet: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_Attach_Cigarette_to_Cigarette_Holder: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:63; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:57
+Recipe_Attach_Walkie_to_Vest: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:51; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:47
+Recipe_BindHayBale: feedthatanimal:media/lua/shared/Translate/EN/Recipes_EN.txt:6; feedthatanimal:42/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_Bundle_Fish_Bones: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_Bundle_Large_Fish_Scales: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_Bundle_Small_Fish_Scales: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_CarveShortSpear: simpleshortspears:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_Carve_Fishing_Mould: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:30
+Recipe_Close_Sleeping_Bag: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:60; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:55
+Recipe_Close_Umbrella: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:22; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_CollectBeeswax: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_CollectCrackCocaine: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_ComplexTerminator2: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_Convert.223Boxto5.56Box: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_Convert.308to7.62x51: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_Convert5.56Boxto.223Box: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_Convert762x39MagazinetoAK105Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_ConvertAK105Magazineto762x39Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+Recipe_ConvertMAC10MagazinetoThompsonMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_ConvertThompsonMagazinetoMAC10Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_Convert_.223_to_5.56: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_Convert_5.56_to_.223: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_Convert_7.62x51to.308: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_Convert_into_Item: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:3; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_Convert_into_Melee: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:4; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_Convert_into_Wearable: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:2; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_Convert_to_Torch: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:5; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_CrackBaggie: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_CrackSpoon: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_CraftAnimalFeed: feedthatanimal:media/lua/shared/Translate/EN/Recipes_EN.txt:2; feedthatanimal:42/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_Craft_Prosthetic_Arm: cjstheonlycure:common/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_Craft_Prosthetic_Foot: cjstheonlycure:common/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_Craft_Prosthetic_Hook: cjstheonlycure:common/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_Craft_Prosthetic_Leg: cjstheonlycure:common/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_CreateKiefJar: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:67
+Recipe_Crude_Fish_Oil_Extraction: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:31
+Recipe_CrushSaltRock: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_CureWeed: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:61
+Recipe_CutUpBook: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_CutUpMagazine: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_CutUpNewspaper: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_CutWeedBrownies: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:73
+Recipe_Cut_ATAJeepBumper1Item: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:55
+Recipe_Cut_ATAJeepBumper2Item: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:56
+Recipe_Cut_ATAJeepBumper3Item: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:57
+Recipe_Cut_ATAMustangHoodItem: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:62
+Recipe_Cut_ATASamaraHoodItem: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:63
+Recipe_Detach_Walkie_from_Vest: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:50; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:46
+Recipe_Dismantle_Headphones: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:16; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_Dismantle_Military_Flashlight: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:6; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_Dismantle_TCWalkman: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:67
+Recipe_Dismantle_TruePlayers: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:68
+Recipe_Draw_Hitlist_1: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:10; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_Draw_Hitlist_2: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:11; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_Draw_Hitlist_3: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:12; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_DryWeed: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:60
+Recipe_Extract_Tire_Tube: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:45
+Recipe_FireHardenShortSpear: simpleshortspears:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_Fix_Composite_Rod: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+Recipe_Fix_Fiberglass_Rod: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:27
+Recipe_Flatten_Tire_Tube: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:46
+Recipe_Forge_Composite_Rod: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:29
+Recipe_Forge_Fiberglass_Rod: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:28
+Recipe_Gather_Gunpowder_7.62x39: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_Gather_Gunpowder_7.62x51: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_Get12WeedCookies: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:76
+Recipe_Get6HoneyMuffins: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_GetMilkPowder: feedthatanimal:media/lua/shared/Translate/EN/Recipes_EN.txt:5; feedthatanimal:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_GrindCuredWeed: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:64
+Recipe_GrindCuredWeed2: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:65
+Recipe_Harvest_Fish_Materials: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_IPJarringMake2BowlsOfJars: immersivepreservationcanningjarring:42/media/lua/shared/translate/EN/Recipes_EN.txt:4
+Recipe_IPJarringMake4BowlsOfJars: immersivepreservationcanningjarring:42/media/lua/shared/translate/EN/Recipes_EN.txt:5
+Recipe_IPJarringMakeJar: immersivepreservationcanningjarring:42/media/lua/shared/translate/EN/Recipes_EN.txt:2
+Recipe_IPJarringOpenJarOfFood: immersivepreservationcanningjarring:42/media/lua/shared/translate/EN/Recipes_EN.txt:3
+Recipe_Inflate_Tire_Tube: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:47
+Recipe_Insert_Battery_into_Flashlight: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:18; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_Insert_Battery_into_Military_Flashlight: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:7; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_Insert_Battery_into_Miner_Hat: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:19; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_Install_Light_Mechanism: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:17; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_JuiceFruitLarge: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_JuiceFruitSmall: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_KI5camperMakeLargeWindowArmor: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:11; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_KI5camperMakeMediumWindowArmor: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:12; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_KI5camperMakeSmallWindowArmor: ki5campers:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:13; ki5campers:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_LSMRRAdjustGearsOnAlarmClock: louder noisemakers + extended range remotes:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_LSMRRAttachAmplifierToNoiseMaker: louder noisemakers + extended range remotes:42/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_LSMRRBoostWatchVolume: louder noisemakers + extended range remotes:42/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_LSMRRExtendRangeOfRemoteController: louder noisemakers + extended range remotes:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_LSMRRModulateNoiseMakerVolume: louder noisemakers + extended range remotes:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_MaintenanceWeapon: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+Recipe_Make.308RemingtonM788Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:37
+Recipe_Make.44MagnumDesertEagleMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:29
+Recipe_Make.45ACPColtM1911Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:28
+Recipe_Make.45ACPH&KMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:41
+Recipe_Make.45ACPThompsonMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:42
+Recipe_Make.45MAC10Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:40
+Recipe_Make12gAA-12Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:36
+Recipe_Make5.56ExtendedMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:31
+Recipe_Make5.56M249Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:39
+Recipe_Make5.56STANAGMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:30
+Recipe_Make7.62x39Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:35
+Recipe_Make7.62x51M60Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:38
+Recipe_Make7.62x51Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:34
+Recipe_Make9mmBerettaMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:27
+Recipe_Make9mmGlockMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:32
+Recipe_Make9mmP226Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:44
+Recipe_Make9mmP90Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:45
+Recipe_Make9mmSMGMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:33
+Recipe_Make9mmWaltherP5Magazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:43
+Recipe_MakeBaggies: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_MakeBaitHive: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_MakeBeehiveBasicFrame: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_MakeBluntWrap: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_MakeBottleOfHoney: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_MakeBoxOfSprings: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+Recipe_MakeBrownSugar: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_MakeCandle: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+Recipe_MakeCannaButter: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:70
+Recipe_MakeCocaPaste: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+Recipe_MakeCocaine: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+Recipe_MakeCrackCocaineMixture: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_MakeCrackPipe: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:34
+Recipe_MakeCrystalMethLab: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:35
+Recipe_MakeCuredMeat: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_MakeDIYSuppressor: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+Recipe_MakeDuctTapeAnkleHolster: b42packmule:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_MakeHay: feedthatanimal:media/lua/shared/Translate/EN/Recipes_EN.txt:3; feedthatanimal:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_MakeHeroinNo1: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+Recipe_MakeHeroinNo2: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:27
+Recipe_MakeHeroinNo3: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:28
+Recipe_MakeHeroinNo4: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:29
+Recipe_MakeHoneyBandage: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Recipe_MakeHoneyIcecreamCone: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_MakeHoneyLollipop: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_MakeJam: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_MakeJarOfCornedMeat: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_MakeJarTrex: b42makefruitinjar:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_MakeJarredMeat: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_MakeMashedBerry: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_MakeMashedFruits: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_MakeMethBaggies: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_MakeMilkPowderPreparation: feedthatanimal:media/lua/shared/Translate/EN/Recipes_EN.txt:4; feedthatanimal:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_MakeMirrorWith2Lines: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_MakePemmicanMeat: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_MakePipe1Green: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:31
+Recipe_MakePipe1Orange: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:32
+Recipe_MakePipe1Yellow: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:33
+Recipe_MakeProteinShake: cjsproteinshake:common/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_MakeRation: vanilla mre - main - b42:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_MakeRationPackage: vanilla mre - main - b42:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_MakeRollingPapers: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_MakeWeedBrowniePan: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:72
+Recipe_MakeWeedChocolateBar: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:71
+Recipe_MakeWeedChocolateChipCookieDough: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:74
+Recipe_MakeWeedGummies: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:77
+Recipe_MakeWeedSugarCookieDough: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:75
+Recipe_Make_ATAMotoBMWCustomMuffler: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:41
+Recipe_Make_Antibiotics: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:33
+Recipe_Make_Attachable: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:23; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+Recipe_Make_Backpack_Attachable_Item: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:57; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:52
+Recipe_Make_Bleach: simpleoverhaultraitsandoccupations:media/lua/shared/Translate/EN/Recipes_EN.txt:5; simpleoverhaultraitsandoccupations:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_Make_Carabiner_Clip: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:24; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+Recipe_Make_Cleaning_Liquid: simpleoverhaultraitsandoccupations:media/lua/shared/Translate/EN/Recipes_EN.txt:4; simpleoverhaultraitsandoccupations:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_Make_Fish_Scale_Body_Armor: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+Recipe_Make_Fish_Scale_Greaves: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_Make_Fish_Scale_Shoulders: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_Make_Fish_Scale_Thighs: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+Recipe_Make_Fish_Scale_Vambraces: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_Make_Fish_Trophy: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_Make_Flight_Jacket_Vest: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/Recipes_EN.txt:2; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_Make_Glue_From_Scales: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_Make_Improved_Fishing_Line: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_Make_Improved_Insect_Lure: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_Make_Improved_Jig_Lure: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_Make_Improved_Minnow_Lure: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_Make_Improved_Soft_Lure: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_Make_Improved_Spoon_Lure: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_Make_Longnose_Spear: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:37
+Recipe_Make_Outfit_Tag: easyoutfits:media/lua/shared/Translate/EN/Recipes_EN.txt:3; easyoutfits:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_Make_Plushie_Binder: moreplushies:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_Make_Secondary_Bag: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:25; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Recipe_Make_Spiffish_Slammer: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:35
+Recipe_Make_Spotted_Spear: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:36
+Recipe_Make_Steel_Ladder: ladders:media/lua/shared/Translate/EN/Recipes_EN.txt:2; ladders:42/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_Make_Weapon_Sling: cjstwoweaponsonback:42/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_Make_Wooden_Ladder: ladders:media/lua/shared/Translate/EN/Recipes_EN.txt:3; ladders:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_Make_Wooden_Pond: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:34
+Recipe_Make_a_Stack_of_Money: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:8; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_OpenBoosterBoxBaseSet: cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_OpenBoosterBoxFossilSet: cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_OpenBoosterBoxJungleSet: cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_OpenBoosterPackBaseSet: cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_OpenBoosterPackFossilSet: cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_OpenBoosterPackJungleSet: cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_OpenBoxOfRations: vanilla mre - main - b42:42/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_OpenBoxOfSprings: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Recipe_OpenCokeBrick: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_OpenCrystalMethLabCase: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_OpenCuredWeed: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:62
+Recipe_OpenJarOfCornedMeat: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_OpenJarOfFoodMeat: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_OpenJarOfFoodTrex: b42makefruitinjar:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_OpenPacketOfNnCSeeds: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:58
+Recipe_OpenWeedBrick: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_Open_Booster_Box_(Base_Set): cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_Open_Booster_Box_(Fossil_Set): cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_Open_Booster_Box_(Jungle_Set): cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_Open_Booster_Pack_(Base_Set): cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_Open_Booster_Pack_(Fossil_Set): cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_Open_Booster_Pack_(Jungle_Set): cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_Open_Box_of_7.62_Ammo: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_Open_Box_of_7.62x39_Ammo: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_Open_Clam_Shell: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_Open_Pack_of_Glowsticks: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:66; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:60
+Recipe_Open_Plushie_Capsule: moreplushies:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_Open_Sealed_Medkit: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:65; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:59
+Recipe_Open_Sleeping_Bag: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:59; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:54
+Recipe_Open_Umbrella: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:21; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_PackBong: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:53
+Recipe_PackBoxOfRations: vanilla mre - main - b42:42/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_PackKiefPipe: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:55
+Recipe_PackPipe: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:54
+Recipe_PackPipeCrack: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_PackPipeMeth: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_PackSmokes: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:42
+Recipe_Performance_Boat_Mechanics: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:50
+Recipe_PinballAddamsFamily: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_PinballBlackKnight2000: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_PinballFunHouse: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_PinballIndianaJones: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_PinballTwilightZone: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_PlaceBoxesOf762x39AmmoInCarton: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_PlaceBoxesOf762x51AmmoInCarton: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_PlaceOpiumInPot: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Recipe_Place_7.62_Ammo_in_Box: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_Place_7.62x39_Ammo_in_Box: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_Place_Complete_Collection_in_Binder: cjspkmntradingcards:42/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_Powerboats_Mechanics: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:48
+Recipe_PrepCrystalMeth: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_PrepareHoneyCake: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_PrepareHoneyMuffins: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_PrepareRation: vanilla mre - main - b42:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_PutNnCSeedsInPacket: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:57
+Recipe_RYButcheringHalveCut: rebalancedyieldsbutchering:42/media/lua/shared/translate/EN/Recipes_EN.txt:2
+Recipe_Reclaim_From_River: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_RecreationalClawMachine: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_RecreationalCoinPusher: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_RecreationalPunchingMachine: projectarcade:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_ReduceMeatLard: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_ReduceSchmaltz: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_ReduceTallow: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_Refined_Fish_Oil_Extraction: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:32
+Recipe_Remove_Battery: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:13; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_Repair_Fish_Scale_Armor: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Recipe_Restart_Chainsaw: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:75; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:68
+Recipe_Reuse_Bag: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:41; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:40
+Recipe_Revert_Attachable: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:40; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:39
+Recipe_Revert_Attachable_Item: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:56; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:51
+Recipe_RollBlunt: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:37
+Recipe_RollCannagar: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:38
+Recipe_RollJoint: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:39
+Recipe_RollSpliff: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:40
+Recipe_Sailboats_Mechanics: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:49
+Recipe_SawOffLongRanger: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_SawOffMossbergM590T: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_SawOffRemingtonM1187: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_SliceHoneyCake: shelterhold_beehive:common/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_SugarFromJuice: longtermpreservationextended:common/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_SurvivalBreakSmoothFlatStoneintoStones: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_SurvivalCarveLongStickfromPlank: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_SurvivalCrushStone: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_SurvivalCrushStonePiecesintoGravel: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_SurvivalDryGrass: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_SurvivalExtinguishTorch: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_SurvivalFileScrewsintoNails: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+Recipe_SurvivalGrindScrewsintoNails: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+Recipe_SurvivalKnapSmoothFlatStoneintoStones: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_SurvivalKnapStoneintoStonePieces: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_SurvivalKneadClay: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_SurvivalLightTorch: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_SurvivalLightTorchFire: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_SurvivalMakeCandle: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_SurvivalMakeFlintFirestarter: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_SurvivalMakeTorch: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_SurvivalMakeTorchWire: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_SurvivalPutClayinSack: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_SurvivalSewFabricRoll: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_SurvivalSewSheet: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_SurvivalTwistRopefromTwine: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_SurvivalUnravelRopeforTwine: b42survival:42/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_Swimming: tsarslib:common/media/lua/shared/Translate/EN/Recipes_EN.txt:51
+Recipe_TakeASmoke: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:43
+Recipe_Take_Manual: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:38
+Recipe_Throw_Fish_Back: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_Tie_Apron_Around_Dress: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:68; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:62
+Recipe_Tie_Balloons_Together: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:9; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_Tie_Hoodie_Around_Waist: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:14; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_USMIL.DismantleCrate: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_USMIL.DismantleGasCan: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_USMIL.DismantleViewport: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_USMIL.MakeLargeViewport: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_USMIL.MakeMilitaryGasCan: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_USMIL.MakeMilitaryVehicleSeatST1: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_USMIL.MakeMilitaryVehicleSeatST2: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_USMIL.MakeMilitaryVehicleSeatST2R: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_USMIL.MakeMilitaryVehicleSeatST3: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_USMIL.MakeMilitaryWaterCan: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_USMIL.MakeMilitaryWoodenCrate: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_USMIL.MakeOpenMilitaryWoodenCrate: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_USMIL.MakeSmallViewport: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_USMIL.MakeWoodenCrate: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_USMIL.PackLargeViewports: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_USMIL.PackSmallViewports: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_USMIL.PryOpenMilitaryWoodenCrate: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_USMIL.PryOpenWoodenCrate: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_USMIL.UnpackLargeViewports: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_USMIL.UnpackSmallViewports: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_USMILDismantleCrate: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_USMILDismantleGasCan: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:21
+Recipe_USMILDismantleViewport: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+Recipe_USMILMakeLargeViewport: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+Recipe_USMILMakeMilitaryGasCan: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+Recipe_USMILMakeMilitaryVehicleSeatST1: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_USMILMakeMilitaryVehicleSeatST2: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+Recipe_USMILMakeMilitaryVehicleSeatST2R: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+Recipe_USMILMakeMilitaryVehicleSeatST3: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+Recipe_USMILMakeMilitaryWaterCan: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+Recipe_USMILMakeMilitaryWoodenCrate: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+Recipe_USMILMakeOpenMilitaryWoodenCrate: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_USMILMakeSmallViewport: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+Recipe_USMILMakeWoodenCrate: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_USMILPackLargeViewports: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+Recipe_USMILPackSmallViewports: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+Recipe_USMILPryOpenMilitaryWoodenCrate: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+Recipe_USMILPryOpenWoodenCrate: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+Recipe_USMILUnpackLargeViewports: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+Recipe_USMILUnpackSmallViewports: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+Recipe_Unbundle_Fish_Bones: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+Recipe_Unbundle_Large_Fish_Scales: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_Unbundle_Small_Fish_Scales: caster plus:42/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+Recipe_UnpackSmokes: n&c's narcotics:42/media/lua/shared/Translate/EN/Recipes_EN.txt:41
+Recipe_Unzip: moreplushies:42/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_Upgrade_Alicepack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:30; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:30
+Recipe_Upgrade_Big_Hiking_Bag: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:29; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:29
+Recipe_Upgrade_CEDA_Hazmat_Pack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:34; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:33
+Recipe_Upgrade_Camo_Alicepack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:31; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:31
+Recipe_Upgrade_Duffelbag: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:27; authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:37; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:27; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:36
+Recipe_Upgrade_Evangelos_Backpack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:72; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:66
+Recipe_Upgrade_Hiking_Bag: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:28; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:28
+Recipe_Upgrade_Hoffmans_Backpack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:44; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:42
+Recipe_Upgrade_Hollys_Backpack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:71; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:65
+Recipe_Upgrade_Moms_Backpack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:70; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:64
+Recipe_Upgrade_NBH_Hazmat_Pack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:35; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:34
+Recipe_Upgrade_Rucksack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:38; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:37
+Recipe_Upgrade_School_Bag: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:26; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+Recipe_Upgrade_Urban_Camo_Alice_Pack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:49; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:45
+Recipe_Upgrade_Walkers_Backpack: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:45; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:43
+Recipe_Use_TV-110_as_Bulletproof_Vest: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:52; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:48
+Recipe_Use_TV-110_as_Magazine_Bag: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:53; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:49
+Recipe_Wear_Satchel_With_Bag: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:20; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+Recipe_Wear_on_Neck: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:64; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:58
+Recipe_Write_A_Prayer: simpleoverhaultraitsandoccupations:media/lua/shared/Translate/EN/Recipes_EN.txt:3; simpleoverhaultraitsandoccupations:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+Recipe_XXfordCVPI.MakeFrontWindowArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:145
+Recipe_XXfordCVPI.MakeFrontWindshieldArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:144
+Recipe_XXfordCVPI.MakeRearWindowArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:146
+Recipe_XXfordCVPI.MakeRearWindshieldArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:147
+Recipe_XXfordCVPI.MakeTire: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:143
+Recipe_XXfordCVPIMakeFrontWindowArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:160
+Recipe_XXfordCVPIMakeFrontWindshieldArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:159
+Recipe_XXfordCVPIMakeRearWindowArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:161
+Recipe_XXfordCVPIMakeRearWindshieldArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:162
+Recipe_XXfordCVPIMakeTire: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:158
+Recipe_Zip: moreplushies:42/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+Recipe_chevyCUCV.DismantleDoubleTires: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:170
+Recipe_chevyCUCV.MakeDoubleTires: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:169
+Recipe_chevyCUCV.MakeFrontBullbar: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:171
+Recipe_chevyCUCV.MakeTire1: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:167
+Recipe_chevyCUCV.MakeTire2: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:168
+Recipe_chevyCUCVDismantleDoubleTires: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:185
+Recipe_chevyCUCVMakeDoubleTires: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:184
+Recipe_chevyCUCVMakeFrontBullbar: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:186
+Recipe_chevyCUCVMakeTire1: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:182
+Recipe_chevyCUCVMakeTire2: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:183
+Recipe_damnCraft.AddLargeTireRubberToMount: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:49
+Recipe_damnCraft.AddSmallTireRubberToMount: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:47
+Recipe_damnCraft.CrushStyrofoamPackage: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:89
+Recipe_damnCraft.CrushStyrofoamSheet: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:88
+Recipe_damnCraft.DismantleArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:76
+Recipe_damnCraft.DismantleBedCap: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:75
+Recipe_damnCraft.DismantleDoorClassic: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:69
+Recipe_damnCraft.DismantleDoorModern: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:68
+Recipe_damnCraft.DismantleHood: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:65
+Recipe_damnCraft.DismantleLargeSeat: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:63
+Recipe_damnCraft.DismantleMetalPart: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:77
+Recipe_damnCraft.DismantleRubberMount: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:53
+Recipe_damnCraft.DismantleSmallSeat: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:64
+Recipe_damnCraft.DismantleSteelRim: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:52
+Recipe_damnCraft.DismantleTarpLarge: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:74
+Recipe_damnCraft.DismantleTarpSmall: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:73
+Recipe_damnCraft.DismantleTire: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:56
+Recipe_damnCraft.DismantleTireLarge: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:58
+Recipe_damnCraft.DismantleTireLargeFour: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:62
+Recipe_damnCraft.DismantleTireLargeTwo: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:61
+Recipe_damnCraft.DismantleTireMedium: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:57
+Recipe_damnCraft.DismantleTireMediumFour: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:60
+Recipe_damnCraft.DismantleTireTwo: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:59
+Recipe_damnCraft.DismantleToolbox: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:72
+Recipe_damnCraft.DismantleTrunkLid: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:66
+Recipe_damnCraft.DismantleTrunkLids: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:67
+Recipe_damnCraft.DismantleWindow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:71
+Recipe_damnCraft.DismantleWindshield: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:70
+Recipe_damnCraft.InsertBatteryIntoPlasticWeldingGun: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:45
+Recipe_damnCraft.MakeClassicVehicleHandle: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:95
+Recipe_damnCraft.MakeLargeSeatFrame: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:51
+Recipe_damnCraft.MakeLargeSteelRim: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:37
+Recipe_damnCraft.MakeLargeTireRubberMount: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:48
+Recipe_damnCraft.MakeLargeVehicleHinge: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:94
+Recipe_damnCraft.MakeLeafSuspension: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:101
+Recipe_damnCraft.MakeMediumSteelRim: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:36
+Recipe_damnCraft.MakeModernVehicleHandle: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:96
+Recipe_damnCraft.MakePlasterMold: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:86
+Recipe_damnCraft.MakeRubberStrips: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:40
+Recipe_damnCraft.MakeSeatFabricFromBurlapTowel: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:100
+Recipe_damnCraft.MakeSeatFabricFromFabricRoll: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:99
+Recipe_damnCraft.MakeSeatFoamFromPillow: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:97
+Recipe_damnCraft.MakeSeatFoamFromStyroSheet: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:98
+Recipe_damnCraft.MakeSmallSeatFrame: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:50
+Recipe_damnCraft.MakeSmallSteelRim: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:35
+Recipe_damnCraft.MakeSmallTire1: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:38
+Recipe_damnCraft.MakeSmallTire2: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:39
+Recipe_damnCraft.MakeSmallTireRubberMount: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:46
+Recipe_damnCraft.MakeSmallVehicleHinge: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:93
+Recipe_damnCraft.MakeStyrofoamPaste: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:90
+Recipe_damnCraft.MakeTirePiece: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:41
+Recipe_damnCraft.MakeWoodenMoldBox: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:85
+Recipe_damnCraft.OpenPlasticWeldingKit: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:43
+Recipe_damnCraft.OpenTireRepairKit: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:42
+Recipe_damnCraft.PourPasteInMold: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:91
+Recipe_damnCraft.RemoveBatteryFromPlasticWeldingGun: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:44
+Recipe_damnCraft.RemoveLargeRubberFromMount: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:54
+Recipe_damnCraft.RemoveNewPartFromMold: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:92
+Recipe_damnCraft.RemoveOldPartFromMold: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:87
+Recipe_damnCraft.RemoveSmallRubberFromMount: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:55
+Recipe_damnCraft.RepairFourTires: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:80
+Recipe_damnCraft.RepairMetal: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:81
+Recipe_damnCraft.RepairPlatic: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:82
+Recipe_damnCraft.RepairTarpLarge: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:84
+Recipe_damnCraft.RepairTarpSmall: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:83
+Recipe_damnCraft.RepairTire: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:78
+Recipe_damnCraft.RepairTwoTires: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:79
+Recipe_damnCraftAddLargeTireRubberToMount: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:58
+Recipe_damnCraftAddSmallTireRubberToMount: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:56
+Recipe_damnCraftCrushStyrofoamPackage: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:101
+Recipe_damnCraftCrushStyrofoamSheet: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:100
+Recipe_damnCraftDismantleArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:85
+Recipe_damnCraftDismantleBedCap: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:84
+Recipe_damnCraftDismantleDoorClassic: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:78
+Recipe_damnCraftDismantleDoorModern: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:77
+Recipe_damnCraftDismantleHood: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:74
+Recipe_damnCraftDismantleLargeSeat: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:72
+Recipe_damnCraftDismantleMetalPart: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:86
+Recipe_damnCraftDismantleRubberMount: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:62
+Recipe_damnCraftDismantleSmallSeat: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:73
+Recipe_damnCraftDismantleSteelRim: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:61
+Recipe_damnCraftDismantleTarpLarge: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:83
+Recipe_damnCraftDismantleTarpSmall: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:82
+Recipe_damnCraftDismantleTire: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:65
+Recipe_damnCraftDismantleTireLarge: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:67
+Recipe_damnCraftDismantleTireLargeFour: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:71
+Recipe_damnCraftDismantleTireLargeTwo: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:70
+Recipe_damnCraftDismantleTireMedium: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:66
+Recipe_damnCraftDismantleTireMediumFour: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:69
+Recipe_damnCraftDismantleTireRubberLarge: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:88
+Recipe_damnCraftDismantleTireRubberSmall: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:87
+Recipe_damnCraftDismantleTireTwo: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:68
+Recipe_damnCraftDismantleToolbox: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:81
+Recipe_damnCraftDismantleTrunkLid: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:75
+Recipe_damnCraftDismantleTrunkLids: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:76
+Recipe_damnCraftDismantleWindow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:80
+Recipe_damnCraftDismantleWindshield: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:79
+Recipe_damnCraftInsertBatteryIntoPlasticWeldingGun: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:54
+Recipe_damnCraftMakeClassicVehicleHandle: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:107
+Recipe_damnCraftMakeLargeSeatFrame: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:60
+Recipe_damnCraftMakeLargeSteelRim: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:42
+Recipe_damnCraftMakeLargeTireRubberMount: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:57
+Recipe_damnCraftMakeLargeVehicleHinge: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:106
+Recipe_damnCraftMakeLeafSuspension: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:113
+Recipe_damnCraftMakeMediumSteelRim: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:41
+Recipe_damnCraftMakeModernLargeRoofrack: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:116
+Recipe_damnCraftMakeModernSmallRoofrack: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:115
+Recipe_damnCraftMakeModernVehicleHandle: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:108
+Recipe_damnCraftMakePlasterMold: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:98
+Recipe_damnCraftMakeRubberStrips: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:45
+Recipe_damnCraftMakeSeatFabricFromBurlapTowel: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:112
+Recipe_damnCraftMakeSeatFabricFromFabricRoll: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:111
+Recipe_damnCraftMakeSeatFoamFromPillow: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:109
+Recipe_damnCraftMakeSeatFoamFromStyroSheet: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:110
+Recipe_damnCraftMakeSmallSeatFrame: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:59
+Recipe_damnCraftMakeSmallSteelRim: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:40
+Recipe_damnCraftMakeSmallTire1: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:43
+Recipe_damnCraftMakeSmallTire2: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:44
+Recipe_damnCraftMakeSmallTireRubberMount: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:55
+Recipe_damnCraftMakeSmallVehicleHinge: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:105
+Recipe_damnCraftMakeSmallVintageRoofrack: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:114
+Recipe_damnCraftMakeStyrofoamPaste: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:102
+Recipe_damnCraftMakeTirePiece: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:46
+Recipe_damnCraftMakeTireRubberNewLarge: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:50
+Recipe_damnCraftMakeTireRubberNewSmall: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:48
+Recipe_damnCraftMakeTireRubberUsedLarge: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:49
+Recipe_damnCraftMakeTireRubberUsedSmall: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:47
+Recipe_damnCraftMakeWoodenMoldBox: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:97
+Recipe_damnCraftOpenPlasticWeldingKit: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:52
+Recipe_damnCraftOpenTireRepairKit: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:51
+Recipe_damnCraftPourPasteInMold: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:103
+Recipe_damnCraftRemoveBatteryFromPlasticWeldingGun: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:53
+Recipe_damnCraftRemoveLargeRubberFromMount: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:63
+Recipe_damnCraftRemoveNewPartFromMold: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:104
+Recipe_damnCraftRemoveOldPartFromMold: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:99
+Recipe_damnCraftRemoveSmallRubberFromMount: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:64
+Recipe_damnCraftRepairFourTires: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:91
+Recipe_damnCraftRepairMetal: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:92
+Recipe_damnCraftRepairMetalLarge: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:93
+Recipe_damnCraftRepairPlatic: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:94
+Recipe_damnCraftRepairTarpLarge: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:96
+Recipe_damnCraftRepairTarpSmall: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:95
+Recipe_damnCraftRepairTire: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:89
+Recipe_damnCraftRepairTwoTires: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:90
+Recipe_runFlat.MakeLarge2TireAxle: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+Recipe_runFlat.MakeLarge4TireAxle: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:28
+Recipe_runFlat.MakeLargeDoubleTires: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:27
+Recipe_runFlat.MakeLargeTire: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Recipe_runFlat.MakeMedium4TireAxle: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:30
+Recipe_runFlat.MakeMediumTire: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:29
+Recipe_runFlat.MakeModernTire: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:32
+Recipe_runFlat.MakeSmallTire: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:31
+Recipe_runFlatDismantleTireLargeFour: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:37
+Recipe_runFlatDismantleTireLargeTwo: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:36
+Recipe_runFlatDismantleTireMediumFour: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:35
+Recipe_runFlatDismantleTireSmallFour: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:34
+Recipe_runFlatMakeLarge2TireAxle: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+Recipe_runFlatMakeLarge4TireAxle: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:28
+Recipe_runFlatMakeLargeDoubleTires: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:27
+Recipe_runFlatMakeLargeTire: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+Recipe_runFlatMakeMedium4TireAxle: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:30
+Recipe_runFlatMakeMediumTire: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:29
+Recipe_runFlatMakeModernTire: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:32
+Recipe_runFlatMakeSmall4TireAxle: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:33
+Recipe_runFlatMakeSmallTire: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:31
+Recipe_utilityBedBox.MakeRearBumper: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:150
+Recipe_utilityBedBox.MakeRearWindshieldArmor: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:153
+Recipe_utilityBedBox.MakeTrunkLid: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:151
+Recipe_utilityBedBox.StorageLids: damnlib:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:152
+Recipe_utilityBedBoxMakeRearBumper: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:165
+Recipe_utilityBedBoxMakeRearWindshieldArmor: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:168
+Recipe_utilityBedBoxMakeTrunkLid: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:166
+Recipe_utilityBedBoxStorageLids: damnlib:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:167
+ReduceMeatLard: modname:42.12/media/lua/shared/translate/EN/Recipes_EN.txt:6; modname:42.13/media/lua/shared/translate/EN/Recipes_EN.txt:6
+RemoveBattery-AZ: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:80; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:72
+RemoveHeavyChain: standardizedvehicleupgrades3core:common/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+SES_Beige_Wooden_Stairs: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+SES_Blue_Metal_Stairs: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:4
+SES_Dark_Wooden_Stairs: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+SES_MetalBlackRailing: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+SES_MetalBlackRailingStair: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:16
+SES_MetalBrownRailing: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+SES_MetalBrownRailingStair: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+SES_MetalWhiteRailing: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+SES_MetalWhiteRailingStair: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+SES_Metal_Stairs: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+SES_Oak_Bar_Stairs: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+SES_Oak_Wooden_Stairs: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:8
+SES_Purple_Metal_Stairs: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:9
+SES_Sunstar_Motel_Stairs: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:10
+SES_White_Wooden_Stairs: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+SES_Wood_Stairs: stairseastsouth:common/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+ScoopIceCream: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:385; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:385
+SewSheetFromRags: tearallclothes:42/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+SliceCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:320; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:320
+SliceCheesecake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:457; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:457
+SliceDessertBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:356; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:356
+SlicePizza: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:380; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:380
+SlicePotato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:387; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:387
+TakeBouillonCubeFromBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:262; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:262
+TakeTeaBagFromBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:423; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:423
+UnbindLeadPipes10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:6; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:6
+UnbindLeadPipes20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:7; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:7
+UnbindLeadPipes5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:5; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:5
+UnbindMetalBars10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:48
+UnbindMetalBars20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:49
+UnbindMetalBars5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:47
+UnbindMetalPipes10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:12; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:12
+UnbindMetalPipes20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:13; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+UnbindMetalPipes5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:11; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:11
+UnbindPlanks10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:24; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+UnbindPlanks20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:25; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+UnbindPlanks5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:23; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+UnbindSheetMetal10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:18; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+UnbindSheetMetal20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:19; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:19
+UnbindSheetMetal5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:17; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+UnbindSmallSheetMetal10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:30; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:30
+UnbindSmallSheetMetal20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:31; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:31
+UnbindSmallSheetMetal5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:29; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:29
+UnbindTreeBranches10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:36; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:36
+UnbindTreeBranches20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:37; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:37
+UnbindTreeBranches5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:35; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:35
+UnbindTwigs10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:42; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:48
+UnbindTwigs20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:43; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:49
+UnbindTwigs5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:41; djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:47
+UnbindWoodenRod10: djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:42
+UnbindWoodenRod20: djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:43
+UnbindWoodenRod5: djg_boundmaterials:42/media/lua/shared/Translate/EN/Recipes_EN.txt:41
+UnbindWoodenStick10: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:54
+UnbindWoodenStick20: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:55
+UnbindWoodenStick5: djg_boundmaterials:media/lua/shared/Translate/EN/Recipes_EN.txt:53
+VFX_Get6Biscuits: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:104; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:104
+VFX_Get6Cookies: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:90; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:90
+VFX_GetBakedPotato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:176; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:176
+VFX_GetBrowniesFromTray: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:86; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:86
+VFX_GetMuffinsFromTray: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:75; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:75
+VFX_GetStuffedBellPeppers: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:185; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:185
+VFX_Make2Bowls: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:149; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:149
+VFX_Make2Plates: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:151; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:151
+VFX_Make4Bowls: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:150; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:150
+VFX_Make4Plates: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:152; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:152
+VFX_MakeBagels: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:133; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:133
+VFX_MakeBowlOfCereal: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:47; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:47
+VFX_MakeBowlOfGranola: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:48; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:48
+VFX_MakeBrownieBatter: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:84; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:84
+VFX_MakeCakeBatter: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:58; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:58
+VFX_MakeChocolateDoughnuts: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:140; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:140
+VFX_MakeCookieDough: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:89; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:89
+VFX_MakeCornbread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:136; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:136
+VFX_MakeCroissants: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:137; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:137
+VFX_MakeDoughnuts: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:139; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:139
+VFX_MakeDrinkMixPitcher: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:156; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:156
+VFX_MakeFriedFish: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:143; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:143
+VFX_MakeFriedOysters: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:142; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:142
+VFX_MakeFriedTofu: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:144; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:144
+VFX_MakeFrostedDoughnuts: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:141; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:141
+VFX_MakeGravy: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:132; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:132
+VFX_MakeJello: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:118; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:118
+VFX_MakeMeatDumplings: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:145; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:145
+VFX_MakeMuffinBatter: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:73; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:73
+VFX_MakePancakes: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:130; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:130
+VFX_MakePoppyBagels: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:134; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:134
+VFX_MakePotatoPancakes: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:147; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:147
+VFX_MakeProteinShake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:158; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:158
+VFX_MakeSesameBagels: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:135; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:135
+VFX_MakeShrimpDumplings: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:146; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:146
+VFX_MakeSpiceRackLargeDark: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:240; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:512; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:240; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:512
+VFX_MakeSpiceRackLargeLight: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:239; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:511; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:239; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:511
+VFX_MakeSpiceRackSmallDark: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:238; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:510; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:238; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:510
+VFX_MakeSpiceRackSmallLight: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:237; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:509; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:237; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:509
+VFX_MakeTortillas: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:138; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:138
+VFX_MakeWaffles: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:131; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:131
+VFX_OpenBag: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:121; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:121
+VFX_OpenBottleOfBeer: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:160; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:160
+VFX_OpenBottleOfWine: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:159; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:159
+VFX_OpenBoxOfSmallCannedFood: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:14; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:14
+VFX_OpenBoxRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:28; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:28
+VFX_OpenBoxSoupSachet: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:22; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:22
+VFX_OpenBreakfastSandwichBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:124; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:124
+VFX_OpenCandyBag: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:214; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:486; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:214; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:486
+VFX_OpenFruitCupBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:55; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:55
+VFX_OpenGranolaBarBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:56; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:56
+VFX_OpenHomemadePastaSauce: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:45; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:45
+VFX_OpenInsectCan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:13; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:13
+VFX_OpenJar: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:17; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:17
+VFX_OpenJarofPickles: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:18; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:18
+VFX_OpenJelloBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:54; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:54
+VFX_OpenPackMeatballs: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:217; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:489; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:217; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:489
+VFX_OpenPackOfBeer: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:161; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:161
+VFX_OpenPackSausages: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:216; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:488; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:216; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:488
+VFX_OpenPackagedStrudel: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:52; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:52
+VFX_OpenPacketRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:29; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:29
+VFX_OpenPizzaRollBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:123; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:123
+VFX_OpenPuddingBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:53; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:53
+VFX_OpenSnackCakeBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:50; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:50
+VFX_OpenToasterStrudelBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:51; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:51
+VFX_OpenUncrustablesBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:122; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:122
+VFX_PackBoxOfSmallCannedFood: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:15; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:15
+VFX_PrepareAlfredoSauce: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:42; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:42
+VFX_PrepareAppleCinnamonMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:77; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:77
+VFX_PrepareApplePie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:224; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:496; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:224; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:496
+VFX_PrepareBakedPotato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:167; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:167
+VFX_PrepareBakedZiti: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:183; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:183
+VFX_PrepareBananaBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:97; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:97
+VFX_PrepareBangersandMash: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:191; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:191
+VFX_PrepareBasilPesto: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:41; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:41
+VFX_PrepareBeansOnToast: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:196; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:196
+VFX_PrepareBechamelSauce: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:43; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:43
+VFX_PrepareBiscuits: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:103; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:103
+VFX_PrepareBlackberryPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:231; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:503; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:231; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:503
+VFX_PrepareBlueberryMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:78; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:78
+VFX_PrepareBlueberryPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:226; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:498; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:226; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:498
+VFX_PrepareBrownieTray: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:85; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:85
+VFX_PrepareBrownies: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:87; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:87
+VFX_PrepareButterChicken: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:197; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:197
+VFX_PrepareCaramelCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:67; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:67
+VFX_PrepareCaramelFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:110; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:110
+VFX_PrepareCarrotCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:63; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:63
+VFX_PrepareChanaMasala: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:200; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:200
+VFX_PrepareCheddarBiscuits: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:105; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:105
+VFX_PrepareCheesecake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:172; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:172
+VFX_PrepareCherryPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:225; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:497; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:225; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:497
+VFX_PrepareChickenDivan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:188; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:188
+VFX_PrepareChickenPotPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:186; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:186
+VFX_PrepareChocolateCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:64; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:64
+VFX_PrepareChocolateChipMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:79; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:79
+VFX_PrepareChocolateFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:111; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:111
+VFX_PrepareChocolateSwirlBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:99; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:99
+VFX_PrepareCinnamonSwirlBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:100; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:100
+VFX_PrepareConfettiCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:69; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:69
+VFX_PrepareConfettiFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:115; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:115
+VFX_PrepareCornMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:81; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:81
+VFX_PrepareCranberryBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:101; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:101
+VFX_PrepareCreamCheeseFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:114; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:114
+VFX_PrepareDessertBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:95; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:95
+VFX_PrepareDoubleChocolateMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:80; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:80
+VFX_PrepareEnchilada: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:171; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:171
+VFX_PrepareFishandChips: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:190; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:190
+VFX_PrepareFrenchVanillaCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:62; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:62
+VFX_PrepareFreshPastaPot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:36; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:36
+VFX_PrepareFreshPastaSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:35; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:35
+VFX_PrepareFriedRice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:175; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:175
+VFX_PrepareFullEnglishBreakfast: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:192; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:192
+VFX_PrepareGingerbreadCookieDough: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:92; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:92
+VFX_PrepareHalfEnglishBreakfast: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:193; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:193
+VFX_PrepareHomestyleBiscuits: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:106; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:106
+VFX_PrepareLasagna: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:165; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:165
+VFX_PrepareLemonCreamPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:230; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:502; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:230; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:502
+VFX_PrepareLemonFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:112; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:112
+VFX_PrepareLemonPoppyMuffins: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:82; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:82
+VFX_PrepareMarinara: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:38; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:38
+VFX_PrepareMashedPotato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:128; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:128
+VFX_PrepareMassamanCurry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:199; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:199
+VFX_PrepareMeatSauce: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:40; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:40
+VFX_PrepareMeatloaf: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:166; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:166
+VFX_PrepareMilkshake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:173; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:173
+VFX_PrepareMixedBerryPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:229; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:501; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:229; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:501
+VFX_PrepareMoussaka: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:187; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:187
+VFX_PrepareMuffinTray: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:74; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:74
+VFX_PrepareNachos: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:170; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:170
+VFX_PrepareOrangePoppyseedCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:68; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:68
+VFX_PreparePacketPasta: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:32; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:32
+VFX_PreparePacketRice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:33; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:33
+VFX_PreparePeachPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:228; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:500; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:228; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:500
+VFX_PreparePeanutButterCookieDough: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:91; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:91
+VFX_PreparePecanPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:235; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:507; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:235; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:507
+VFX_PreparePieFilling: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:222; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:494; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:222; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:494
+VFX_PreparePuddingMix: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:108; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:108
+VFX_PreparePumpkinBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:98; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:98
+VFX_PreparePumpkinPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:233; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:505; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:233; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:505
+VFX_PrepareQuiche: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:169; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:169
+VFX_PrepareRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:30; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:30
+VFX_PrepareRaspberryPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:232; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:504; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:232; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:504
+VFX_PrepareRedVelvetCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:65; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:65
+VFX_PrepareSalisburySteak: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:189; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:189
+VFX_PrepareSausageAndAppleFry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:195; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:195
+VFX_PrepareScallopedPotatoBake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:168; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:168
+VFX_PrepareScotchEgg: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:194; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:194
+VFX_PrepareShephardsPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:181; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:181
+VFX_PrepareSnickerdoodleCookieDough: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:93; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:93
+VFX_PrepareSoup_ChickenNoodle: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:25; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:25
+VFX_PrepareSoup_PeaAndHam: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:24; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:24
+VFX_PrepareSoup_Pumpkin: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:23; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:23
+VFX_PrepareSoup_Tomato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:26; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:26
+VFX_PrepareSpiceCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:70; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:70
+VFX_PrepareSpicyMarinara: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:39; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:39
+VFX_PrepareStrawberryCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:66; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:66
+VFX_PrepareStrawberryFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:113; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:113
+VFX_PrepareStrawberryPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:227; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:499; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:227; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:499
+VFX_PrepareStuffedBellPeppers: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:184; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:184
+VFX_PrepareSushi: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:174; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:174
+VFX_PrepareSweetPotatoChickpeaCurry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:201; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:201
+VFX_PrepareSweetPotatoPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:234; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:506; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:234; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:506
+VFX_PrepareThaiGreenCurry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:198; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:198
+VFX_PrepareTofuCurry: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:202; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:202
+VFX_PrepareTunaCasserole: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:182; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:182
+VFX_PrepareVanillaFrosting: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:116; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:116
+VFX_PrepareYellowCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:71; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:71
+VFX_PutCakeInBakingPan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:59; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:59
+VFX_ScoopIceCream: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:125; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:125
+VFX_SliceBakingPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:219; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:491; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:219; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:491
+VFX_SliceCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:60; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:60
+VFX_SliceCheesecake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:177; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:177
+VFX_SliceDessertBread: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:96; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:96
+VFX_SliceFrozenPie: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:220; vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:492; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:220; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:492
+VFX_SlicePizza: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:120; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:120
+VFX_SlicePotato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:127; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:127
+VFX_TakeBouillonCubeFromBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:20; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:20
+VFX_TakeTeaBagFromBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Recipes_EN.txt:157; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Recipes_EN.txt:157
+fhqMakeApocalypseGasTank: mad max 2 pursuit special [fhq]:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:2
+fhqMakePursuitSpecialSpoiler: mad max 2 pursuit special [fhq]:42.0/media/lua/shared/Translate/EN/Recipes_EN.txt:3
+fixing_Fix_Chainsaw: authentic z - current:media/lua/shared/Translate/EN/Recipes_EN.txt:76; authentic z - current:42/media/lua/shared/Translate/EN/Recipes_EN.txt:69

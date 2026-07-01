@@ -1,0 +1,506 @@
+Tooltip_4512Mag: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:66
+Tooltip_556Clip: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:60
+Tooltip_556Clip50: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:61
+Tooltip_556ClipDrum: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:62
+Tooltip_762Mag: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:65
+Tooltip_762x39Clip: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:63
+Tooltip_9mmSMGMag: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:64
+Tooltip_AA12: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:16
+Tooltip_AK105: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:26
+Tooltip_AK47: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:24
+Tooltip_AR15: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:29
+Tooltip_AZSleepingBag: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:59; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:57
+Tooltip_AZSleepingBag2: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:60; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:58
+Tooltip_AddWalkieTV110: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:48; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:47
+Tooltip_AddWalkieTV110Bag: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:49; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:48
+Tooltip_AmmoStrap: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:85
+Tooltip_AmmoStrapBullets: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:95
+Tooltip_AmmoStrapShells: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:96
+Tooltip_AnimalMilkMixture: feedthatanimal:media/lua/shared/Translate/EN/Tooltip_EN.txt:2; feedthatanimal:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_ArcadeCentipede: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_ArcadeDigDug: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_ArcadeDonkeyKong: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_ArcadeDoubleDragon: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_ArcadePacMan: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_ArcadeROM: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_ArcadeSpaceInvaders: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_ArcadeStreetFighterII: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_ArcadianCarpet: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:29
+Tooltip_AttachAliceBackpackTier1: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:13; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:13
+Tooltip_AttachAliceBackpackTier2: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:14; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:14
+Tooltip_AttachAliceBackpackTier3: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:15; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:15
+Tooltip_AttachBackpack: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:2; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_AttachBackpackRevert: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:3; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_AttachBackpackTier1: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:4; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_AttachBackpackTier2: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:5; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_AttachBackpackTier3: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:6; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_AttachBigHikingBackpackTier1: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:10; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_AttachBigHikingBackpackTier2: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:11; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_AttachBigHikingBackpackTier3: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:12; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_AttachHikingBackpackTier1: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:7; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_AttachHikingBackpackTier2: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:8; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_AttachHikingBackpackTier3: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:9; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_AuthenticAndyBoard: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:18; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:18
+Tooltip_AuthenticFlareGun: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:17; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:17
+Tooltip_BalloonAnimal_1: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:80; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:75
+Tooltip_Bandages: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:22; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:22
+Tooltip_Beehive_AffectedByTemperature: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:26
+Tooltip_Beehive_AffectedByTime: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:22
+Tooltip_Beehive_AffectedByWeather: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:24
+Tooltip_Beehive_BadWeather: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_Beehive_BaitHive: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:18
+Tooltip_Beehive_BuildBeehive: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:34
+Tooltip_Beehive_Bumblebee: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:16
+Tooltip_Beehive_DisassembleComb: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:33
+Tooltip_Beehive_HiveFrame: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:19
+Tooltip_Beehive_HoneyExtractor: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:35
+Tooltip_Beehive_Honeybee: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:17
+Tooltip_Beehive_Indoor: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:13
+Tooltip_Beehive_IndoorInfo: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:14
+Tooltip_Beehive_NearbyPlants: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:28
+Tooltip_Beehive_NeedBee: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_Beehive_NeedBeeInfo: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_Beehive_NotAffectedByTemperature: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:27
+Tooltip_Beehive_NotAffectedByTime: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:23
+Tooltip_Beehive_NotAffectedByWeather: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:25
+Tooltip_Beehive_PlantBoostInfo: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:29
+Tooltip_Beehive_StopWorkingInfo: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_Beehive_TooCold: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_Beehive_TooHot: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_Beehive_WildHoneyComb: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:20
+Tooltip_Beehive_WorkingFine: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_Beehive_WorkingFineInfo: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_Beehive_Zombee: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:15
+Tooltip_Beehive_isNight: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_Beehive_isNightInfo: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_Beretta93R: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_BerettaM92F: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_Biker: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:5; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:5; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_BoatDashboard_SpeedValueButton: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_Boat_LowBattery: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_BookTitle: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:3; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_BookTitle_1: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:4; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_BookTitle_3: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:5; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_BookTitle_5: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:6; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_BookTitle_7: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:7; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_BookTitle_9: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:8; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_BookTitle_Aiming: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:3; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_BookTitle_Axe: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:6; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_BookTitle_Blacksmith: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:9; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_BookTitle_Blunt: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:7; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_BookTitle_Carpentry: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:10; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_BookTitle_Cooking: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:11; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_BookTitle_Driving: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:23; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:23
+Tooltip_BookTitle_Efficiency: cjsefficiencyskillmod:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_BookTitle_Electricity: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:12; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_BookTitle_Farming: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:13; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:13
+Tooltip_BookTitle_FirstAid: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:14; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:14
+Tooltip_BookTitle_Fishing: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:15; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:15
+Tooltip_BookTitle_Fitness: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:13; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:13
+Tooltip_BookTitle_Foraging: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:16; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:16
+Tooltip_BookTitle_Lightfooted: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:14; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:14
+Tooltip_BookTitle_LongBlade: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:11; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_BookTitle_Maintenance: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:2; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_BookTitle_Mechanics: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:17; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:17
+Tooltip_BookTitle_MetalWelding: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:18; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:18
+Tooltip_BookTitle_Nimble: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:5; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_BookTitle_Reloading: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:4; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_BookTitle_Scavenging: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:22; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:22
+Tooltip_BookTitle_SmallBlade: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:10; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_BookTitle_SmallBlunt: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:8; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_BookTitle_Sneaking: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:15; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:15
+Tooltip_BookTitle_Spear: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:9; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_BookTitle_Sprinting: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:16; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:16
+Tooltip_BookTitle_Strength: extrabooks:media/lua/shared/Translate/EN/Tooltip_EN.txt:12; extrabooks:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_BookTitle_Tailoring: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:19; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:19
+Tooltip_BookTitle_Tinkering: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:24; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:24
+Tooltip_BookTitle_Trapping: BetterSorting-42:media/lua/shared/Translate/EN/Tooltip_EN.txt:20; BetterSorting-42:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:20
+Tooltip_Brain: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:23; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:23
+Tooltip_Carabiner: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:19; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:19
+Tooltip_CharliesAngel: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:34
+Tooltip_ChokeTubeFull: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:93
+Tooltip_ChokeTubeImproved: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:94
+Tooltip_ClamShell: caster plus:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_ColtCommando: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:31
+Tooltip_ColtM1911: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_Compact_Appliance: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_Compensator: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:80
+Tooltip_ComplexTerminator2: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_Cowboy: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:4; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:4; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_CuredMeat: modname:42.12/media/lua/shared/translate/EN/Tooltip_EN.txt:3; modname:42.13/media/lua/shared/translate/EN/Tooltip_EN.txt:3; longtermpreservationextended:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_DesertEagle: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_Dimitrescu: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:24; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:24
+Tooltip_DoubleBarrel: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:15
+Tooltip_FiberglassStock: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:86
+Tooltip_FishBoneHead: caster plus:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_FishingRodMould: caster plus:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_Foregrip: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:89
+Tooltip_G3: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:44
+Tooltip_Galil: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:32
+Tooltip_Glock17: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_GlowStickPack: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:61; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:59
+Tooltip_Goal_Exceeded: EatSmart:media/lua/shared/Translate/EN/Tooltip_EN.txt:3; EatSmart:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_Goth: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:3; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:3; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_GunCleaningKit: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:99
+Tooltip_GunMagWeaponPart: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:70
+Tooltip_Gunzlighter: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:78
+Tooltip_HKM23: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_HKUSP: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_Hand: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:25; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:25
+Tooltip_HandTorch2: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:26; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:26
+Tooltip_Heart: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:27; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:27
+Tooltip_HellraiserButterball: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:75; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:70
+Tooltip_HellraiserChatterer: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:76; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:71
+Tooltip_HellraiserCube: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:77; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:72
+Tooltip_HellraiserOpenThroat: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:78; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:73
+Tooltip_HellraiserPinhead: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:79; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:74
+Tooltip_Hephas_StalkerPDA: hephasstalkerpda:media/lua/shared/Translate/EN/Tooltip_EN.txt:2; hephasstalkerpda:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_HoldRecipe_CollectBeeswax: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:41
+Tooltip_HoldRecipe_HoneyBandage: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:43
+Tooltip_HoldRecipe_MakeBeehiveBasicFrame: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:40
+Tooltip_HoldRecipe_UseWaxMaintenanceWeapon: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:42
+Tooltip_HoneyBadger: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:33
+Tooltip_HoneyExtractor_ExtractDetail: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:32
+Tooltip_HoneyExtractor_WouldDamaged: shelterhold_beehive:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:31
+Tooltip_HoodieCraft: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:28; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:28
+Tooltip_IronSight: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:81
+Tooltip_JPCane: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:56; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:54
+Tooltip_JasonV: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:29; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:29
+Tooltip_KATTAJ1_TacticalFlashlight: kattaj1 clothes core:media/lua/shared/Translate/EN/Tooltip_EN.txt:2; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:2; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_KeyRing_BlueGhost: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:27
+Tooltip_Kidney: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:30; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:30
+Tooltip_KrissVector: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:51
+Tooltip_LSMRR_ItemVolume: louder noisemakers + extended range remotes:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_Laser: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:90
+Tooltip_Liver: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:31; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:31
+Tooltip_LongRanger: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:28
+Tooltip_LongRangerPistol: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_M14: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:42
+Tooltip_M16A1: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:30
+Tooltip_M249: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:57
+Tooltip_M60: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:56
+Tooltip_MAC10: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:49
+Tooltip_MII_Accuracy: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_MII_AttackSpeed: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_MII_ConditionLowerChance: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_MII_CritChance: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_MII_Electronic: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:44
+Tooltip_MII_FireFuel: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:42
+Tooltip_MII_Gold: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:32
+Tooltip_MII_GrowingSeasons: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:15
+Tooltip_MII_GrowthTime: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:16
+Tooltip_MII_Knockback: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_MII_LargeAluminium: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:40
+Tooltip_MII_LargeCopper: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:38
+Tooltip_MII_LargeIron: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:23
+Tooltip_MII_LargeSteel: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:27
+Tooltip_MII_MediumCopper: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:39
+Tooltip_MII_MediumIron: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:21
+Tooltip_MII_MediumPlusIron: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:22
+Tooltip_MII_MediumPlusSteel: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:26
+Tooltip_MII_MediumSteel: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:25
+Tooltip_MII_MeltedDays: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_MII_NoiseRadius: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_MII_ReadTimeLeft: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:45
+Tooltip_MII_ReloadTime: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:13
+Tooltip_MII_RottenDays: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_MII_Scrappable: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:19
+Tooltip_MII_Seasoning: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_MII_Silver: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:37
+Tooltip_MII_SmallGold: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:31
+Tooltip_MII_SmallIron: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:20
+Tooltip_MII_SmallSilver: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:36
+Tooltip_MII_SmallSteel: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:24
+Tooltip_MII_SmallerGold: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:30
+Tooltip_MII_SmallerSilver: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:35
+Tooltip_MII_SmallestGold: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:29
+Tooltip_MII_SmallestSilver: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:34
+Tooltip_MII_Smeltable: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:18
+Tooltip_MII_StaleDays: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_MII_Tinder: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:43
+Tooltip_MII_TinyGold: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:28
+Tooltip_MII_TinySilver: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:33
+Tooltip_MII_UsesLeft: MoreItemInformation:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:46
+Tooltip_MP5: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:46
+Tooltip_MP5SD: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:47
+Tooltip_MakeButton: gun's elevator:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:8; gun's elevator:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_MarlinM1894: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:54
+Tooltip_MeatChunk1: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:32; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:32
+Tooltip_MeatChunk2: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:33; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:33
+Tooltip_MeatChunk3: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:34; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:34
+Tooltip_MeatChunk4: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:35; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:35
+Tooltip_MeatChunk5: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:36; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:36
+Tooltip_MetalPipeSilencer: simplesilencers:media/lua/shared/Translate/EN/Tooltip_EN.txt:4; simplesilencers:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_Military: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:8; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:8; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_Mom: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:11; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:11; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_MoreTraits_AntiqueAxe: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:2; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:2; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:2; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_MoreTraits_AntiqueMag1: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:9; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:9; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:9; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:9; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_MoreTraits_AntiqueMag2: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:10; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:10; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:10; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:10; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_MoreTraits_AntiqueMag3: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:11; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:11; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:11; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:11; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_MoreTraits_BloodyCrowbar: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:6; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:6; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:6; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:6; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_MoreTraits_BloodyItemBoost: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:14; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:14; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:14; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:14; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:14
+Tooltip_MoreTraits_Cure: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:8; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:8; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:8; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:8; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_MoreTraits_ItemBoost: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:13; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:13; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:13; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:13; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:13
+Tooltip_MoreTraits_ObsidianBlade: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:4; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:4; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:4; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:4; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_MoreTraits_PackerBag: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:5; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:5; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:5; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:5; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_MoreTraits_PapierMacheSword: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:12; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:12; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:12; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:12; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_MoreTraits_Slugger: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:7; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:7; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:7; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:7; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_MoreTraits_Thumper: more traits:media/lua/shared/Translate/EN/Tooltip_EN.txt:3; more traits:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3; more traits:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:3; more traits:42.15/media/lua/shared/Translate/EN/Tooltip_EN.txt:3; more traits:42.17/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_MossbergM590T: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:17
+Tooltip_NnC_Baggie: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_NnC_Blunt: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:47
+Tooltip_NnC_BluntWrap: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:48
+Tooltip_NnC_Bong: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:49
+Tooltip_NnC_BongWeed: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:50
+Tooltip_NnC_CocaLeaf: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:14
+Tooltip_NnC_CocaPaste: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:13
+Tooltip_NnC_CocaineMirror: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_NnC_CokeBaggie: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_NnC_CokeBrick: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_NnC_Crack: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_NnC_CrackCocaine: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_NnC_CrackCocaineMixture: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_NnC_CrackPipe: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:51
+Tooltip_NnC_CrystalMeth: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:16
+Tooltip_NnC_Fentanyl: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:32
+Tooltip_NnC_Grinder: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:52
+Tooltip_NnC_GrinderwithKief: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:53
+Tooltip_NnC_Heroin3: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:33
+Tooltip_NnC_Heroin4: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:34
+Tooltip_NnC_HeroinNo1: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:37
+Tooltip_NnC_HeroinNo2PF: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:39
+Tooltip_NnC_HeroinNo2Pot: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:38
+Tooltip_NnC_Joint: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:54
+Tooltip_NnC_LSD: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:42
+Tooltip_NnC_MDMA: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:45
+Tooltip_NnC_MShroom: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:43
+Tooltip_NnC_MShroomSpores: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:44
+Tooltip_NnC_MethBeaker: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:17
+Tooltip_NnC_MethCowffeeBox: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:18
+Tooltip_NnC_MethDiethylEther: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:19
+Tooltip_NnC_MethHotPlate: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:20
+Tooltip_NnC_MethLabCase: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:21
+Tooltip_NnC_MethLabCaseUnopened: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:22
+Tooltip_NnC_MethMuriaticAcid: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:26
+Tooltip_NnC_MethPyrexDishCooked: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:25
+Tooltip_NnC_MethPyrexDishEmpty: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:23
+Tooltip_NnC_MethPyrexDishUncooked: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:24
+Tooltip_NnC_MethRoundFlaskBurner: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:27
+Tooltip_NnC_MethSudoPackette: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:28
+Tooltip_NnC_MethVolumetricFlask: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:29
+Tooltip_NnC_Opium: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:15
+Tooltip_NnC_OpiumPot: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:35
+Tooltip_NnC_OpiumPotForged: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:36
+Tooltip_NnC_Oxycodone: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:40
+Tooltip_NnC_Ritalin: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:30
+Tooltip_NnC_WeedBrick: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:59
+Tooltip_NnC_WeedCured: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:63
+Tooltip_NnC_WeedCuredJar: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:62
+Tooltip_NnC_WeedCuring: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:61
+Tooltip_NnC_WeedDry: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:60
+Tooltip_NnC_WeedFlower: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:64
+Tooltip_NnC_WeedJarAK: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:55
+Tooltip_NnC_WeedJarKief: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:58
+Tooltip_NnC_WeedJarNL: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:56
+Tooltip_NnC_WeedJarSD: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:57
+Tooltip_NnC_WeedPipe: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:65
+Tooltip_NnC_WeedPipeWeed: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:66
+Tooltip_NnC_Xanax: n&c's narcotics:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_Not_enough_drink: DrinkSmart:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_Not_enough_food: EatSmart:media/lua/shared/Translate/EN/Tooltip_EN.txt:2; EatSmart:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_OldPainless: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:58
+Tooltip_OpenJacket: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:37; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:37
+Tooltip_Ornamental: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:10; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:10; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_P226: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_P90: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:52
+Tooltip_P90Mag: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:68
+Tooltip_Pearl: caster plus:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_PenMulticolor_DKong: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:28
+Tooltip_Pills: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:21; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:21
+Tooltip_PillsVitamins_Hephas: HephasVitamines:media/lua/shared/Translate/EN/Tooltip_EN.txt:2; HephasVitamines:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_PinballAddamsFamily: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:18
+Tooltip_PinballBlackKnight2000: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:22
+Tooltip_PinballFunHouse: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:21
+Tooltip_PinballIndianaJones: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:20
+Tooltip_PinballTwilightZone: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:19
+Tooltip_PostalDude: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:20; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:20
+Tooltip_PowderedMilk: feedthatanimal:media/lua/shared/Translate/EN/Tooltip_EN.txt:3; feedthatanimal:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_RK62: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:25
+Tooltip_Recipe_ConvertMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:102
+Tooltip_Recipe_Freezersystemcraft: rsemitruck:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_Recipe_SawoffTactical: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:101
+Tooltip_RecoilPad: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:88
+Tooltip_RecreativeClaw: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:15
+Tooltip_RecreativeCoinPusher: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:16
+Tooltip_RecreativePunching: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:14
+Tooltip_RedDot: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:91
+Tooltip_Regular: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:7; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:7; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_RemingtonM1187: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:20
+Tooltip_RemingtonM24: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:43
+Tooltip_RemingtonM788: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:41
+Tooltip_RemoveWalkieTV110: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:50; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:49
+Tooltip_RemoveWalkieTV110Bag: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:51; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:50
+Tooltip_Revolver: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:36
+Tooltip_RevolverLong: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:37
+Tooltip_RevolverShort: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:38
+Tooltip_RotaryPhone: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:64; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:61
+Tooltip_SKS56: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:23
+Tooltip_SOCOMRedDot: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:92
+Tooltip_SOTO_MinersEndurancePickAxe: simpleoverhaultraitsandoccupations:media/lua/shared/Translate/EN/Tooltip_EN.txt:5; simpleoverhaultraitsandoccupations:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_SOTO_MyBelovedWoodAxe: simpleoverhaultraitsandoccupations:media/lua/shared/Translate/EN/Tooltip_EN.txt:4; simpleoverhaultraitsandoccupations:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_SOTO_StrongGripSledgehammer: simpleoverhaultraitsandoccupations:media/lua/shared/Translate/EN/Tooltip_EN.txt:3; simpleoverhaultraitsandoccupations:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_SPAS12: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:21
+Tooltip_SWM29: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:39
+Tooltip_SawnoffM590T: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:18
+Tooltip_Scandroid: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:38; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:38
+Tooltip_Scope: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:82
+Tooltip_Scopex2x12: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:84
+Tooltip_Shellholder: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:97
+Tooltip_Shotgun: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:14
+Tooltip_Silencer: simplesilencers:media/lua/shared/Translate/EN/Tooltip_EN.txt:3; simplesilencers:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_Size2XL: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:68; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:65
+Tooltip_Size3XL: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:69; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:66
+Tooltip_SizeXL: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:67; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:64
+Tooltip_SizeXS: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:66; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:63
+Tooltip_Sling: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:87
+Tooltip_SmallFishScales: caster plus:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_Spengler: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:41; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:41
+Tooltip_Squaretoe: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:9; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:9; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_Stantz: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:40; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:40
+Tooltip_Stiletto: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:2; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:2; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_Stomper: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:6; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:6; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_Stop: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:39; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:39
+Tooltip_StrangeFish: caster plus:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_SubstitutionDoll: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:71; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:68
+Tooltip_Suppressor: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:79
+Tooltip_Surgery_And: cjstheonlycure:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_Surgery_CantCauterize: cjstheonlycure:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_Surgery_Coward: cjstheonlycure:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_Surgery_LimbNotFree: cjstheonlycure:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_Surgery_TempTooLow: cjstheonlycure:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_Survival_Torch: b42survival:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_Survival_TorchBurning: b42survival:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_TABAS_BodyShampoo: take a bath and shower:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_TV110Bag: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:53; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:52
+Tooltip_TacticalWebbing: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:47; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:46
+Tooltip_TagillaHelmet: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:57; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:55
+Tooltip_Thompson: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:50
+Tooltip_ThompsonMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:67
+Tooltip_TribTrophy1: caster plus:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_TribTrophy2: caster plus:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_TribTrophy3: caster plus:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_UZI: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:48
+Tooltip_Unicorn: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:81; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:76
+Tooltip_VFXRavioliTortellini: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:5; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_VFX_Recipe_MeatCooked: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:3; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_VFX_Recipe_RiceCooked: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:4; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_VehicleRecycling: VehicleRecycling:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_VehicleRecycling_Passengers: VehicleRecycling:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_VehicleRecycling_Uninstall: VehicleRecycling:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_Venkman: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:42; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:42
+Tooltip_VorpalShard: vorpallysauced:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_WP_NeedsCharcoal: waterpipes:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:5; waterpipes:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_WP_NeedsPowerToOperate: waterpipes:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:4; waterpipes:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_WP_NeedsScrapMetal: waterpipes:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:6; waterpipes:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_WP_ThePumpIsWornOut: waterpipes:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:3; waterpipes:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_WP_ThePumpWornHazard: waterpipes:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:2; waterpipes:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_WP_craft_flowmeterDesc: waterpipes:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:11; waterpipes:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_WP_craft_pipeDesc: waterpipes:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:7; waterpipes:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_WP_craft_pumpDesc: waterpipes:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:8; waterpipes:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_WP_craft_sprinklerDesc: waterpipes:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:9; waterpipes:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_WP_craft_valveDesc: waterpipes:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:10; waterpipes:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_WalletILovePixels: projectarcade:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:26
+Tooltip_WaltherP5: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_WinM1887: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:19
+Tooltip_Winslow: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:43; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:43
+Tooltip_Zeddemore: authentic z - current:media/lua/shared/Translate/EN/Tooltip_EN.txt:44; authentic z - current:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:44
+Tooltip_alreadyMoving: gun's elevator:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:2; gun's elevator:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_cantclimbup: gun's elevator:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:5; gun's elevator:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_elevatorOn: gun's elevator:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:4; gun's elevator:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_elevatorhere: gun's elevator:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:6; gun's elevator:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_item_ATABMWe36TuningMag: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:53
+Tooltip_item_ATADodgeTuningMag: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:31
+Tooltip_item_ATAPetyarbuiltTuningMag: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:35
+Tooltip_item_ATATuningChevalierSamara: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:27
+Tooltip_item_ATATuningFordMustang: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:26
+Tooltip_item_ATATuningMagDeRumba: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:43
+Tooltip_item_ATATuningMagLuton: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:39
+Tooltip_item_ATATuningMagUniversal: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_item_ATAVanillaTuningMag: standardizedvehicleupgrades3vanilla:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:2; standardizedvehicleupgrades3vanilla:media/lua/shared/Translate/EN/Tooltip_EN.txt:2
+Tooltip_item_AtTuningMagBus: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:16
+Tooltip_item_AtTuningMagJeep: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:21
+Tooltip_item_BoatMag: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_item_BoatMechanic: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_item_Boombox: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:47
+Tooltip_item_MashedBerry: modname:42.12/media/lua/shared/translate/EN/Tooltip_EN.txt:5; modname:42.13/media/lua/shared/translate/EN/Tooltip_EN.txt:5; longtermpreservationextended:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:5
+Tooltip_item_MashedVeggieOil: longtermpreservationextended:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_item_SaltRock: modname:42.12/media/lua/shared/translate/EN/Tooltip_EN.txt:4; modname:42.13/media/lua/shared/translate/EN/Tooltip_EN.txt:4; longtermpreservationextended:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_item_SwimMag: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_item_Vinyl: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:48
+Tooltip_item_Walkman: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:49
+Tooltip_item_damnAutoManual: damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:38; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:38
+Tooltip_item_damnBodyworkSchematics: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:30
+Tooltip_item_damnBullbarFront: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:48; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:43; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:43
+Tooltip_item_damnBullbarRear: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:50; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:45; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:45
+Tooltip_item_damnBumperFront: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:47; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:42; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:42
+Tooltip_item_damnBumperRear: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:49; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:44; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:44
+Tooltip_item_damnBumperSchematics: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:29
+Tooltip_item_damnDoorSchematics: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:23
+Tooltip_item_damnEmergencyManual: damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:48
+Tooltip_item_damnGlassPane: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:13; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:10; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:10
+Tooltip_item_damnHandle: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:14; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:11; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:11
+Tooltip_item_damnHinge: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:15; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:12; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:12
+Tooltip_item_damnHoodSchematics: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:24
+Tooltip_item_damnJDMManual: damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:57
+Tooltip_item_damnMilitaryManual: damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:49
+Tooltip_item_damnMufflerSchematics: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:28
+Tooltip_item_damnMuscleManual: damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:54
+Tooltip_item_damnPassengerClassicManual: damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:50
+Tooltip_item_damnPassengerMidManual: damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:51
+Tooltip_item_damnPassengerModernManual: damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:52
+Tooltip_item_damnPerformanceManual: damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:53
+Tooltip_item_damnPlasticWeldingGun: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:38; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:24; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:24
+Tooltip_item_damnPlasticWeldingKit: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:37; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:23; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:23
+Tooltip_item_damnPlasticWeldingStaples: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:39; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:25; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:25
+Tooltip_item_damnRimSchematics: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:27
+Tooltip_item_damnRubberStrip: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:16; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:13; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:13
+Tooltip_item_damnSchematicsBox: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:21
+Tooltip_item_damnSeatFabric: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:17; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:14; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:14
+Tooltip_item_damnSeatFoam: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:18; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:15; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:15
+Tooltip_item_damnSeatFrame: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:19; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:16; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:16
+Tooltip_item_damnSeatSchematics: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:26
+Tooltip_item_damnSideArmor: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:44; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:39; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:39
+Tooltip_item_damnSportUtilityManual: damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:55
+Tooltip_item_damnSteelRim: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:10; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:7; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:7
+Tooltip_item_damnTireMount: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:12; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:9; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:9
+Tooltip_item_damnTireRepairKit: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:32; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:18; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:18
+Tooltip_item_damnTireRepairSolution: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:34; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:20; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:20
+Tooltip_item_damnTireRepairStrips: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:35; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:21; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:21
+Tooltip_item_damnTireRepairTools: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:33; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:19; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:19
+Tooltip_item_damnTireRubber: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:11; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:8; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:8
+Tooltip_item_damnTrunkLidSchematics: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:25
+Tooltip_item_damnUtilityManual: damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:56
+Tooltip_item_damnWindowSchematics: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:22
+Tooltip_item_damnWindshieldFrontArmor: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:45; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:40; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:40
+Tooltip_item_damnWindshieldRearArmor: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:46; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:41; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:41
+Tooltip_item_damnacetone: damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:31; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:31
+Tooltip_item_damngenericFilledMold: damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:30; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:30
+Tooltip_item_damngenericMold: damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:28; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:28
+Tooltip_item_damngenericNegativeMold: damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:29; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:29
+Tooltip_item_damnmoldBox: damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:27; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:27
+Tooltip_item_damnstyrofoam: damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:32; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:32
+Tooltip_item_damnstyrofoamPaste: damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:33; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:33
+Tooltip_item_kengur: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:17
+Tooltip_item_oldrunFlatTire: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:6
+Tooltip_item_runFlatTire: damnlib:media/lua/shared/Translate/EN/Tooltip_EN.txt:5; damnlib:42.0/media/lua/shared/Translate/EN/Tooltip_EN.txt:4; damnlib:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:4
+Tooltip_item_tuning: tsarslib:common/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_onSameFloor: gun's elevator:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:3; gun's elevator:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:3
+Tooltip_weapon_AmmoStrap: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:72
+Tooltip_weapon_Clip: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:76
+Tooltip_weapon_CustomStock: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:73
+Tooltip_weapon_Foregrip: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:77
+Tooltip_weapon_GunLight: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:71
+Tooltip_weapon_LaserSight: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:74
+Tooltip_weapon_Shellholder: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:75
+Tooltip_x4ACOGScope: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Tooltip_EN.txt:83
+Tooltip_youarehere: gun's elevator:42.12/media/lua/shared/Translate/EN/Tooltip_EN.txt:7; gun's elevator:42.13/media/lua/shared/Translate/EN/Tooltip_EN.txt:7

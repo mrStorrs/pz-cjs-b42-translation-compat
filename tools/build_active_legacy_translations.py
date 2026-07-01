@@ -14,7 +14,23 @@ SAVE_MODS = Path(
 )
 DEFAULT_MODS = Path("/media/cjstorrs/windows/Users/cjsto/Zomboid/mods/default.txt")
 
-VALUE_RE = re.compile(r"^\s*(.+?)\s*=\s*([\"'])(.*)\2\s*[,，]?\s*$")
+VALUE_RE = re.compile(r"^\s*(.+?)\s*=\s*([\"'])(.*)\2\s*[,，.]?\s*$")
+BARE_TRAILING_QUOTE_RE = re.compile(r"^\s*(.+?)\s*=\s*([^\"'].+?)[\"']\s*[,，.]?\s*$")
+CATEGORY_ALIASES = {
+    "item_name": "ItemName",
+    "itemname": "ItemName",
+    "items": "ItemName",
+    "sandbox": "Sandbox",
+}
+IGNORED_CATEGORY_PREFIXES = ("!",)
+
+
+def canonical_category(category: str) -> str:
+    return CATEGORY_ALIASES.get(category.lower(), category)
+
+
+def ignored_category(category: str) -> bool:
+    return category.startswith(IGNORED_CATEGORY_PREFIXES)
 
 
 def parse_mod_list(path: Path) -> list[str]:
@@ -35,15 +51,19 @@ def parse_mod_info_ids(path: Path) -> set[str]:
     return ids
 
 
-def active_roots(active_ids: set[str]) -> list[Path]:
-    roots: list[Path] = []
+def active_roots(active_ids: list[str]) -> list[Path]:
+    active_set = set(active_ids)
+    active_order = {mod_id: index for index, mod_id in enumerate(active_ids)}
+    roots: list[tuple[int, str, Path]] = []
     for root in sorted(p for p in LIVE_MODS_ROOT.iterdir() if p.is_dir()):
         root_ids: set[str] = set()
         for mod_info in root.rglob("mod.info"):
             root_ids.update(parse_mod_info_ids(mod_info))
-        if root_ids & active_ids:
-            roots.append(root)
-    return roots
+        matched_ids = root_ids & active_set
+        if matched_ids:
+            load_index = min(active_order[mod_id] for mod_id in matched_ids)
+            roots.append((load_index, root.name.lower(), root))
+    return [root for _, _, root in sorted(roots)]
 
 
 def strip_lua_comment(line: str) -> str:
@@ -75,6 +95,8 @@ def strip_lua_comment(line: str) -> str:
             index += 1
             continue
         if char == "-" and index + 1 < len(line) and line[index + 1] == "-":
+            break
+        if char == "/" and index + 1 < len(line) and line[index + 1] == "/":
             break
         if char == "/" and index + 1 < len(line) and line[index + 1] == "*":
             end = line.find("*/", index + 2)
@@ -127,13 +149,30 @@ def file_sort_key(path: Path) -> tuple[int, tuple[int, ...], str]:
 
 
 def iter_legacy_files(root: Path, category: str) -> list[Path]:
-    suffix = f"media/lua/shared/Translate/EN/{category}_EN.txt".lower()
+    suffix = "media/lua/shared/translate/en/"
     files = []
-    for path in root.rglob(f"{category}_EN.txt"):
+    for path in root.rglob("*_EN.txt"):
         rel = path.relative_to(root)
-        if str(rel).replace("\\", "/").lower().endswith(suffix):
+        rel_posix = str(rel).replace("\\", "/").lower()
+        if f"/{suffix}" not in f"/{rel_posix}":
+            continue
+        legacy_category = path.name[:-7]
+        if canonical_category(legacy_category) == category:
             files.append(path)
     return sorted(files, key=lambda p: file_sort_key(p.relative_to(root)))
+
+
+def discover_categories(roots: list[Path]) -> list[str]:
+    categories: set[str] = set()
+    for root in roots:
+        for path in root.rglob("*_EN.txt"):
+            rel = path.relative_to(root).as_posix().lower()
+            if "/media/lua/shared/translate/en/" not in f"/{rel}":
+                continue
+            category = canonical_category(path.name[:-7])
+            if not ignored_category(category):
+                categories.add(category)
+    return sorted(categories)
 
 
 def parse_legacy_file(path: Path, root: Path) -> tuple[dict[str, str], list[str], list[str]]:
@@ -150,15 +189,18 @@ def parse_legacy_file(path: Path, root: Path) -> tuple[dict[str, str], list[str]
             not line
             or line.endswith("{")
             or line == "}"
+            or re.match(r"^[A-Za-z0-9_]+\s*(?:\{=?|=)?\s*$", line)
             or re.match(r"^[A-Za-z0-9_]+_EN\s*=\s*$", line)
         ):
             continue
         match = VALUE_RE.match(line)
         if not match:
+            match = BARE_TRAILING_QUOTE_RE.match(line)
+        if not match:
             skipped.append(f"{rel_source}:{line_number}: {original_line.strip()}")
             continue
         key = match.group(1).strip()
-        value = decode_lua_string(match.group(3))
+        value = decode_lua_string(match.group(3) if len(match.groups()) == 3 else match.group(2).strip())
         if not key:
             skipped.append(f"{rel_source}:{line_number}: {original_line.strip()}")
             continue
@@ -212,8 +254,8 @@ def main() -> None:
     parser.add_argument(
         "--categories",
         nargs="+",
-        default=["Sandbox", "UI", "IG_UI"],
-        help="Legacy translation categories to build.",
+        default=None,
+        help="Legacy translation categories to build. Defaults to all active categories except notes.",
     )
     parser.add_argument(
         "--output-root",
@@ -228,9 +270,12 @@ def main() -> None:
     if save_ids != default_ids:
         raise SystemExit("latest save mods.txt does not match mods/default.txt")
 
-    roots = active_roots(set(save_ids))
+    roots = active_roots(save_ids)
     print(f"active roots: {len(roots)}")
-    for category in args.categories:
+    categories = args.categories or discover_categories(roots)
+    categories = sorted({canonical_category(category) for category in categories if not ignored_category(category)})
+    print(f"categories: {', '.join(categories)}")
+    for category in categories:
         build_category(category, roots, args.output_root)
 
 

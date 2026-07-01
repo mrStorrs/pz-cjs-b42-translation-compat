@@ -1,0 +1,4 @@
+ItemName_Base.IPJarringPastaJar_Open: immersivepreservationcanningjarring:42/media/lua/shared/translate/EN/EvolvedRecipeName_EN.txt:4
+ItemName_Base.IPJarringRiceJar_Open: immersivepreservationcanningjarring:42/media/lua/shared/translate/EN/EvolvedRecipeName_EN.txt:5
+ItemName_Base.IPJarringSoupJar_Open: immersivepreservationcanningjarring:42/media/lua/shared/translate/EN/EvolvedRecipeName_EN.txt:2
+ItemName_Base.IPJarringStewJar_Open: immersivepreservationcanningjarring:42/media/lua/shared/translate/EN/EvolvedRecipeName_EN.txt:3

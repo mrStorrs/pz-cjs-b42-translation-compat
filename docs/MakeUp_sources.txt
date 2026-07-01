@@ -1,0 +1,10 @@
+MakeUpType_FullFaceClownFace1Color: authentic z - current:media/lua/shared/Translate/EN/MakeUp_EN.txt:2; authentic z - current:42/media/lua/shared/Translate/EN/MakeUp_EN.txt:2
+MakeUpType_FullFaceClownFace2Color: authentic z - current:media/lua/shared/Translate/EN/MakeUp_EN.txt:3; authentic z - current:42/media/lua/shared/Translate/EN/MakeUp_EN.txt:3
+MakeUpType_FullFaceFreddy: authentic z - current:media/lua/shared/Translate/EN/MakeUp_EN.txt:4; authentic z - current:42/media/lua/shared/Translate/EN/MakeUp_EN.txt:4
+MakeUpType_FullFaceInsane: authentic z - current:media/lua/shared/Translate/EN/MakeUp_EN.txt:5; authentic z - current:42/media/lua/shared/Translate/EN/MakeUp_EN.txt:5
+MakeUpType_FullFaceJoker: authentic z - current:media/lua/shared/Translate/EN/MakeUp_EN.txt:6; authentic z - current:42/media/lua/shared/Translate/EN/MakeUp_EN.txt:6
+MakeUpType_FullFaceJokerColor: authentic z - current:media/lua/shared/Translate/EN/MakeUp_EN.txt:7; authentic z - current:42/media/lua/shared/Translate/EN/MakeUp_EN.txt:7
+MakeUpType_FullFaceMimeBlack: authentic z - current:media/lua/shared/Translate/EN/MakeUp_EN.txt:8; authentic z - current:42/media/lua/shared/Translate/EN/MakeUp_EN.txt:8
+MakeUpType_FullFaceMimeRed: authentic z - current:media/lua/shared/Translate/EN/MakeUp_EN.txt:9; authentic z - current:42/media/lua/shared/Translate/EN/MakeUp_EN.txt:9
+MakeUpType_FullFacePennywise: authentic z - current:media/lua/shared/Translate/EN/MakeUp_EN.txt:10; authentic z - current:42/media/lua/shared/Translate/EN/MakeUp_EN.txt:10
+MakeUpType_FullFaceShotgunFace: authentic z - current:media/lua/shared/Translate/EN/MakeUp_EN.txt:11; authentic z - current:42/media/lua/shared/Translate/EN/MakeUp_EN.txt:11

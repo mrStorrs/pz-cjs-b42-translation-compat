@@ -1,0 +1,492 @@
+ContextMenu_Add_Gasoline_To_Gasoline_Storage_Tank: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:19
+ContextMenu_Admin_ForceAmputation: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:41
+ContextMenu_Admin_ResetTOC: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:40
+ContextMenu_Admin_TOC: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:39
+ContextMenu_AfroPick: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:16; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16
+ContextMenu_AfroPick2: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:17; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17
+ContextMenu_AirCondOff: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14
+ContextMenu_AirCondOn: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+ContextMenu_All_clean: ModTemplate:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Amputate: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Amputate_Bandage: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_Amputate_Stitch: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Amputate_Stitch_Bandage: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_ArcadeLose: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_ArcadeWin: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_AttachHolsterToBeltLeft: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_AttachHolsterToBeltRight: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_AttachHolsterToHipArmorLeft: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_AttachHolsterToHipArmorRight: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_AttachHolsterToHipLeft: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_AttachHolsterToHipRight: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:5; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_AttachPouchToHipLeft: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:9; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_AttachPouchToHipLeftOnArmor: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:11; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_AttachPouchToHipRight: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_AttachPouchToHipRightOnArmor: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:12; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_AttachSheathToBack: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:20; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20
+ContextMenu_AttachSheathToBeltLeft: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:16; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16
+ContextMenu_AttachSheathToBeltRight: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:19; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:19; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:19
+ContextMenu_AttachSheathToHipArmorLeft: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:15; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:15; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:15
+ContextMenu_AttachSheathToHipArmorRight: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:18; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:18; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:18
+ContextMenu_AttachSheathToHipLeft: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:14; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14
+ContextMenu_AttachSheathToHipRight: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:17; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17
+ContextMenu_Attach_Both: attach-bag-to-sheet-rope:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Attach_Primary: attach-bag-to-sheet-rope:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Attach_Secondary: attach-bag-to-sheet-rope:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_AutoMechanics: AutoMechanics:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; AutoMechanics (1):common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_AutoMechanics_UninstallAll: AutoMechanics:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; AutoMechanics (1):common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_AutoReload: AutoReload:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_AutoTailoring: AutoTailoring:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Backwards: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:29; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:29; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:29
+ContextMenu_Bag_Ammopack1Back: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_Bag_Ammopack1Front: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Bag_Ammopack2Front: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_BoatAddGas: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:32
+ContextMenu_BoatCabinelightsOff: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:33
+ContextMenu_BoatCabinelightsOn: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:34
+ContextMenu_BoatHeadlightsOff: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:36
+ContextMenu_BoatHeadlightsOn: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:37
+ContextMenu_BoatHotwireSkill: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:38
+ContextMenu_Buttonup: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:20; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20
+ContextMenu_CallElevator: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_CantLaunchBoat: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:46
+ContextMenu_CantLaunchVehicle: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_CantLoadBoatOntoTrailer: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:48
+ContextMenu_CantLoadBoatOntoTrailerMan: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:49
+ContextMenu_CantLoadVehicleOntoTrailer: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_CantRemovePatchScissors: InteractiveTailoring:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Cauterize: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_Chainsaw_Tree: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:42; authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:69; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:38; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:59
+ContextMenu_CleanWound: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:35
+ContextMenu_ClickToUnload: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_Close: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_CloseDoor: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_CloseHoodDown: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_CloseHoodUp: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_CloseJacket: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_CloseRollDown: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:15; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:15
+ContextMenu_CloseRollUp: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:14; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14
+ContextMenu_CloseTent: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:26
+ContextMenu_Close_Cabin: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:63
+ContextMenu_Close_trunk: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:73
+ContextMenu_ClosedJacket: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_Configure_Container: managecontainers:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; managecontainers:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_Detach_Bags: attach-bag-to-sheet-rope:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_Down: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:33; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:33; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:33
+ContextMenu_DownHoodieOpen: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:34; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:34; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:34
+ContextMenu_DownHoodieS: militaryponchosreloaded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_EasyOutfitsApplyFloor: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_EasyOutfitsApplyPlayer: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:5; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_EasyOutfitsApplyTag: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_EasyOutfitsApplyVehicle: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_EasyOutfitsFixFavoriteWeapon: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:14; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14
+ContextMenu_EasyOutfitsOutfits: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_EasyOutfitsRegisterOutfit: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:11; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_EasyOutfitsRemoveOutfit: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:12; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_EasyOutfitsRenameTag: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_EasyOutfitsRetreiveOutfit: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_EasyOutfitsStoreAndRegisterOutfit: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:13; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+ContextMenu_EasyOutfitsStoreOutfit: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:8; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8
+ContextMenu_EasyOutfitsWearOutfit: easyoutfits:media/lua/shared/Translate/EN/ContextMenu_EN.txt:9; easyoutfits:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_EatShroom: n&c's narcotics:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_EatSmart: EatSmart:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; EatSmart:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_EmergencyStop: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_Empty: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Energy_required: ModTemplate:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_EvolvedRecipe_PastaPan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:91; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:91
+ContextMenu_EvolvedRecipe_PastaPanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:92; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:92
+ContextMenu_EvolvedRecipe_PastaPot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:93; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:93
+ContextMenu_EvolvedRecipe_VFX_AdmiralChompBowl: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:64; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:64
+ContextMenu_EvolvedRecipe_VFX_ArborioRicePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22
+ContextMenu_EvolvedRecipe_VFX_ArborioRicePotForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23
+ContextMenu_EvolvedRecipe_VFX_ArborioRiceSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20
+ContextMenu_EvolvedRecipe_VFX_ArborioRiceSaucepanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:21; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:21
+ContextMenu_EvolvedRecipe_VFX_BakedPotato: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:77; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:77
+ContextMenu_EvolvedRecipe_VFX_BasmatiRicePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17
+ContextMenu_EvolvedRecipe_VFX_BasmatiRicePotForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:18; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:18
+ContextMenu_EvolvedRecipe_VFX_BasmatiRiceSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:15; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:15
+ContextMenu_EvolvedRecipe_VFX_BasmatiRiceSaucepanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16
+ContextMenu_EvolvedRecipe_VFX_BowlBeefRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:69; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:69
+ContextMenu_EvolvedRecipe_VFX_BowlChickenRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:68; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:68
+ContextMenu_EvolvedRecipe_VFX_BowlHotAndSpicyRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:72; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:72
+ContextMenu_EvolvedRecipe_VFX_BowlPorkRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:71; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:71
+ContextMenu_EvolvedRecipe_VFX_BowlShrimpRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:70; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:70
+ContextMenu_EvolvedRecipe_VFX_BowlSoySauceRamen: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:73; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:73
+ContextMenu_EvolvedRecipe_VFX_BrownRicePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_EvolvedRecipe_VFX_BrownRicePotForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8
+ContextMenu_EvolvedRecipe_VFX_BrownRiceSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_EvolvedRecipe_VFX_BrownRiceSaucepanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_EvolvedRecipe_VFX_Casserole: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:75; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:75
+ContextMenu_EvolvedRecipe_VFX_Cheesecake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:83; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:83
+ContextMenu_EvolvedRecipe_VFX_ChiliPot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:49; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:49
+ContextMenu_EvolvedRecipe_VFX_ChiliPotForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:50; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:50
+ContextMenu_EvolvedRecipe_VFX_ChiliSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:47; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:47
+ContextMenu_EvolvedRecipe_VFX_ChiliSaucepanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:48; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:48
+ContextMenu_EvolvedRecipe_VFX_CocoaPuffsBowl: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:65; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:65
+ContextMenu_EvolvedRecipe_VFX_CornFlakesBowl: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:59; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:59
+ContextMenu_EvolvedRecipe_VFX_CurryPot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:54; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:54
+ContextMenu_EvolvedRecipe_VFX_CurryPotForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:55; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:55
+ContextMenu_EvolvedRecipe_VFX_CurrySaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:52; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:52
+ContextMenu_EvolvedRecipe_VFX_CurrySaucepanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:53; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:53
+ContextMenu_EvolvedRecipe_VFX_Enchilada: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:82; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:82
+ContextMenu_EvolvedRecipe_VFX_FettuccinePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:34; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:34
+ContextMenu_EvolvedRecipe_VFX_FettuccinePotForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:35; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:35
+ContextMenu_EvolvedRecipe_VFX_FettuccineSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:32; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:32
+ContextMenu_EvolvedRecipe_VFX_FettuccineSaucepanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:33; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:33
+ContextMenu_EvolvedRecipe_VFX_FriedRice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:86; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:86
+ContextMenu_EvolvedRecipe_VFX_FriedRiceForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:87; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:87
+ContextMenu_EvolvedRecipe_VFX_FrostyCrunchBowl: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:61; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:61
+ContextMenu_EvolvedRecipe_VFX_FruityLoopsBowl: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:62; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:62
+ContextMenu_EvolvedRecipe_VFX_GnocchiPot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:44; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:44
+ContextMenu_EvolvedRecipe_VFX_GnocchiPotForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:45; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:45
+ContextMenu_EvolvedRecipe_VFX_GnocchiSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:42; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:42
+ContextMenu_EvolvedRecipe_VFX_GnocchiSaucepanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:43; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:43
+ContextMenu_EvolvedRecipe_VFX_HoneyOatyOsBowl: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:58; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:58
+ContextMenu_EvolvedRecipe_VFX_JasmineRicePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_EvolvedRecipe_VFX_JasmineRicePotForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+ContextMenu_EvolvedRecipe_VFX_JasmineRiceSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_EvolvedRecipe_VFX_JasmineRiceSaucepanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_EvolvedRecipe_VFX_Lasagna: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:25; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:25
+ContextMenu_EvolvedRecipe_VFX_MacaroniPot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:29; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:29
+ContextMenu_EvolvedRecipe_VFX_MacaroniPotForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:30; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:30
+ContextMenu_EvolvedRecipe_VFX_MacaroniSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:27; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:27
+ContextMenu_EvolvedRecipe_VFX_MacaroniSaucepanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:28; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:28
+ContextMenu_EvolvedRecipe_VFX_Meatloaf: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:76; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:76
+ContextMenu_EvolvedRecipe_VFX_Milkshake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:84; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:84
+ContextMenu_EvolvedRecipe_VFX_Nachos: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:80; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:80
+ContextMenu_EvolvedRecipe_VFX_OatyOsBowl: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:57; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:57
+ContextMenu_EvolvedRecipe_VFX_PennePot: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:39; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:39
+ContextMenu_EvolvedRecipe_VFX_PennePotForged: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:40; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:40
+ContextMenu_EvolvedRecipe_VFX_PenneSaucepan: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:37; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:37
+ContextMenu_EvolvedRecipe_VFX_PenneSaucepanCopper: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:38; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:38
+ContextMenu_EvolvedRecipe_VFX_Quesadilla: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:81; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:81
+ContextMenu_EvolvedRecipe_VFX_Quiche: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:79; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:79
+ContextMenu_EvolvedRecipe_VFX_RiceKrispsBowl: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:60; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:60
+ContextMenu_EvolvedRecipe_VFX_ScallopedPotatoBake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:78; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:78
+ContextMenu_EvolvedRecipe_VFX_Sushi: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:85; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:85
+ContextMenu_EvolvedRecipe_VFX_UnluckyCharmsBowl: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:63; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:63
+ContextMenu_EvolvedRecipe_VFX_WheatiesBowl: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:66; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:66
+ContextMenu_Examine: cjspkmntradingcards:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Fill_Gasoline_Storage_Tank_From_Fuel_Truck: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22
+ContextMenu_Fill_Gasoline_Storage_Tank_From_Pump: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:21
+ContextMenu_FireMode_22355676239Auto: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_FireMode_22355676239Single: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_FireMode_308762Auto: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_FireMode_308762Single: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8
+ContextMenu_FireMode_DoubleBarrel: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:19
+ContextMenu_FireMode_MAC10Auto: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_FireMode_MAC10Single: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_FireMode_MGAuto: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+ContextMenu_FireMode_MGSingle: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14
+ContextMenu_FireMode_SMGAuto: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:15
+ContextMenu_FireMode_SMGSingle: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16
+ContextMenu_FireMode_UZIAuto: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17
+ContextMenu_FireMode_UZISingle: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:18
+ContextMenu_FoodType_Pasta: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:94; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:94
+ContextMenu_For_get_Gasoline_Need_Gas_Can: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:24
+ContextMenu_Forward: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:28; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:28; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:28
+ContextMenu_Fuel_Left: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:70; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:60
+ContextMenu_GenomeUI: AnimalGenome:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_GetInToRV: modPROJECTRVInterior:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_GetOutFromRV: modPROJECTRVInterior:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_GetWeatherForecast: hephasstalkerpda:media/lua/shared/Translate/EN/ContextMenu_EN.txt:8; hephasstalkerpda:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_GrabTrolley: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:91
+ContextMenu_HatsOnHats: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:19; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:19
+ContextMenu_High: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:22; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22
+ContextMenu_HighBeams: Nep High Beams:42.9/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_HighBeamsTurnOff: Nep High Beams:42.9/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_HighBeamsTurnOn: Nep High Beams:42.9/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_InsertBulletsInMagazine: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_InstallProstFootLeft: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:25
+ContextMenu_InstallProstFootRight: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:24
+ContextMenu_InstallProstLeft: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23
+ContextMenu_InstallProstLegLeft: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:27
+ContextMenu_InstallProstLegRight: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:26
+ContextMenu_InstallProstRight: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22
+ContextMenu_Interact: hephasstalkerpda:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; hephasstalkerpda:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_JacketOpen: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:31; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:31; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:31
+ContextMenu_JacketOpenRolledUpSleeves: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:32; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:32; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:32
+ContextMenu_JacketRolledUpSleeves: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:33; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:33; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:33
+ContextMenu_Kposter_LookPoster: korkuluk's poster tube:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_LaunchBoat: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:45
+ContextMenu_LaunchVehicle: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_Lavado_rapido: ModTemplate:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Lie: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:81
+ContextMenu_Lift_Bags: attach-bag-to-sheet-rope:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_Limb_Foot_L: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_Limb_Foot_R: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:18
+ContextMenu_Limb_ForeArm_L: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_Limb_ForeArm_R: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16
+ContextMenu_Limb_Hand_L: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_Limb_Hand_R: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:15
+ContextMenu_Limb_LowerLeg_L: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+ContextMenu_Limb_LowerLeg_R: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:19
+ContextMenu_Limb_UpperArm_L: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_Limb_UpperArm_R: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17
+ContextMenu_Limb_UpperLeg_L: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14
+ContextMenu_Limb_UpperLeg_R: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20
+ContextMenu_Load: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_LoadBoatOntoTrailer: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:47
+ContextMenu_LoadVehicle: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_LoadVehicleOntoTrailer: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8
+ContextMenu_Long: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_Loosen: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Low: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:23; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23
+ContextMenu_LowerBack: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_Missing: VehicleRecycling:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_MorePlushies_OpenBinder: moreplushies:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_NoBelts: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:22; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22
+ContextMenu_NoSleepTooEarly_Mattress: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:18
+ContextMenu_NoVehicleDetected: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8
+ContextMenu_OnBack: legendaryduffelbag:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_OnSleep: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:82
+ContextMenu_Open: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:9; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_OpenDoor: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8
+ContextMenu_OpenHoodDown: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:5; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_OpenHoodUp: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_OpenJacket: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_OpenRollDown: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:13; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+ContextMenu_OpenRollUp: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:12; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_OpenTent: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:27
+ContextMenu_OpenTuningMenu: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_Open_Cabin: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:60
+ContextMenu_Open_Cabin_Force: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:61
+ContextMenu_Open_Cabin_Force_Need_Crowbar: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:62
+ContextMenu_Open_trunk: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:74
+ContextMenu_Over: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:25; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:25; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:25
+ContextMenu_P4TidyUpMeister_ToDoNotReequip: P4TidyUpMeister:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; P4TidyUpMeister:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_P4TidyUpMeister_ToDoReequip: P4TidyUpMeister:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; P4TidyUpMeister:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_PainNoSleep_Mattress: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16
+ContextMenu_PanicNoSleep_Mattress: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17
+ContextMenu_PickLock: simplelockpicking:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; simplelockpicking:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_PlayArcade: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_PlayNostalgicSong: hephasstalkerpda:media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; hephasstalkerpda:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_PlayPinball: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_Play_music: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:86
+ContextMenu_PrestSaverSaveButton: SandboxPresetSaver:42.0/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_ProjectArcade_ClawPrizeWon: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:21
+ContextMenu_ProjectArcade_HighScoreFemale: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14
+ContextMenu_ProjectArcade_HighScoreFemale_NoName: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:15
+ContextMenu_ProjectArcade_HighScoreMale: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_ProjectArcade_HighScoreMale_NoName: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_ProjectArcade_Mood_BoredomDown: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:26
+ContextMenu_ProjectArcade_Mood_BoredomUp: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:27
+ContextMenu_ProjectArcade_Mood_StressDown: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:30
+ContextMenu_ProjectArcade_Mood_StressUp: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:31
+ContextMenu_ProjectArcade_Mood_UnhappinessDown: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:28
+ContextMenu_ProjectArcade_Mood_UnhappinessUp: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:29
+ContextMenu_ProjectArcade_NamePrize: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23
+ContextMenu_ProjectArcade_NewRecordFemale: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+ContextMenu_ProjectArcade_NewRecordMale: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_ProjectArcade_NoPrizeRegistered: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22
+ContextMenu_ProjectArcade_None: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17
+ContextMenu_ProjectArcade_NotEnoughCoins: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20
+ContextMenu_ProjectArcade_PlayClawMachine: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:19
+ContextMenu_ProjectArcade_PlayCoinPusher: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:33
+ContextMenu_ProjectArcade_PrizeFailed: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:24
+ContextMenu_ProjectArcade_PunchScore: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16
+ContextMenu_ProjectArcade_TryStrength: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8
+ContextMenu_ProjectArcade_ViewHighScore: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_PryDoor: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_PullVeilBack: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:32; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:30
+ContextMenu_PullVeilForward: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:33; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:31
+ContextMenu_PutOn: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:28; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:28; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:28
+ContextMenu_PutTourniquetArmLeft: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:29
+ContextMenu_PutTourniquetArmRight: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:31
+ContextMenu_PutTourniquetLegL: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:30
+ContextMenu_PutTourniquetLegR: cjstheonlycure:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:32
+ContextMenu_Put_Assigned_Containers: managecontainers:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; managecontainers:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Refuel_Chainsaw: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:40; authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:67; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:36; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:57
+ContextMenu_RemoveSail: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:40
+ContextMenu_Remove_Gasoline_From_Fuel_Truck: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23
+ContextMenu_Remove_Gasoline_From_Gasoline_Storage_Tank: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20
+ContextMenu_RetrieveFuel_Chainsaw: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:71; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:61
+ContextMenu_Ripshort: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:31; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:31; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:31
+ContextMenu_RollDown: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:11; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_RollUp: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_RollUpPants: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:37; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:37; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:37
+ContextMenu_SandboxOptions: B42SandboxOptions:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_SelectFloor: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_SetLeftSail: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:41
+ContextMenu_SetRightSail: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:42
+ContextMenu_ShirtFemale: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:26; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:26; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:26
+ContextMenu_ShirtMan: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:25; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:25; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:25
+ContextMenu_Short: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_ShowMap: hephasstalkerpda:media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; hephasstalkerpda:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_ShowMiniMap: hephasstalkerpda:media/lua/shared/Translate/EN/ContextMenu_EN.txt:5; hephasstalkerpda:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Sit: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:80
+ContextMenu_Sleep_Mattress: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:15
+ContextMenu_SlingfixStyle1: cjstwoweaponsonback:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_SlingfixStyle2: cjstwoweaponsonback:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_SlingfixStyle3: cjstwoweaponsonback:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_SlingfixStyle4: cjstwoweaponsonback:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_Slot: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_SmarterStorage_Copy: SmarterStorage:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_SmarterStorage_Edit: SmarterStorage:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; SmarterStorage:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_SmarterStorage_Paste: SmarterStorage:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_SmarterStorage_Presets: SmarterStorage:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; SmarterStorage:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_SmarterStorage_Reset: SmarterStorage:media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; SmarterStorage:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Snort: n&c's narcotics:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_Snort1Line: n&c's narcotics:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Song: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:88
+ContextMenu_Sound_carrier_not_install: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:87
+ContextMenu_Start_Chainsaw: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:38; authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:64; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:34; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:54
+ContextMenu_StepInFront: projectarcade:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_StopNostalgicSong: hephasstalkerpda:media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; hephasstalkerpda:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_Stop_Chainsaw: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:39; authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:65; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:35; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:55
+ContextMenu_Stop_music: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:85
+ContextMenu_Stopping_Chainsaw: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:66; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:56
+ContextMenu_SwapSides: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:34; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:32
+ContextMenu_SwimToLand: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:43
+ContextMenu_TABAS_AddBathSalt: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:50
+ContextMenu_TABAS_AddBathSaltNotAvailable: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:51
+ContextMenu_TABAS_BathSalt: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_TABAS_BathTemperature: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_TABAS_BodyGrime: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:27
+ContextMenu_TABAS_CanHot: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:18
+ContextMenu_TABAS_CanNotMixWater: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:48
+ContextMenu_TABAS_CleanTub: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:52
+ContextMenu_TABAS_CleanTub_Required: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:54
+ContextMenu_TABAS_CleanTub_ToEmpty: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:55
+ContextMenu_TABAS_CleanTub_tooltip: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:53
+ContextMenu_TABAS_CurrentTemperature: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:46
+ContextMenu_TABAS_CurrentlyUsing: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:19
+ContextMenu_TABAS_ElectricityRequired: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:25
+ContextMenu_TABAS_EmptyTubWater: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:37
+ContextMenu_TABAS_EmptyTubWaterStop: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:39
+ContextMenu_TABAS_EmptyTubWater_tooltip: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:38
+ContextMenu_TABAS_FaucetMenu: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_TABAS_FillTubWater: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:35
+ContextMenu_TABAS_FillTubWaterStop: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:36
+ContextMenu_TABAS_NotEnoughWater: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:21
+ContextMenu_TABAS_NotEnoughWaterTakeBath: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23
+ContextMenu_TABAS_NotEnoughWaterToFill: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22
+ContextMenu_TABAS_NotPiped: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20
+ContextMenu_TABAS_PlumbingCount: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_TABAS_PutTubStopper: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:31
+ContextMenu_TABAS_PutTubStopper_tooltip: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:32
+ContextMenu_TABAS_ReheatTubWater: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:40
+ContextMenu_TABAS_ReheatTubWaterStop: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:41
+ContextMenu_TABAS_RemoveTubStopper: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:33
+ContextMenu_TABAS_RemoveTubStopper_tooltip: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:34
+ContextMenu_TABAS_RequiredWater: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_TABAS_RevertTub: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:56
+ContextMenu_TABAS_SetTemperature: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:47
+ContextMenu_TABAS_SoapNoNeed: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17
+ContextMenu_TABAS_SoapRemain: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+ContextMenu_TABAS_SoapRequired: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14
+ContextMenu_TABAS_TakeBath: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_TABAS_TakeShowerCold: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_TABAS_TakeShowerHot: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_TABAS_TooHot: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:29
+ContextMenu_TABAS_TubFluidContainer: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:30
+ContextMenu_TABAS_TubFreeCapacity: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:44
+ContextMenu_TABAS_TubWaterAmount: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:43
+ContextMenu_TABAS_TubWaterDirty: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:24
+ContextMenu_TABAS_UseSoap: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:15
+ContextMenu_TABAS_UseTowel: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16
+ContextMenu_TABAS_WaterFromFaucet: take a bath and shower:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:45
+ContextMenu_TCConvertAppliance: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_TakeOffMask: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:24; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:24
+ContextMenu_TakeOffShoeCovers: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:22; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:22
+ContextMenu_TakeOffShoeCoversAndMask: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:23; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23
+ContextMenu_TakePill: n&c's narcotics:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_TearClothingAll: tearallclothes:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_TearClothingMenu: tearallclothes:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_TearClothingSelected: tearallclothes:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_TearClothingSurrounding: tearallclothes:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_TearClothingSurroundingBackpacks: tearallclothes:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Throw_Both: throw-your-bag-across:media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; throw-your-bag-across:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Throw_Both_Over: throw-your-bag-across:media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; throw-your-bag-across:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_Throw_Both_Through_Window: throw-your-bag-across:media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; throw-your-bag-across:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_Throw_Primary: throw-your-bag-across:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; throw-your-bag-across:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Throw_Primary_Over: throw-your-bag-across:media/lua/shared/Translate/EN/ContextMenu_EN.txt:8; throw-your-bag-across:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8
+ContextMenu_Throw_Primary_Through_Window: throw-your-bag-across:media/lua/shared/Translate/EN/ContextMenu_EN.txt:5; throw-your-bag-across:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_Throw_Secondary: throw-your-bag-across:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; throw-your-bag-across:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_Throw_Secondary_Over: throw-your-bag-across:media/lua/shared/Translate/EN/ContextMenu_EN.txt:9; throw-your-bag-across:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_Throw_Secondary_Through_Window: throw-your-bag-across:media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; throw-your-bag-across:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_TieBonnet: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:56; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:48
+ContextMenu_TieOnWaist: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:16; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16
+ContextMenu_Tight: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:29; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:29; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:29
+ContextMenu_Tighten: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_TipHatBack: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:27; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:27
+ContextMenu_TipHatForward: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:28; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:28
+ContextMenu_TrailerSpotlightOff: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:76
+ContextMenu_TrailerSpotlightOn: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:75
+ContextMenu_Tuck: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:17; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:17
+ContextMenu_TuckIn: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:8; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8
+ContextMenu_TuckOut: 2 - spongies clothing expansion:media/lua/shared/Translate/EN/ContextMenu_EN.txt:9; 2 - spongies clothing expansion:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_TuckPants: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:38; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:38; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:38
+ContextMenu_Turn_On_Generator: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:77
+ContextMenu_UnButton: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:19; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:19; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:19
+ContextMenu_Under: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:26; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:26; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:26
+ContextMenu_Unjam_Chainsaw: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:41; authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:68; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:37; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:58
+ContextMenu_UntieBonnet: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:55; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:47
+ContextMenu_Untuck: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:16; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:16
+ContextMenu_Unzip: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:13; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+ContextMenu_Unzip2: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:14; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14
+ContextMenu_Up: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:34; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:34; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:34
+ContextMenu_UpHoodieOpen: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:35; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:35; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:35
+ContextMenu_UpHoodieS: militaryponchosreloaded:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Uses: VehicleRecycling:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_Vac9_Disable_Purify: Super Rain Collector:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_Vac9_Enable_Purify: Super Rain Collector:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_Vac9_Need_PipeWrench: Super Rain Collector:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_VehicleManualStarterDamage: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:52
+ContextMenu_VehicleRecycling_RemoveTrailer: VehicleRecycling:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_VehicleRecycling_RemoveVehicle: VehicleRecycling:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_VehicleSlots: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_VehicleStartEngineManual: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:51
+ContextMenu_Vehicle_EGNH: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:69
+ContextMenu_Vehicle_For_Smashwindow_Uninstall_Protection: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:29
+ContextMenu_Vehicle_STRAYS: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:70
+ContextMenu_VestBag: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:9; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_VestBullet: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_VestRadio: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:11; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_WP_AddCharcoal: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_WP_FixPump: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:9
+ContextMenu_WP_FixPumpNoMaterial: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+ContextMenu_WP_FixPumpPerfect: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+ContextMenu_WP_FixPumpTurnOn: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_WP_Flow: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:8
+ContextMenu_WP_FlowmeterInfo: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_WP_PumpInfo: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_WP_Type: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_WP_ValveClose: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_WP_ValveOpen: waterpipes:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; waterpipes:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_Wash_fast: ModTemplate:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_Water_required: ModTemplate:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_Wear1XL: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:58; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:50
+ContextMenu_Wear1XS: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:57; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:49
+ContextMenu_Wear2XL: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:59; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:51
+ContextMenu_Wear3XL: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:60; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:52
+ContextMenu_WearBoth: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_WearHead: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:13; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+ContextMenu_WearHigher: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:46; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:40
+ContextMenu_WearLeft: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:49; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:43; tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:2
+ContextMenu_WearLower: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:47; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:41
+ContextMenu_WearNeck: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:14; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14
+ContextMenu_WearNormally: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:20; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:20
+ContextMenu_WearNormally2: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:25; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:25
+ContextMenu_WearRight: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:48; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:42; tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_WearSideways: authentic z - current:media/lua/shared/Translate/EN/ContextMenu_EN.txt:52; authentic z - current:42/media/lua/shared/Translate/EN/ContextMenu_EN.txt:45
+ContextMenu_WithBelts: kattaj1 clothes core:media/lua/shared/Translate/EN/ContextMenu_EN.txt:23; kattaj1 clothes core:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23; kattaj1 clothes core:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:23
+ContextMenu_Wooden_Pantone: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:58
+ContextMenu_Zip: tomb's wardrobe - alternative - vanilla:media/lua/shared/Translate/EN/ContextMenu_EN.txt:12; tomb's wardrobe - alternative - vanilla:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12; tomb's wardrobe - alternative - vanilla:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+ContextMenu_bind_boat: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:55
+ContextMenu_cabinForceUnlock_tooBored: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:65
+ContextMenu_cabinForceUnlock_tooTired: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:64
+ContextMenu_cabinForceUnlock_tooUnhappy: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:66
+ContextMenu_climbIntoElevator: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:6
+ContextMenu_climbLadderTo: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:7
+ContextMenu_currentFloor: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:3
+ContextMenu_resetElevator: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:4
+ContextMenu_resetElevatorButtons: gun's elevator:42.12/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5; gun's elevator:42.13/media/lua/shared/Translate/EN/ContextMenu_EN.txt:5
+ContextMenu_set_anchor_off: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:54
+ContextMenu_set_anchor_on: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:53
+ContextMenu_unbind_boat: tsarslib:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:56
+IG_VehicleSlot_1: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:10
+IG_VehicleSlot_2: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:11
+IG_VehicleSlot_3: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:12
+IG_VehicleSlot_Empty: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:13
+IG_VehicleSlot_NoVehicle: rsemitruck:common/media/lua/shared/Translate/EN/ContextMenu_EN.txt:14

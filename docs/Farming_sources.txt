@@ -1,0 +1,5 @@
+Farming_AK: n&c's narcotics:42/media/lua/shared/Translate/EN/Farming_EN.txt:5
+Farming_Coca: n&c's narcotics:42/media/lua/shared/Translate/EN/Farming_EN.txt:6
+Farming_NorthernLights: n&c's narcotics:42/media/lua/shared/Translate/EN/Farming_EN.txt:4
+Farming_Opium: n&c's narcotics:42/media/lua/shared/Translate/EN/Farming_EN.txt:7
+Farming_SourDiesel: n&c's narcotics:42/media/lua/shared/Translate/EN/Farming_EN.txt:3

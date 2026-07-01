@@ -2522,8 +2522,8 @@ IGUI_VehiclePartTrunkHatch: 97bushmaster:media/lua/shared/Translate/EN/IG_UI_EN.
 IGUI_VehiclePartTrunkLeft: rsemitruck:common/media/lua/shared/Translate/EN/IG_UI_EN.txt:16
 IGUI_VehiclePartTrunkToolbox: rsemitruck:common/media/lua/shared/Translate/EN/IG_UI_EN.txt:11
 IGUI_VehiclePartWheelsProtection: tsarslib:common/media/lua/shared/Translate/EN/IG_UI_EN.txt:501
-IGUI_VehiclePartWindowBackLeft: 91range:media/lua/shared/Translate/EN/IG_UI_EN.txt:23; damnlib:media/lua/shared/Translate/EN/IG_UI_EN.txt:3; damnlib:42.0/media/lua/shared/Translate/EN/IG_UI_EN.txt:2; damnlib:42.13/media/lua/shared/Translate/EN/IG_UI_EN.txt:2
-IGUI_VehiclePartWindowBackRight: 91range:media/lua/shared/Translate/EN/IG_UI_EN.txt:24; damnlib:media/lua/shared/Translate/EN/IG_UI_EN.txt:4; damnlib:42.0/media/lua/shared/Translate/EN/IG_UI_EN.txt:3; damnlib:42.13/media/lua/shared/Translate/EN/IG_UI_EN.txt:3
+IGUI_VehiclePartWindowBackLeft: damnlib:media/lua/shared/Translate/EN/IG_UI_EN.txt:3; damnlib:42.0/media/lua/shared/Translate/EN/IG_UI_EN.txt:2; damnlib:42.13/media/lua/shared/Translate/EN/IG_UI_EN.txt:2; 91range:media/lua/shared/Translate/EN/IG_UI_EN.txt:23
+IGUI_VehiclePartWindowBackRight: damnlib:media/lua/shared/Translate/EN/IG_UI_EN.txt:4; damnlib:42.0/media/lua/shared/Translate/EN/IG_UI_EN.txt:3; damnlib:42.13/media/lua/shared/Translate/EN/IG_UI_EN.txt:3; 91range:media/lua/shared/Translate/EN/IG_UI_EN.txt:24
 IGUI_VehiclePartWindowMiddleLeft: damnlib:media/lua/shared/Translate/EN/IG_UI_EN.txt:5; damnlib:42.0/media/lua/shared/Translate/EN/IG_UI_EN.txt:4; damnlib:42.13/media/lua/shared/Translate/EN/IG_UI_EN.txt:4
 IGUI_VehiclePartWindowMiddleRight: damnlib:media/lua/shared/Translate/EN/IG_UI_EN.txt:6; damnlib:42.0/media/lua/shared/Translate/EN/IG_UI_EN.txt:5; damnlib:42.13/media/lua/shared/Translate/EN/IG_UI_EN.txt:5
 IGUI_VehiclePartWindowsFrontProtection: tsarslib:common/media/lua/shared/Translate/EN/IG_UI_EN.txt:502
