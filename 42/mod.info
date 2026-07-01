@@ -1,0 +1,5 @@
+name=CJS B42 Translation Compat
+id=cjsB42TranslationCompat
+description=Adds B42 JSON translation keys for active legacy sandbox options.
+poster=poster.png
+author=CJ Storrs
