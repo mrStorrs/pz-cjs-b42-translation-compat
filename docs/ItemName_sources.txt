@@ -4045,6 +4045,11 @@ ItemName_VFX.YellowCakePrep: vanilla foods expanded:42.12/media/lua/shared/Trans
 ItemName_VFX.YellowCakeSlice: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ItemName_EN.txt:873; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ItemName_EN.txt:873
 ItemName_VFX.ZebraCake: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ItemName_EN.txt:653; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ItemName_EN.txt:653
 ItemName_VFX.ZebraCakesBox: vanilla foods expanded:42.12/media/lua/shared/Translate/EN/ItemName_EN.txt:652; vanilla foods expanded:42.13/media/lua/shared/Translate/EN/ItemName_EN.txt:652
+ItemName_cjsSimpleBows.BookArchery1: cjsSimpleBows:42/media/lua/shared/Translate/EN/ItemName_EN.txt:2
+ItemName_cjsSimpleBows.BookArchery2: cjsSimpleBows:42/media/lua/shared/Translate/EN/ItemName_EN.txt:3
+ItemName_cjsSimpleBows.BookArchery3: cjsSimpleBows:42/media/lua/shared/Translate/EN/ItemName_EN.txt:4
+ItemName_cjsSimpleBows.BookArchery4: cjsSimpleBows:42/media/lua/shared/Translate/EN/ItemName_EN.txt:5
+ItemName_cjsSimpleBows.BookArchery5: cjsSimpleBows:42/media/lua/shared/Translate/EN/ItemName_EN.txt:6
 ItemName_pkmncards.001Bulbasaurcard: cjspkmntradingcards:42/media/lua/shared/Translate/EN/ItemName_EN.txt:3
 ItemName_pkmncards.002Ivysaurcard: cjspkmntradingcards:42/media/lua/shared/Translate/EN/ItemName_EN.txt:5
 ItemName_pkmncards.003Venusaurcard: cjspkmntradingcards:42/media/lua/shared/Translate/EN/ItemName_EN.txt:7

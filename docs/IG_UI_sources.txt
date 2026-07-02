@@ -2615,6 +2615,8 @@ IGUI_perks_Scavenging_Description: scavengingskill [b42]:42/media/lua/shared/Tra
 IGUI_perks_Side_L: cjstheonlycure:common/media/lua/shared/Translate/EN/IG_UI_EN.txt:8
 IGUI_perks_Side_R: cjstheonlycure:common/media/lua/shared/Translate/EN/IG_UI_EN.txt:6
 IGUI_perks_Vehicle: drivingskill [b42]:42/media/lua/shared/Translate/EN/IG_UI_EN.txt:3
+IGUI_perks_cjsArchery: cjsSimpleBows:42/media/lua/shared/Translate/EN/IG_UI_EN.txt:2
+IGUI_perks_cjsArchery_Description: cjsSimpleBows:42/media/lua/shared/Translate/EN/IG_UI_EN.txt:3
 IGUI_perks_cjsArmorWearing: cjsarmorwearingskill:media/lua/shared/Translate/EN/IG_UI_EN.txt:2; cjsarmorwearingskill:42/media/lua/shared/Translate/EN/IG_UI_EN.txt:2
 IGUI_perks_cjsArmorWearing_Description: cjsarmorwearingskill:media/lua/shared/Translate/EN/IG_UI_EN.txt:3; cjsarmorwearingskill:42/media/lua/shared/Translate/EN/IG_UI_EN.txt:3
 IGUI_playerCanSwim: tsarslib:common/media/lua/shared/Translate/EN/IG_UI_EN.txt:341

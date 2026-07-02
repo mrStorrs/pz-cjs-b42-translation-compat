@@ -10,7 +10,7 @@ from pathlib import Path
 
 LIVE_MODS_ROOT = Path("/media/cjstorrs/windows/Users/cjsto/Zomboid/mods")
 SAVE_MODS = Path(
-    "/media/cjstorrs/windows/Users/cjsto/Zomboid/Saves/Sandbox/2026-06-30_23-36-46/mods.txt"
+    "/media/cjstorrs/windows/Users/cjsto/Zomboid/Saves/Sandbox/2026-06-27_21-27-42/mods.txt"
 )
 DEFAULT_MODS = Path("/media/cjstorrs/windows/Users/cjsto/Zomboid/mods/default.txt")
 
@@ -64,6 +64,14 @@ def active_roots(active_ids: list[str]) -> list[Path]:
             load_index = min(active_order[mod_id] for mod_id in matched_ids)
             roots.append((load_index, root.name.lower(), root))
     return [root for _, _, root in sorted(roots)]
+
+
+def default_ids_in_save_order(save_ids: list[str], default_ids: list[str]) -> list[str]:
+    default_set = set(default_ids)
+    save_set = set(save_ids)
+    ordered_ids = [mod_id for mod_id in save_ids if mod_id in default_set]
+    ordered_ids.extend(mod_id for mod_id in default_ids if mod_id not in save_set)
+    return ordered_ids
 
 
 def strip_lua_comment(line: str) -> str:
@@ -162,6 +170,53 @@ def iter_legacy_files(root: Path, category: str) -> list[Path]:
     return sorted(files, key=lambda p: file_sort_key(p.relative_to(root)))
 
 
+def iter_sandbox_option_files(root: Path) -> list[Path]:
+    files = []
+    for path in root.rglob("sandbox-options.txt"):
+        rel = path.relative_to(root)
+        rel_posix = rel.as_posix().lower()
+        if rel_posix.endswith("media/sandbox-options.txt"):
+            files.append(path)
+    return sorted(files, key=lambda p: file_sort_key(p.relative_to(root)))
+
+
+def humanize_translation_key(key: str) -> str:
+    text = re.sub(r"^[A-Za-z0-9]+_", "", key)
+    text = text.replace("_", " ")
+    text = re.sub(r"(?<=[a-z0-9])(?=[A-Z])", " ", text)
+    text = re.sub(r"(?<=[A-Z])(?=[A-Z][a-z])", " ", text)
+    text = re.sub(r"(?<=[A-Za-z])(?=\d)", " ", text)
+    text = re.sub(r"(?<=\d)(?=[A-Za-z])", " ", text)
+    return re.sub(r"\s+", " ", text).strip() or key
+
+
+def add_sandbox_option_fallbacks(
+    entries: dict[str, str],
+    key_sources: dict[str, list[str]],
+    roots: list[Path],
+) -> None:
+    option_re = re.compile(r"option\s+([^\s]+)\s*\{(.*?)\}", re.DOTALL)
+    translation_re = re.compile(r"translation\s*=\s*([A-Za-z0-9_]+)\s*,")
+
+    for root in roots:
+        for path in iter_sandbox_option_files(root):
+            rel_source = f"{root.name}:{path.relative_to(root).as_posix()}"
+            text = path.read_text(encoding="utf-8-sig", errors="replace")
+            for match in option_re.finditer(text):
+                translation_match = translation_re.search(match.group(2))
+                if not translation_match:
+                    continue
+                translation = translation_match.group(1)
+                key = f"Sandbox_{translation}"
+                if key in entries:
+                    continue
+                line_number = text.count("\n", 0, match.start()) + 1
+                entries[key] = humanize_translation_key(translation)
+                key_sources.setdefault(key, []).append(
+                    f"{rel_source}:{line_number} (sandbox-options fallback)"
+                )
+
+
 def discover_categories(roots: list[Path]) -> list[str]:
     categories: set[str] = set()
     for root in roots:
@@ -223,6 +278,9 @@ def build_category(category: str, roots: list[Path], output_root: Path) -> None:
                 key_sources.setdefault(key, []).append(location)
             skipped.extend(file_skipped)
 
+    if category == "Sandbox":
+        add_sandbox_option_fallbacks(entries, key_sources, roots)
+
     translate_dir = output_root / "42/media/lua/shared/Translate/EN"
     docs_dir = output_root / "docs"
     translate_dir.mkdir(parents=True, exist_ok=True)
@@ -268,9 +326,12 @@ def main() -> None:
     save_ids = parse_mod_list(SAVE_MODS)
     default_ids = parse_mod_list(DEFAULT_MODS)
     if save_ids != default_ids:
-        raise SystemExit("latest save mods.txt does not match mods/default.txt")
+        print(
+            "latest save mods.txt does not match mods/default.txt; "
+            "using default membership in latest-save order"
+        )
 
-    roots = active_roots(save_ids)
+    roots = active_roots(default_ids_in_save_order(save_ids, default_ids))
     print(f"active roots: {len(roots)}")
     categories = args.categories or discover_categories(roots)
     categories = sorted({canonical_category(category) for category in categories if not ignored_category(category)})

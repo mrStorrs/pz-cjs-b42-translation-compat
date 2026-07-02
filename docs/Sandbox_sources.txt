@@ -517,6 +517,8 @@ Sandbox_ETW_AffinitySystemGainMultiplier_tooltip: cjsevolvingtraitsworld:common/
 Sandbox_ETW_AffinitySystemLoseDivider: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:17; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:13
 Sandbox_ETW_AffinitySystemLoseDivider_tooltip: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:18; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:14
 Sandbox_ETW_AffinitySystem_tooltip: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:19; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:12
+Sandbox_ETW_Artisan: cjsevolvingtraitsworld:42/media/sandbox-options.txt:852 (sandbox-options fallback)
+Sandbox_ETW_ArtisanSkill: cjsevolvingtraitsworld:42/media/sandbox-options.txt:859 (sandbox-options fallback)
 Sandbox_ETW_Asthmatic: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:21; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:26
 Sandbox_ETW_AsthmaticCounter: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:22; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:27
 Sandbox_ETW_AsthmaticCounter_tooltip: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:23; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:28
@@ -533,6 +535,8 @@ Sandbox_ETW_BaseballPlayer: cjsevolvingtraitsworld:common/media/lua/shared/Trans
 Sandbox_ETW_BaseballPlayerKills: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:37; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:43
 Sandbox_ETW_BaseballPlayerSkill: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:38; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:42
 Sandbox_ETW_Blacksmith: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:40
+Sandbox_ETW_Blacksmith2: cjsevolvingtraitsworld:42/media/sandbox-options.txt:950 (sandbox-options fallback)
+Sandbox_ETW_Blacksmith2Skill: cjsevolvingtraitsworld:42/media/sandbox-options.txt:957 (sandbox-options fallback)
 Sandbox_ETW_BlacksmithSkill: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:41
 Sandbox_ETW_BlacksmithSkill_tooltip: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:42
 Sandbox_ETW_BladeEnthusiast: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:44
@@ -580,6 +584,8 @@ Sandbox_ETW_Conspicuous: cjsevolvingtraitsworld:common/media/lua/shared/Translat
 Sandbox_ETW_ConspicuousSkill: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:94; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:92
 Sandbox_ETW_Cook: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:96; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:94
 Sandbox_ETW_CookSkill: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:97; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:95
+Sandbox_ETW_Crafty: cjsevolvingtraitsworld:42/media/sandbox-options.txt:1105 (sandbox-options fallback)
+Sandbox_ETW_CraftySkill: cjsevolvingtraitsworld:42/media/sandbox-options.txt:1112 (sandbox-options fallback)
 Sandbox_ETW_DelayedTraitsSystem: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:99; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:97
 Sandbox_ETW_DelayedTraitsSystemDefaultDelay: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:100; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:99
 Sandbox_ETW_DelayedTraitsSystemDefaultDelay_tooltip: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:101; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:100
@@ -615,6 +621,11 @@ Sandbox_ETW_FoodSicknessSystemCounter: cjsevolvingtraitsworld:common/media/lua/s
 Sandbox_ETW_FoodSicknessSystemCounter_tooltip: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:137; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:132
 Sandbox_ETW_FoodSicknessSystemNormalSicknessMultiplier: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:138; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:133
 Sandbox_ETW_FoodSicknessSystemNormalSicknessMultiplier_tooltip: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:139; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:134
+Sandbox_ETW_FoodSystem: cjsevolvingtraitsworld:42/media/sandbox-options.txt:191 (sandbox-options fallback)
+Sandbox_ETW_FoodSystemGainNegativeThreshold: cjsevolvingtraitsworld:42/media/sandbox-options.txt:225 (sandbox-options fallback)
+Sandbox_ETW_FoodSystemGainPositiveThreshold: cjsevolvingtraitsworld:42/media/sandbox-options.txt:198 (sandbox-options fallback)
+Sandbox_ETW_FoodSystemLoseNegativeThreshold: cjsevolvingtraitsworld:42/media/sandbox-options.txt:216 (sandbox-options fallback)
+Sandbox_ETW_FoodSystemLosePositiveThreshold: cjsevolvingtraitsworld:42/media/sandbox-options.txt:207 (sandbox-options fallback)
 Sandbox_ETW_FurnitureAssembler: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:141; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:136
 Sandbox_ETW_FurnitureAssemblerSkill: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:142; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:137
 Sandbox_ETW_Gardener: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:144; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:142
@@ -688,6 +699,8 @@ Sandbox_ETW_LowProfileSkill: cjsevolvingtraitsworld:common/media/lua/shared/Tran
 Sandbox_ETW_LuckSystem: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:229; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:231
 Sandbox_ETW_LuckSystemSkill: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:230; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:232
 Sandbox_ETW_LuckSystemSkill_tooltip: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:231; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:233
+Sandbox_ETW_Mason: cjsevolvingtraitsworld:42/media/sandbox-options.txt:804 (sandbox-options fallback)
+Sandbox_ETW_MasonSkill: cjsevolvingtraitsworld:42/media/sandbox-options.txt:811 (sandbox-options fallback)
 Sandbox_ETW_Mechanics: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:233; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:18
 Sandbox_ETW_MechanicsRepairs: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:234; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:20
 Sandbox_ETW_MechanicsRepairs_tooltip: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:235; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:21
@@ -732,6 +745,7 @@ Sandbox_ETW_RestorationExpertChance_tooltip: cjsevolvingtraitsworld:common/media
 Sandbox_ETW_RestorationExpertSkill: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:281; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:262
 Sandbox_ETW_Runner: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:283; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:139
 Sandbox_ETW_RunnerSkill: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:284; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:140
+Sandbox_ETW_ServerLogs: cjsevolvingtraitsworld:42/media/sandbox-options.txt:60 (sandbox-options fallback)
 Sandbox_ETW_Sewer: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:286; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:266
 Sandbox_ETW_SewerSkill: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:287; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:267
 Sandbox_ETW_SewerUniqueClothesRipped: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:288; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:268
@@ -755,6 +769,15 @@ Sandbox_ETW_SojutsuSkill: cjsevolvingtraitsworld:media/lua/shared/Translate/EN/S
 Sandbox_ETW_StickFighter: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:306; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:290
 Sandbox_ETW_StickFighterKills: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:307; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:292
 Sandbox_ETW_StickFighterSkill: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:308; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:291
+Sandbox_ETW_TargetShooter: cjsevolvingtraitsworld:42/media/sandbox-options.txt:1552 (sandbox-options fallback)
+Sandbox_ETW_TargetShooterSkill: cjsevolvingtraitsworld:42/media/sandbox-options.txt:1559 (sandbox-options fallback)
+Sandbox_ETW_ThirstSystem: cjsevolvingtraitsworld:42/media/sandbox-options.txt:410 (sandbox-options fallback)
+Sandbox_ETW_ThirstSystemGainNegativeThreshold: cjsevolvingtraitsworld:42/media/sandbox-options.txt:444 (sandbox-options fallback)
+Sandbox_ETW_ThirstSystemGainPositiveThreshold: cjsevolvingtraitsworld:42/media/sandbox-options.txt:417 (sandbox-options fallback)
+Sandbox_ETW_ThirstSystemLoseNegativeThreshold: cjsevolvingtraitsworld:42/media/sandbox-options.txt:435 (sandbox-options fallback)
+Sandbox_ETW_ThirstSystemLosePositiveThreshold: cjsevolvingtraitsworld:42/media/sandbox-options.txt:426 (sandbox-options fallback)
+Sandbox_ETW_Tinkerer: cjsevolvingtraitsworld:42/media/sandbox-options.txt:1568 (sandbox-options fallback)
+Sandbox_ETW_TinkererSkill: cjsevolvingtraitsworld:42/media/sandbox-options.txt:1575 (sandbox-options fallback)
 Sandbox_ETW_TraitsLockSystemCanGainNegative: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:310; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:300
 Sandbox_ETW_TraitsLockSystemCanGainNegative_tooltip: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:311; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:301
 Sandbox_ETW_TraitsLockSystemCanGainPositive: cjsevolvingtraitsworld:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:312; cjsevolvingtraitsworld:media/lua/shared/Translate/EN/Sandbox_EN.txt:296
@@ -882,6 +905,9 @@ Sandbox_GunsElevator_elevatorSpeed: gun's elevator:42.12/media/lua/shared/Transl
 Sandbox_GunsElevator_elevatorSpeed_tooltip: gun's elevator:42.12/media/lua/shared/Translate/EN/Sandbox_EN.txt:6; gun's elevator:42.13/media/lua/shared/Translate/EN/Sandbox_EN.txt:6
 Sandbox_GunsElevator_loadGridSquare: gun's elevator:42.12/media/lua/shared/Translate/EN/Sandbox_EN.txt:20; gun's elevator:42.13/media/lua/shared/Translate/EN/Sandbox_EN.txt:20
 Sandbox_GunsElevator_loadGridSquare_tooltip: gun's elevator:42.12/media/lua/shared/Translate/EN/Sandbox_EN.txt:21; gun's elevator:42.13/media/lua/shared/Translate/EN/Sandbox_EN.txt:21
+Sandbox_HB_CustomIcons: hot_brass_visible_casing_ejection_framework:42/media/sandbox-options.txt:18 (sandbox-options fallback)
+Sandbox_HB_MultiplayerTick: hot_brass_visible_casing_ejection_framework:42/media/sandbox-options.txt:9 (sandbox-options fallback)
+Sandbox_HB_PermanentCasings: hot_brass_visible_casing_ejection_framework:42/media/sandbox-options.txt:2 (sandbox-options fallback)
 Sandbox_HSP: hephasstalkerpda:media/lua/shared/Translate/EN/Sandbox_EN.txt:3; hephasstalkerpda:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:3
 Sandbox_HSP_OnlyAllowPDAMap: hephasstalkerpda:media/lua/shared/Translate/EN/Sandbox_EN.txt:4; hephasstalkerpda:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:4
 Sandbox_HSP_OnlyAllowPDAMiniMap: hephasstalkerpda:media/lua/shared/Translate/EN/Sandbox_EN.txt:5; hephasstalkerpda:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:5
@@ -1380,6 +1406,7 @@ Sandbox_ProjectArcade_CoinDistZombiesPct: projectarcade:42.13/media/lua/shared/T
 Sandbox_ProjectArcade_CoinDistZombiesPct_tooltip: projectarcade:42.13/media/lua/shared/Translate/EN/Sandbox_EN.txt:29
 Sandbox_ProjectArcade_CurrencyFullType: projectarcade:42.13/media/lua/shared/Translate/EN/Sandbox_EN.txt:22
 Sandbox_ProjectArcade_CurrencyFullType_tooltip: projectarcade:42.13/media/lua/shared/Translate/EN/Sandbox_EN.txt:23
+Sandbox_ProjectArcade_DisableArcadeAmbientSound: projectarcade:common/media/sandbox-options.txt:34 (sandbox-options fallback)
 Sandbox_ProjectArcade_DisableDefaultPrizePool: projectarcade:42.13/media/lua/shared/Translate/EN/Sandbox_EN.txt:10
 Sandbox_ProjectArcade_DisableDefaultPrizePool_tooltip: projectarcade:42.13/media/lua/shared/Translate/EN/Sandbox_EN.txt:11
 Sandbox_ProjectArcade_ROMDistPct: projectarcade:42.13/media/lua/shared/Translate/EN/Sandbox_EN.txt:31
@@ -1815,9 +1842,13 @@ Sandbox_SuppInPolice_SuppRate: b42 rain's firearms & gun parts expanded:42/media
 Sandbox_SuppInPolice_SuppRate_tooltip: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:8
 Sandbox_SuppRate: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:2
 Sandbox_TOC: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:2
+Sandbox_TOC_Amputations: cjstheonlycure:common/media/sandbox-options.txt:17 (sandbox-options fallback)
 Sandbox_TOC_CicatrizationSpeed: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:3
 Sandbox_TOC_EnableZombieAmputations: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:7
 Sandbox_TOC_LowerLimbMovementXPMultiplier: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:6
+Sandbox_TOC_ProstFamiliarity: cjstheonlycure:common/media/sandbox-options.txt:2 (sandbox-options fallback)
+Sandbox_TOC_Side_L: cjstheonlycure:common/media/sandbox-options.txt:7 (sandbox-options fallback)
+Sandbox_TOC_Side_R: cjstheonlycure:common/media/sandbox-options.txt:12 (sandbox-options fallback)
 Sandbox_TOC_SurgeonAbilityImportance: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:5
 Sandbox_TOC_WoundDirtynessMultiplier: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:4
 Sandbox_TOC_ZombieAmputationDamageChance: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:9
@@ -1893,6 +1924,7 @@ Sandbox_TearAllClothing_MaxThread: tearallclothes:42/media/lua/shared/Translate/
 Sandbox_TearAllClothing_ReceiveThread: tearallclothes:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:3
 Sandbox_TearAllClothing_TailoringXP: tearallclothes:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:4
 Sandbox_Time_To_Cook: TimeToCook:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:2; TimeToCook:media/lua/shared/Translate/EN/Sandbox_EN.txt:2
+Sandbox_TooltipLib_EnableMPSync: TooltipLib:42/media/sandbox-options.txt:3 (sandbox-options fallback)
 Sandbox_UnseasonalWeather: Unseasonal Weather:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:3
 Sandbox_UnseasonalWeather_DailyEventChance: Unseasonal Weather:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:11
 Sandbox_UnseasonalWeather_DailyEventChance_tooltip: Unseasonal Weather:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:12
@@ -1907,6 +1939,7 @@ Sandbox_UnseasonalWeather_MinDuration_tooltip: Unseasonal Weather:42/media/lua/s
 Sandbox_VacMod12_AnimalRate: Carry More Animal:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:2
 Sandbox_VacMod12_CarryMoreAnimal: Carry More Animal:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:3
 Sandbox_VacMod12_EnableVehicle: Carry More Animal:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:4
+Sandbox_VacMod9_CapacityRatio: Super Rain Collector:42/media/sandbox-options.txt:3 (sandbox-options fallback)
 Sandbox_VacMod9_EnableSyncBarrel: Super Rain Collector:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:2
 Sandbox_VacMod9_SuperRainCollector: Super Rain Collector:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:3
 Sandbox_VacModUtils: Vac Mod Utils:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:2
@@ -1998,6 +2031,14 @@ Sandbox_VorpallySauced_TraitEffectStrength: vorpallysauced:42/media/lua/shared/T
 Sandbox_VorpallySauced_TraitEffectStrength_tooltip: vorpallysauced:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:69
 Sandbox_VorpallySauced_TraitNotifications: vorpallysauced:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:64
 Sandbox_VorpallySauced_TraitNotifications_tooltip: vorpallysauced:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:65
+Sandbox_WZDirector_MigrateCooldown: wandering-zombies-wip:42.15/media/sandbox-options.txt:777 (sandbox-options fallback)
+Sandbox_WZDirector_MigrateDistance: wandering-zombies-wip:42.15/media/sandbox-options.txt:767 (sandbox-options fallback)
+Sandbox_WZDirector_MigrateEnabled: wandering-zombies-wip:42.15/media/sandbox-options.txt:762 (sandbox-options fallback)
+Sandbox_WZDirector_MigrateZombieThreshold: wandering-zombies-wip:42.15/media/sandbox-options.txt:772 (sandbox-options fallback)
+Sandbox_WZDirector_PullEnabled: wandering-zombies-wip:42.15/media/sandbox-options.txt:742 (sandbox-options fallback)
+Sandbox_WZDirector_PullMaxRadius: wandering-zombies-wip:42.15/media/sandbox-options.txt:757 (sandbox-options fallback)
+Sandbox_WZDirector_PullMinRadius: wandering-zombies-wip:42.15/media/sandbox-options.txt:752 (sandbox-options fallback)
+Sandbox_WZDirector_PullUnseenTime: wandering-zombies-wip:42.15/media/sandbox-options.txt:747 (sandbox-options fallback)
 Sandbox_WZGroupTitle_Core: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:12; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:12
 Sandbox_WZGroupTitle_Merging: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:13; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:13
 Sandbox_WZGroupTitle_MovementAll: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:8; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:8
@@ -2041,15 +2082,29 @@ Sandbox_WZPerformance_SandboxVarsUpdateFreq_tooltip: wandering-zombies-wip:media
 Sandbox_WZPerformance_ZombieProcessLimit: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:191; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:191
 Sandbox_WZPerformance_ZombieProcessLimit_tooltip: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:192; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:192
 Sandbox_WZShared: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:5; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:5
+Sandbox_WZShared_ChebyshevDistance: wandering-zombies-wip:42.15/media/sandbox-options.txt:731 (sandbox-options fallback)
+Sandbox_WZShared_DumbZombiesExplore: wandering-zombies-wip:42.15/media/sandbox-options.txt:716 (sandbox-options fallback)
+Sandbox_WZShared_ExploreDestructive: wandering-zombies-wip:42.15/media/sandbox-options.txt:721 (sandbox-options fallback)
+Sandbox_WZShared_ForcePathfind: wandering-zombies-wip:42.15/media/sandbox-options.txt:726 (sandbox-options fallback)
+Sandbox_WZShared_ForcedExploreChance: wandering-zombies-wip:42.15/media/sandbox-options.txt:706 (sandbox-options fallback)
 Sandbox_WZShared_HoursSurvived: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:188; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:188
 Sandbox_WZShared_HoursSurvived_tooltip: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:189; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:189
 Sandbox_WZShared_MoveCooldownInitial: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:179; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:179
 Sandbox_WZShared_MoveCooldownInitial_tooltip: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:180; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:180
+Sandbox_WZShared_OutOfCellPaths: wandering-zombies-wip:42.15/media/sandbox-options.txt:686 (sandbox-options fallback)
+Sandbox_WZShared_OutOfCellThreshold: wandering-zombies-wip:42.15/media/sandbox-options.txt:691 (sandbox-options fallback)
+Sandbox_WZShared_RepeatExplore: wandering-zombies-wip:42.15/media/sandbox-options.txt:711 (sandbox-options fallback)
+Sandbox_WZShared_RoomExploreLimit: wandering-zombies-wip:42.15/media/sandbox-options.txt:701 (sandbox-options fallback)
 Sandbox_WZShared_TryStopVirtual: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:182; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:182
 Sandbox_WZShared_TryStopVirtual_tooltip: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:183; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:183
 Sandbox_WZShared_WanderForwards: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:185; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:185
 Sandbox_WZShared_WanderForwards_tooltip: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:186; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:186
 Sandbox_WanderingZombies: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:2; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:2
+Sandbox_WanderingZombies_ChanceDropdown: wandering-zombies-wip:42.15/media/sandbox-options.txt:31 (sandbox-options fallback)
+Sandbox_WanderingZombies_ChanceMax: wandering-zombies-wip:42.15/media/sandbox-options.txt:41 (sandbox-options fallback)
+Sandbox_WanderingZombies_CooldownHoursDropdown: wandering-zombies-wip:42.15/media/sandbox-options.txt:85 (sandbox-options fallback)
+Sandbox_WanderingZombies_CooldownHoursMax: wandering-zombies-wip:42.15/media/sandbox-options.txt:96 (sandbox-options fallback)
+Sandbox_WanderingZombies_CooldownHoursMin: wandering-zombies-wip:42.15/media/sandbox-options.txt:90 (sandbox-options fallback)
 Sandbox_WanderingZombies_Destructive: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:16; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:16
 Sandbox_WanderingZombies_Destructive_option1: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:18; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:18
 Sandbox_WanderingZombies_Destructive_option2: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:19; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:19
@@ -2130,6 +2185,13 @@ Sandbox_WanderingZombies_MoveCooldown: wandering-zombies-wip:media/lua/shared/Tr
 Sandbox_WanderingZombies_MoveCooldownRandom: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:26; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:26
 Sandbox_WanderingZombies_MoveCooldownRandom_tooltip: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:27; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:27
 Sandbox_WanderingZombies_MoveCooldown_tooltip: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:24; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:24
+Sandbox_WanderingZombies_RadiusDropdown: wandering-zombies-wip:42.15/media/sandbox-options.txt:178 (sandbox-options fallback)
+Sandbox_WanderingZombies_RadiusMax: wandering-zombies-wip:42.15/media/sandbox-options.txt:188 (sandbox-options fallback)
+Sandbox_WanderingZombies_StartHourDropdown: wandering-zombies-wip:42.15/media/sandbox-options.txt:53 (sandbox-options fallback)
+Sandbox_WanderingZombies_StartHourMax: wandering-zombies-wip:42.15/media/sandbox-options.txt:63 (sandbox-options fallback)
+Sandbox_WanderingZombies_TotalHoursDropdown: wandering-zombies-wip:42.15/media/sandbox-options.txt:69 (sandbox-options fallback)
+Sandbox_WanderingZombies_TotalHoursMax: wandering-zombies-wip:42.15/media/sandbox-options.txt:79 (sandbox-options fallback)
+Sandbox_WanderingZombies_TotalHoursMin: wandering-zombies-wip:42.15/media/sandbox-options.txt:74 (sandbox-options fallback)
 Sandbox_WanderingZombies_WanderChanceDropdown: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:35; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:35
 Sandbox_WanderingZombies_WanderChanceDropdown_option1: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:37; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:37
 Sandbox_WanderingZombies_WanderChanceDropdown_option2: wandering-zombies-wip:media/lua/shared/Translate/EN/Sandbox_EN.txt:38; wandering-zombies-wip:42.0/media/lua/shared/Translate/EN/Sandbox_EN.txt:38
@@ -2197,6 +2259,8 @@ Sandbox_pointblankhf_PointBlankUseExperimentalHitDetection: HF_PointBlankMod:med
 Sandbox_pointblankhf_PointBlankUseExperimentalHitDetection_tooltip: HF_PointBlankMod:media/lua/shared/Translate/EN/Sandbox_EN.txt:20; HF_PointBlankMod:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:20
 Sandbox_pointblankhf_PointBlankXpMultiplier: HF_PointBlankMod:media/lua/shared/Translate/EN/Sandbox_EN.txt:4; HF_PointBlankMod:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:4
 Sandbox_pointblankhf_PointBlankXpMultiplier_tooltip: HF_PointBlankMod:media/lua/shared/Translate/EN/Sandbox_EN.txt:5; HF_PointBlankMod:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:5
+Sandbox_rSemiTruck_AdminOnlyMoveUp: rsemitruck:common/media/sandbox-options.txt:9 (sandbox-options fallback)
+Sandbox_rSemiTruck_MilSpawnMultiplier: rsemitruck:common/media/sandbox-options.txt:3 (sandbox-options fallback)
 Sandbox_sts: SurvivingThroughSeasons:media/lua/shared/translate/en/Sandbox_EN.txt:2; SurvivingThroughSeasons:42.0/media/lua/shared/translate/en/Sandbox_EN.txt:2
 Sandbox_sts_MaxDaysInMonthFall: SurvivingThroughSeasons:media/lua/shared/translate/en/Sandbox_EN.txt:10; SurvivingThroughSeasons:42.0/media/lua/shared/translate/en/Sandbox_EN.txt:10
 Sandbox_sts_MaxDaysInMonthFall_tooltip: SurvivingThroughSeasons:media/lua/shared/translate/en/Sandbox_EN.txt:11; SurvivingThroughSeasons:42.0/media/lua/shared/translate/en/Sandbox_EN.txt:11

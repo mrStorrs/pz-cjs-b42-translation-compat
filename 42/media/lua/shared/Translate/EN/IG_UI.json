@@ -2616,6 +2616,8 @@
   "IGUI_perks_Side_L": "Left Upper",
   "IGUI_perks_Side_R": "Right Upper",
   "IGUI_perks_Vehicle": "Vehicles",
+  "IGUI_perks_cjsArchery": "Archery",
+  "IGUI_perks_cjsArchery_Description": "Improves accuracy, range, and critical hits with bows and crossbows.",
   "IGUI_perks_cjsArmorWearing": "CJS Armor wearing",
   "IGUI_perks_cjsArmorWearing_Description": "Reduces armor movement and combat speed penalties.",
   "IGUI_playerCanSwim": "You can swim.",
