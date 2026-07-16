@@ -89,6 +89,8 @@ Sandbox_BuildableGarageDoor: buildable-garage-doors:common/media/lua/shared/Tran
 Sandbox_CJSBackstabDamage: cjsBackstabDamage:media/lua/shared/Translate/EN/Sandbox_EN.txt:2; cjsBackstabDamage:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:2
 Sandbox_CJSBackstabDamage_DebugLogging: cjsBackstabDamage:media/lua/shared/Translate/EN/Sandbox_EN.txt:4; cjsBackstabDamage:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:4
 Sandbox_CJSBackstabDamage_DebugLogging_tooltip: cjsBackstabDamage:media/lua/shared/Translate/EN/Sandbox_EN.txt:5; cjsBackstabDamage:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:5
+Sandbox_CJSBackstabDamage_DownedInstantKillMaxRange: cjsBackstabDamage:media/lua/shared/Translate/EN/Sandbox_EN.txt:8; cjsBackstabDamage:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:8
+Sandbox_CJSBackstabDamage_DownedInstantKillMaxRange_tooltip: cjsBackstabDamage:media/lua/shared/Translate/EN/Sandbox_EN.txt:9; cjsBackstabDamage:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:9
 Sandbox_CJSBackstabDamage_InstantKillDowned: cjsBackstabDamage:media/lua/shared/Translate/EN/Sandbox_EN.txt:6; cjsBackstabDamage:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:6
 Sandbox_CJSBackstabDamage_InstantKillDowned_tooltip: cjsBackstabDamage:media/lua/shared/Translate/EN/Sandbox_EN.txt:7; cjsBackstabDamage:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:7
 Sandbox_CJSCorpseDragStamina: cjsCorpseDragStamina:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:2
