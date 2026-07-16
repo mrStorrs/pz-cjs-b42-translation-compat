@@ -291,6 +291,40 @@ UI_EatSmart_goalProteins1Value_tooltip: EatSmart:media/lua/shared/Translate/EN/U
 UI_EatSmart_goalThirst0Enable: EatSmart:media/lua/shared/Translate/EN/UI_EN.txt:2; EatSmart:42/media/lua/shared/Translate/EN/UI_EN.txt:2
 UI_EatSmart_goalThirst0Enable_tooltip: EatSmart:media/lua/shared/Translate/EN/UI_EN.txt:3; EatSmart:42/media/lua/shared/Translate/EN/UI_EN.txt:3
 UI_Fuel_Remaining: authentic z - current:media/lua/shared/Translate/EN/UI_EN.txt:21; authentic z - current:42/media/lua/shared/Translate/EN/UI_EN.txt:21
+UI_InjuryIndicator_EnableHealNotify: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:36
+UI_InjuryIndicator_EnableHealNotify_Tooltip: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:37
+UI_InjuryIndicator_EnableInjureNotify: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:32
+UI_InjuryIndicator_EnableInjureNotify_Tooltip: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:33
+UI_InjuryIndicator_Foot_L: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:17
+UI_InjuryIndicator_Foot_R: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:18
+UI_InjuryIndicator_ForeArm_L: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:4
+UI_InjuryIndicator_ForeArm_R: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:5
+UI_InjuryIndicator_Groin: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:12
+UI_InjuryIndicator_Hand_L: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:2
+UI_InjuryIndicator_Hand_R: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:3
+UI_InjuryIndicator_Head: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:10
+UI_InjuryIndicator_HealSpeech0: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:26
+UI_InjuryIndicator_HealSpeech1: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:27
+UI_InjuryIndicator_HealSpeech2: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:28
+UI_InjuryIndicator_HealSpeech3: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:29
+UI_InjuryIndicator_HealSpeech4: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:30
+UI_InjuryIndicator_HurtSpeech0: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:20
+UI_InjuryIndicator_HurtSpeech1: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:21
+UI_InjuryIndicator_HurtSpeech2: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:22
+UI_InjuryIndicator_HurtSpeech3: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:23
+UI_InjuryIndicator_HurtSpeech4: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:24
+UI_InjuryIndicator_LowerLeg_L: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:15
+UI_InjuryIndicator_LowerLeg_R: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:16
+UI_InjuryIndicator_Neck: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:11
+UI_InjuryIndicator_SpeechSwitch: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:34
+UI_InjuryIndicator_SpeechSwitch_Tooltip: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:35
+UI_InjuryIndicator_StitchesReady: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:38
+UI_InjuryIndicator_Torso_Lower: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:9
+UI_InjuryIndicator_Torso_Upper: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:8
+UI_InjuryIndicator_UpperArm_L: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:6
+UI_InjuryIndicator_UpperArm_R: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:7
+UI_InjuryIndicator_UpperLeg_L: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:13
+UI_InjuryIndicator_UpperLeg_R: PainSense:42/media/lua/shared/Translate/EN/UI_EN.txt:14
 UI_KCComboTitle: KillCount:common/media/lua/shared/Translate/EN/UI_EN.txt:7; KillCount:media/lua/shared/Translate/EN/UI_EN.txt:7; KillCount:42.0/media/lua/shared/Translate/EN/UI_EN.txt:7
 UI_KCIncludeDead: KillCount:common/media/lua/shared/Translate/EN/UI_EN.txt:8; KillCount:media/lua/shared/Translate/EN/UI_EN.txt:8; KillCount:42.0/media/lua/shared/Translate/EN/UI_EN.txt:8
 UI_KillCount_car: KillCount:common/media/lua/shared/Translate/EN/UI_EN.txt:4; KillCount:media/lua/shared/Translate/EN/UI_EN.txt:4; KillCount:42.0/media/lua/shared/Translate/EN/UI_EN.txt:4
