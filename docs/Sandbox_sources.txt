@@ -1844,7 +1844,9 @@ Sandbox_SuppInPolice_SuppRate: b42 rain's firearms & gun parts expanded:42/media
 Sandbox_SuppInPolice_SuppRate_tooltip: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:8
 Sandbox_SuppRate: b42 rain's firearms & gun parts expanded:42/media/lua/shared/Translate/EN/Sandbox_EN.txt:2
 Sandbox_TOC: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:2
-Sandbox_TOC_Amputations: cjstheonlycure:common/media/sandbox-options.txt:17 (sandbox-options fallback)
+Sandbox_TOC_Amputations: cjstheonlycure:common/media/sandbox-options.txt:27 (sandbox-options fallback)
+Sandbox_TOC_Bottom_L: cjstheonlycure:common/media/sandbox-options.txt:17 (sandbox-options fallback)
+Sandbox_TOC_Bottom_R: cjstheonlycure:common/media/sandbox-options.txt:22 (sandbox-options fallback)
 Sandbox_TOC_CicatrizationSpeed: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:3
 Sandbox_TOC_EnableZombieAmputations: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:7
 Sandbox_TOC_LowerLimbMovementXPMultiplier: cjstheonlycure:common/media/lua/shared/Translate/EN/Sandbox_EN.txt:6
