@@ -8,11 +8,10 @@ import json
 import re
 from pathlib import Path
 
-LIVE_MODS_ROOT = Path("/media/cjstorrs/windows/Users/cjsto/Zomboid/mods")
-SAVE_MODS = Path(
-    "/media/cjstorrs/windows/Users/cjsto/Zomboid/Saves/Sandbox/2026-06-27_21-27-42/mods.txt"
-)
-DEFAULT_MODS = Path("/media/cjstorrs/windows/Users/cjsto/Zomboid/mods/default.txt")
+ZOMBOID_ROOT = Path("/home/cjstorrs/Zomboid")
+LIVE_MODS_ROOT = ZOMBOID_ROOT / "mods"
+SAVES_ROOT = ZOMBOID_ROOT / "Saves"
+DEFAULT_MODS = LIVE_MODS_ROOT / "default.txt"
 
 VALUE_RE = re.compile(r"^\s*(.+?)\s*=\s*([\"'])(.*)\2\s*[,，.]?\s*$")
 BARE_TRAILING_QUOTE_RE = re.compile(r"^\s*(.+?)\s*=\s*([^\"'].+?)[\"']\s*[,，.]?\s*$")
@@ -40,6 +39,13 @@ def parse_mod_list(path: Path) -> list[str]:
         if match:
             mod_ids.append(match.group(1).strip())
     return mod_ids
+
+
+def newest_save_mod_list() -> Path:
+    candidates = list(SAVES_ROOT.glob("*/*/mods.txt"))
+    if not candidates:
+        raise FileNotFoundError(f"no save mod lists found under {SAVES_ROOT}")
+    return max(candidates, key=lambda path: path.stat().st_mtime_ns)
 
 
 def parse_mod_info_ids(path: Path) -> set[str]:
@@ -323,7 +329,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    save_ids = parse_mod_list(SAVE_MODS)
+    save_ids = parse_mod_list(newest_save_mod_list())
     default_ids = parse_mod_list(DEFAULT_MODS)
     if save_ids != default_ids:
         print(
